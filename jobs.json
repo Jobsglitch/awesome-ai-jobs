@@ -1,0 +1,4170 @@
+{
+  "list": "staff-ai-jobs-with-pay",
+  "generated_at": "2026-11-23T17:56:20+00:00",
+  "jobs": [
+    {
+      "id": "6b0451f9992725a58fa50ce7",
+      "company": "Vena Solutions",
+      "title": "Staff Software Developer",
+      "locations": [
+        "Canada - Remote (0002)"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": null,
+        "annual_max": null,
+        "currency": "CAD",
+        "band": "100k-150k",
+        "min": 129200.0,
+        "max": 174800.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-23T14:47:20.951",
+      "last_checked_at": "2026-11-23T14:47:22.246",
+      "apply_url": "https://www.lifeatvena.com/en/postings/a5f2b7d1-2453-4407-a949-02dd3bd41f78",
+      "job_url": "https://jobsglitch.com/jobs/6b0451f9992725a58fa50ce7",
+      "source": "pinpoint"
+    },
+    {
+      "id": "6b04757b992725a58fae607a",
+      "company": "Hyperbolic",
+      "title": "Member of Technical Staff - Inference Infrastructure",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 230000,
+        "annual_max": 350000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 230000.0,
+        "max": 350000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-23T10:50:36.331",
+      "last_checked_at": "2026-11-23T17:18:51.084",
+      "apply_url": "https://jobs.ashbyhq.com/hyperbolic/a7d51b64-c8ef-4386-8b3e-c7b391cfa582",
+      "job_url": "https://jobsglitch.com/jobs/6b04757b992725a58fae607a",
+      "source": "ashby"
+    },
+    {
+      "id": "6b04757b992725a58fae608e",
+      "company": "Hyperbolic",
+      "title": "Member of Technical Staff - Inference Optimization",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 230000,
+        "annual_max": 350000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 230000.0,
+        "max": 350000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-23T10:33:06.801",
+      "last_checked_at": "2026-11-23T17:18:51.084",
+      "apply_url": "https://jobs.ashbyhq.com/hyperbolic/9fcd584f-ded7-4abf-ae3a-a740f0b9c782",
+      "job_url": "https://jobsglitch.com/jobs/6b04757b992725a58fae608e",
+      "source": "ashby"
+    },
+    {
+      "id": "6b03f32931087af55ed86aa3",
+      "company": "Airwallex",
+      "title": "Software Engineer, AI Tooling",
+      "locations": [
+        "US - San Francisco"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 200000,
+        "annual_max": 250000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 200000.0,
+        "max": 250000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-23T07:29:36.277",
+      "last_checked_at": "2026-11-23T11:33:00.125",
+      "apply_url": "https://jobs.ashbyhq.com/airwallex/bd91b283-8de0-41bd-aba4-8cae281808a7",
+      "job_url": "https://jobsglitch.com/jobs/6b03f32931087af55ed86aa3",
+      "source": "ashby"
+    },
+    {
+      "id": "6b03f18231087af55ed83b2b",
+      "company": "CivilGrid",
+      "title": "Senior/Staff Machine Learning Engineer",
+      "locations": [
+        "Boston"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 149405,
+        "annual_max": 246123,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 149405.0,
+        "max": 246123.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-23T06:50:02.021",
+      "last_checked_at": "2026-11-23T07:55:46.549",
+      "apply_url": "https://jobs.ashbyhq.com/civilgrid/826f6522-fc4c-4b2c-aac5-45056c9cb88b",
+      "job_url": "https://jobsglitch.com/jobs/6b03f18231087af55ed83b2b",
+      "source": "ashby"
+    },
+    {
+      "id": "6b036f97b7186864610f7827",
+      "company": "Clera",
+      "title": "Member of Technical Staff",
+      "locations": [
+        "San Francisco"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 130000,
+        "annual_max": 220000,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 130000.0,
+        "max": 220000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-22T17:12:10.477",
+      "last_checked_at": "2026-11-23T11:10:58.336",
+      "apply_url": "https://jobs.ashbyhq.com/Clera/d93f6e7f-704f-4fd5-ab49-2b5221187f75",
+      "job_url": "https://jobsglitch.com/jobs/6b036f97b7186864610f7827",
+      "source": "ashby"
+    },
+    {
+      "id": "6b036f97b7186864610f7816",
+      "company": "Clera",
+      "title": "Founding Applied AI Engineer",
+      "locations": [
+        "United States",
+        "San Francisco"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 180000,
+        "annual_max": 230000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 180000.0,
+        "max": 230000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-22T17:02:22.162",
+      "last_checked_at": "2026-11-23T11:10:58.336",
+      "apply_url": "https://jobs.ashbyhq.com/Clera/2d1cadd3-9212-46cf-be7d-bb220dad8710",
+      "job_url": "https://jobsglitch.com/jobs/6b036f97b7186864610f7816",
+      "source": "ashby"
+    },
+    {
+      "id": "6b03252ea5fd61f498ce71e9",
+      "company": "XDOF",
+      "title": "Member of Technical Staff, Embodied Capabilities",
+      "locations": [
+        "San Mateo Hybrid"
+      ],
+      "countries": [
+        "Philippines"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 150000,
+        "annual_max": 280000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 150000.0,
+        "max": 280000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-22T12:10:11.029",
+      "last_checked_at": "2026-11-23T05:54:15.032",
+      "apply_url": "https://jobs.ashbyhq.com/XDOF/2d7a5135-f77d-4123-8de8-1b842cc15bb1",
+      "job_url": "https://jobsglitch.com/jobs/6b03252ea5fd61f498ce71e9",
+      "source": "ashby"
+    },
+    {
+      "id": "6b01f9a223dcbf6f18b63426",
+      "company": "Harvey",
+      "title": "Creative AI Engineer",
+      "locations": [
+        "San Francisco",
+        "New York"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 168400,
+        "annual_max": 252600,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 168400.0,
+        "max": 252600.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-21T17:44:35.163",
+      "last_checked_at": "2026-11-23T07:09:47.189",
+      "apply_url": "https://jobs.ashbyhq.com/harvey/e46d48b8-57c7-401c-be33-f56774dc072d",
+      "job_url": "https://jobsglitch.com/jobs/6b01f9a223dcbf6f18b63426",
+      "source": "ashby"
+    },
+    {
+      "id": "6b01eead23dcbf6f18b50553",
+      "company": "Clera",
+      "title": "Member of Technical Staff, Agents",
+      "locations": [
+        "Palo Alto"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 200000,
+        "annual_max": 300000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 200000.0,
+        "max": 300000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-21T17:18:29.519",
+      "last_checked_at": "2026-11-23T11:10:58.336",
+      "apply_url": "https://jobs.ashbyhq.com/Clera/e4d36f79-d932-42af-baba-498afe766efe",
+      "job_url": "https://jobsglitch.com/jobs/6b01eead23dcbf6f18b50553",
+      "source": "ashby"
+    },
+    {
+      "id": "6b01eead23dcbf6f18b5054b",
+      "company": "Clera",
+      "title": "Mid-Level AI Engineer",
+      "locations": [
+        "San Francisco"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 150000,
+        "annual_max": 180000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 150000.0,
+        "max": 180000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-21T17:17:55.891",
+      "last_checked_at": "2026-11-23T11:10:58.336",
+      "apply_url": "https://jobs.ashbyhq.com/Clera/5fdb38a1-7f61-4afb-80ed-481afc7938f4",
+      "job_url": "https://jobsglitch.com/jobs/6b01eead23dcbf6f18b5054b",
+      "source": "ashby"
+    },
+    {
+      "id": "6b0192ae23dcbf6f18a402fd",
+      "company": "Playlab",
+      "title": "Staff Platform Engineer",
+      "locations": [
+        "Remote"
+      ],
+      "countries": null,
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 180000,
+        "annual_max": 220000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 180000.0,
+        "max": 220000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-21T08:53:37.598",
+      "last_checked_at": "2026-11-22T22:47:07.346",
+      "apply_url": "https://jobs.ashbyhq.com/Playlab/a91ee3c2-0379-4c2c-8fd8-a42b9dbbf312",
+      "job_url": "https://jobsglitch.com/jobs/6b0192ae23dcbf6f18a402fd",
+      "source": "ashby"
+    },
+    {
+      "id": "6b0122f7c626fc9d72bfb58a",
+      "company": "Klue",
+      "title": "Senior Software Engineer, AI",
+      "locations": [
+        "Toronto, Ontario"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": null,
+        "annual_max": null,
+        "currency": "CAD",
+        "band": "100k-150k",
+        "min": 140000.0,
+        "max": 195000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-21T00:37:29.898",
+      "last_checked_at": "2026-11-23T01:05:28.754",
+      "apply_url": "https://jobs.ashbyhq.com/klue/8549ef8f-6126-41bd-b263-67f2ffc7e7b0",
+      "job_url": "https://jobsglitch.com/jobs/6b0122f7c626fc9d72bfb58a",
+      "source": "ashby"
+    },
+    {
+      "id": "6b0111c7c626fc9d72bba6fb",
+      "company": "CreatorIQ",
+      "title": "MLOps / DevOps Engineer – AI Infrastructure",
+      "locations": [
+        "New York",
+        "New Jersey",
+        "Los Angeles",
+        "San Francisco"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 121000,
+        "annual_max": 155000,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 121000.0,
+        "max": 155000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-20T23:24:46.160",
+      "last_checked_at": "2026-11-23T00:07:18.326",
+      "apply_url": "https://jobs.ashbyhq.com/creatoriq/5ab10a53-1772-470b-aef6-41bf16574412",
+      "job_url": "https://jobsglitch.com/jobs/6b0111c7c626fc9d72bba6fb",
+      "source": "ashby"
+    },
+    {
+      "id": "6b00f14dc626fc9d72b507ed",
+      "company": "G2",
+      "title": "Principal Applied Scientist",
+      "locations": [
+        "Remote (US)"
+      ],
+      "countries": null,
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 250000,
+        "annual_max": 300000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 250000.0,
+        "max": 300000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-20T20:59:24.064",
+      "last_checked_at": "2026-11-22T21:48:55.008",
+      "apply_url": "https://jobs.ashbyhq.com/G2/7ed340bb-ad26-4032-ab2d-34903a7be70c",
+      "job_url": "https://jobsglitch.com/jobs/6b00f14dc626fc9d72b507ed",
+      "source": "ashby"
+    },
+    {
+      "id": "6b00b3202253388919f835c6",
+      "company": "Gallatin",
+      "title": "Principal AI Engineer",
+      "locations": [
+        "El Segundo, CA",
+        "Washington, D.C.",
+        "Austin, TX",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 240000,
+        "annual_max": 310000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 240000.0,
+        "max": 310000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-20T20:34:25.092",
+      "last_checked_at": "2026-11-23T09:23:49.008",
+      "apply_url": "https://jobs.ashbyhq.com/gallatin/be929528-505b-4ce7-89bf-e0a7b196bd9a",
+      "job_url": "https://jobsglitch.com/jobs/6b00b3202253388919f835c6",
+      "source": "ashby"
+    },
+    {
+      "id": "6b00b48b2253388919f91f6b",
+      "company": "Grindr",
+      "title": "Staff Software Engineer, Android",
+      "locations": [
+        "Palo Alto"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 190000,
+        "annual_max": 254000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 190000.0,
+        "max": 254000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-20T20:17:24.317",
+      "last_checked_at": "2026-11-23T01:29:59.025",
+      "apply_url": "https://jobs.ashbyhq.com/Grindr%20LLC/0ad0276e-220e-4005-8cb7-80238723c003",
+      "job_url": "https://jobsglitch.com/jobs/6b00b48b2253388919f91f6b",
+      "source": "ashby"
+    },
+    {
+      "id": "6b010066c626fc9d72b86889",
+      "company": "Circadia Health",
+      "title": "Forward Deployed AI Engineer",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "countries": [
+        "China"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 150000,
+        "annual_max": 250000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 150000.0,
+        "max": 250000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-20T20:15:23.115",
+      "last_checked_at": "2026-11-22T22:44:09.146",
+      "apply_url": "https://jobs.lever.co/circadiahealth/00ecec3e-1057-4fd4-8ca7-ab49c83e2141",
+      "job_url": "https://jobsglitch.com/jobs/6b010066c626fc9d72b86889",
+      "source": "lever"
+    },
+    {
+      "id": "6b00c16dc626fc9d72aaaf2f",
+      "company": "Parallel Web Systems",
+      "title": "Member of Technical Staff, Core Infrastructure",
+      "locations": [
+        "San Francisco",
+        "New York, New York",
+        "Palo Alto"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 150000,
+        "annual_max": 300000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 150000.0,
+        "max": 300000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-20T19:54:36.605",
+      "last_checked_at": "2026-11-22T19:32:11.586",
+      "apply_url": "https://jobs.ashbyhq.com/parallel/6b2d216d-b726-4970-80a1-d3cc735e3600",
+      "job_url": "https://jobsglitch.com/jobs/6b00c16dc626fc9d72aaaf2f",
+      "source": "ashby"
+    },
+    {
+      "id": "6b009e642253388919f39841",
+      "company": "Temporal Technologies",
+      "title": "Staff Software Engineer, Cloud Data Storage",
+      "locations": [
+        "United States (Remote)",
+        "Seattle, Washington"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 169600,
+        "annual_max": 278250,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 169600.0,
+        "max": 278250.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-20T17:05:54.253",
+      "last_checked_at": "2026-11-23T08:59:08.538",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/ceb3ae3d-3a72-4067-b13d-44350a143195",
+      "job_url": "https://jobsglitch.com/jobs/6b009e642253388919f39841",
+      "source": "ashby"
+    },
+    {
+      "id": "6b00ce0ec626fc9d72addc06",
+      "company": "Xcimer Energy",
+      "title": "Staff Software Engineer, Research Platform",
+      "locations": [
+        "Denver, CO"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 201450,
+        "annual_max": 237000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 201450.0,
+        "max": 237000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-20T16:48:37.734",
+      "last_checked_at": "2026-11-23T11:18:56.789",
+      "apply_url": "https://jobs.lever.co/xcimer/e0ff50d5-4bae-4f08-babd-e5b4933901e0",
+      "job_url": "https://jobsglitch.com/jobs/6b00ce0ec626fc9d72addc06",
+      "source": "lever"
+    },
+    {
+      "id": "6b00c2adc626fc9d72ab15d2",
+      "company": "NetBox Labs",
+      "title": "Staff Software Engineer, Tech Lead - NetBox Core",
+      "locations": [
+        "US East Coast Remote"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 110000,
+        "annual_max": 240000,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 110000.0,
+        "max": 240000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-20T16:26:58.981",
+      "last_checked_at": "2026-11-22T22:37:46.612",
+      "apply_url": "https://jobs.ashbyhq.com/netboxlabs/79610104-659b-4a7a-bb21-1817d4d34c5d",
+      "job_url": "https://jobsglitch.com/jobs/6b00c2adc626fc9d72ab15d2",
+      "source": "ashby"
+    },
+    {
+      "id": "6b00b41a2253388919f8d2ad",
+      "company": "LiteLLM",
+      "title": "Staff Backend Engineer",
+      "locations": [
+        "San Francisco"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 250000,
+        "annual_max": 350000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 250000.0,
+        "max": 350000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-20T16:04:18.869",
+      "last_checked_at": "2026-11-22T22:58:17.498",
+      "apply_url": "https://jobs.ashbyhq.com/litellm/3804f73b-1120-48aa-b2ec-83c3a5c8c14e",
+      "job_url": "https://jobsglitch.com/jobs/6b00b41a2253388919f8d2ad",
+      "source": "ashby"
+    },
+    {
+      "id": "6b00b1b82253388919f71a4a",
+      "company": "Trexo Robotics",
+      "title": "AI Engineer",
+      "locations": [
+        "Mississauga"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": null,
+        "annual_max": null,
+        "currency": "CAD",
+        "band": "100k-150k",
+        "min": 100000.0,
+        "max": 135000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-20T15:06:00.399",
+      "last_checked_at": "2026-11-23T09:02:37.581",
+      "apply_url": "https://jobs.ashbyhq.com/Trexo%20Robotics/f27e8391-1cda-4fe0-baef-7c093fbcc119",
+      "job_url": "https://jobsglitch.com/jobs/6b00b1b82253388919f71a4a",
+      "source": "ashby"
+    },
+    {
+      "id": "6affb75147ff07450f15c34b",
+      "company": "Kharon",
+      "title": "Senior AI Engineer, AI Platform",
+      "locations": [
+        "New York"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 160000,
+        "annual_max": 200000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 160000.0,
+        "max": 200000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-20T02:58:25.889",
+      "last_checked_at": "2026-11-20T19:13:50.642",
+      "apply_url": "https://kharon.pinpointhq.com/en/postings/155d77b2-d591-4113-a5e3-83e6a9d4e66d",
+      "job_url": "https://jobsglitch.com/jobs/6affb75147ff07450f15c34b",
+      "source": "pinpoint"
+    },
+    {
+      "id": "6affd24947ff07450f1c3809",
+      "company": "Ampersand",
+      "title": "Product Engineer, AI Agents",
+      "locations": [
+        "San Francisco"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 160000,
+        "annual_max": 220000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 160000.0,
+        "max": 220000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T23:57:40.615",
+      "last_checked_at": "2026-11-22T22:54:06.889",
+      "apply_url": "https://jobs.ashbyhq.com/Ampersand/3cb05976-1a91-4cee-a17d-efa35d6e9d17",
+      "job_url": "https://jobsglitch.com/jobs/6affd24947ff07450f1c3809",
+      "source": "ashby"
+    },
+    {
+      "id": "6aff94fcef67776c32e6c78b",
+      "company": "Parallel Web Systems",
+      "title": "Member of Technical Staff, Developer Experience",
+      "locations": [
+        "San Francisco or Palo Alto",
+        "New York, New York"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 150000,
+        "annual_max": 300000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 150000.0,
+        "max": 300000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T22:49:48.829",
+      "last_checked_at": "2026-11-23T03:32:22.243",
+      "apply_url": "https://jobs.ashbyhq.com/parallel/fa55e4f5-e580-4530-89eb-914f16f8f9f9",
+      "job_url": "https://jobsglitch.com/jobs/6aff94fcef67776c32e6c78b",
+      "source": "ashby"
+    },
+    {
+      "id": "6aff9ad7ef67776c32e83de9",
+      "company": "Hopper",
+      "title": "Ingénieur(e) IA en déploiement avancé// Forward Deployed Engineer, AI Trust and Reliability",
+      "locations": [
+        "Montréal - Remote",
+        "Québec - Remote"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": null,
+        "annual_max": null,
+        "currency": "CAD",
+        "band": "200k+",
+        "min": 360000.0,
+        "max": 425000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T22:16:05.582",
+      "last_checked_at": "2026-11-23T09:13:08.371",
+      "apply_url": "https://jobs.ashbyhq.com/hopper/d7b425d8-3f41-449a-b6da-c828f9db6597",
+      "job_url": "https://jobsglitch.com/jobs/6aff9ad7ef67776c32e83de9",
+      "source": "ashby"
+    },
+    {
+      "id": "6aff9ad7ef67776c32e83de4",
+      "company": "Hopper",
+      "title": "Forward Deployed Engineer, AI Trust and Reliability",
+      "locations": [
+        "Canada - Remote",
+        "Toronto - Remote",
+        "Ontario - Remote",
+        "Alberta - Remote"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 360000,
+        "annual_max": 425000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 360000.0,
+        "max": 425000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T22:16:05.195",
+      "last_checked_at": "2026-11-23T09:13:08.371",
+      "apply_url": "https://jobs.ashbyhq.com/hopper/e96c8ea0-4d82-4eb4-a227-a0cb3e051fcc",
+      "job_url": "https://jobsglitch.com/jobs/6aff9ad7ef67776c32e83de4",
+      "source": "ashby"
+    },
+    {
+      "id": "6affd0a147ff07450f1af1bf",
+      "company": "Netic",
+      "title": "Applied AI Engineer",
+      "locations": [
+        "San Francisco",
+        "New York"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 145000,
+        "annual_max": 330000,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 145000.0,
+        "max": 330000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T22:06:46.471",
+      "last_checked_at": "2026-11-23T11:14:37.449",
+      "apply_url": "https://jobs.ashbyhq.com/netic/bb664b2a-d4a2-4c58-99c8-107cddcafde2",
+      "job_url": "https://jobsglitch.com/jobs/6affd0a147ff07450f1af1bf",
+      "source": "ashby"
+    },
+    {
+      "id": "6aff9ad7ef67776c32e83dd7",
+      "company": "Hopper",
+      "title": "Forward Deployed Engineer, Applied ML and Data",
+      "locations": [
+        "Canada - Remote",
+        "Toronto - Remote",
+        "Ontario - Remote",
+        "Alberta - Remote"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 360000,
+        "annual_max": 425000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 360000.0,
+        "max": 425000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T22:00:19.323",
+      "last_checked_at": "2026-11-23T09:13:08.371",
+      "apply_url": "https://jobs.ashbyhq.com/hopper/61a52170-aefe-40d1-abe1-10a1efa5d095",
+      "job_url": "https://jobsglitch.com/jobs/6aff9ad7ef67776c32e83dd7",
+      "source": "ashby"
+    },
+    {
+      "id": "6affd14f47ff07450f1b8a21",
+      "company": "Gravity",
+      "title": "Senior Ads ML Engineer",
+      "locations": [
+        "San Francisco"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 260000,
+        "annual_max": 520000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 260000.0,
+        "max": 520000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T21:43:30.099",
+      "last_checked_at": "2026-11-23T09:05:38.618",
+      "apply_url": "https://jobs.ashbyhq.com/Gravity/7ea12f4e-3f4b-499a-ba69-226ba03298aa",
+      "job_url": "https://jobsglitch.com/jobs/6affd14f47ff07450f1b8a21",
+      "source": "ashby"
+    },
+    {
+      "id": "6aff9ad7ef67776c32e83dba",
+      "company": "Hopper",
+      "title": "Ingénieur(e) IA en déploiement avancé, Travel Intelligence// Forward Deployed AI Engineer, Travel Intelligence",
+      "locations": [
+        "Montréal - Remote",
+        "Québec - Remote"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": null,
+        "annual_max": null,
+        "currency": "CAD",
+        "band": "200k+",
+        "min": 360000.0,
+        "max": 425000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T21:27:43.233",
+      "last_checked_at": "2026-11-23T09:13:08.371",
+      "apply_url": "https://jobs.ashbyhq.com/hopper/2dfa4941-c72f-4154-83f4-2fd4354e7259",
+      "job_url": "https://jobsglitch.com/jobs/6aff9ad7ef67776c32e83dba",
+      "source": "ashby"
+    },
+    {
+      "id": "6affd02c47ff07450f1abab6",
+      "company": "Vantage",
+      "title": "Senior Engineer, AI & Data Platform",
+      "locations": [
+        "Toronto - Remote"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": null,
+        "annual_max": null,
+        "currency": "CAD",
+        "band": "150k-200k",
+        "min": 150000.0,
+        "max": 175000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T20:57:13.852",
+      "last_checked_at": "2026-11-23T09:15:27.894",
+      "apply_url": "https://jobs.ashbyhq.com/vantageanalytics/ba2cc36b-903e-4a67-8d82-5330e9784193",
+      "job_url": "https://jobsglitch.com/jobs/6affd02c47ff07450f1abab6",
+      "source": "ashby"
+    },
+    {
+      "id": "6aff631cace21794702ad6de",
+      "company": "Homebound",
+      "title": "Senior / Staff AI Engineer",
+      "locations": [
+        "Remote, US"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 160000,
+        "annual_max": 220000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 160000.0,
+        "max": 220000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T20:31:56.289",
+      "last_checked_at": "2026-11-23T09:20:54.413",
+      "apply_url": "https://jobs.ashbyhq.com/Homebound/b0761174-6a16-4b48-90f7-3782796eeaa1",
+      "job_url": "https://jobsglitch.com/jobs/6aff631cace21794702ad6de",
+      "source": "ashby"
+    },
+    {
+      "id": "6aff60d8ace217947028191f",
+      "company": "Dun & Bradstreet",
+      "title": "Senior AI Software Engineer (R-20111)",
+      "locations": [
+        "Florham Park - New Jersey - United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 120000,
+        "annual_max": 202000,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 120000.0,
+        "max": 202000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T19:49:08.235",
+      "last_checked_at": "2026-11-23T11:21:13.907",
+      "apply_url": "https://jobs.lever.co/dnb/8716f9dd-863a-4de7-b74f-9f18705ce004",
+      "job_url": "https://jobsglitch.com/jobs/6aff60d8ace217947028191f",
+      "source": "lever"
+    },
+    {
+      "id": "6aff61a9ace2179470290945",
+      "company": "MaintainX (An Autodesk Company)",
+      "title": "Senior Principal Software Developer, Mobile Platform",
+      "locations": [
+        "San Francisco"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 190000,
+        "annual_max": 300000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 190000.0,
+        "max": 300000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T19:43:35.025",
+      "last_checked_at": "2026-11-23T06:24:36.746",
+      "apply_url": "https://jobs.ashbyhq.com/maintainx/071b3101-a3f0-4dca-b180-4874fac6b1f5",
+      "job_url": "https://jobsglitch.com/jobs/6aff61a9ace2179470290945",
+      "source": "ashby"
+    },
+    {
+      "id": "6aff609aace217947027b039",
+      "company": "Illumio",
+      "title": "Sr. Member of Technical Staff - Platform",
+      "locations": [
+        "HQ - Sunnyvale (Office)"
+      ],
+      "countries": [
+        "New Zealand"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 172000,
+        "annual_max": 198000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 172000.0,
+        "max": 198000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T19:12:57.607",
+      "last_checked_at": "2026-11-23T11:40:08.800",
+      "apply_url": "https://jobs.ashbyhq.com/illumio/7443e50f-bc30-4199-9379-0e0cbc37b0ed",
+      "job_url": "https://jobsglitch.com/jobs/6aff609aace217947027b039",
+      "source": "ashby"
+    },
+    {
+      "id": "6aff431dace21794701800d8",
+      "company": "BetterUp",
+      "title": "Staff Forward Deployed Engineer",
+      "locations": [
+        "Austin, TX",
+        "San Francisco, CA",
+        "New York, NY",
+        "Arlington, VA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 190000,
+        "annual_max": 270000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 190000.0,
+        "max": 270000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T18:10:49.900",
+      "last_checked_at": "2026-11-23T04:51:54.755",
+      "apply_url": "https://jobs.ashbyhq.com/betterup/cde95cb5-908e-4914-8379-7d2b12ef2762",
+      "job_url": "https://jobsglitch.com/jobs/6aff431dace21794701800d8",
+      "source": "ashby"
+    },
+    {
+      "id": "6affe9e147ff07450f22d9e0",
+      "company": "Urrly",
+      "title": "Principal Software Engineer, AI & Agentic Systems",
+      "locations": [
+        "Raleigh, North Carolina, United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 220000,
+        "annual_max": 220000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 220000.0,
+        "max": 220000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T18:04:46.780",
+      "last_checked_at": "2026-11-20T06:34:09.173",
+      "apply_url": "https://urrly.breezy.hr/p/9043fc6f63df-principal-software-engineer-ai-agentic-systems",
+      "job_url": "https://jobsglitch.com/jobs/6affe9e147ff07450f22d9e0",
+      "source": "breezyhr"
+    },
+    {
+      "id": "6aff4251ace2179470176d96",
+      "company": "Parallel Web Systems",
+      "title": "Member of Technical Staff, Enterprise Security",
+      "locations": [
+        "San Francisco or Palo Alto"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 150000,
+        "annual_max": 300000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 150000.0,
+        "max": 300000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T16:11:09.982",
+      "last_checked_at": "2026-11-22T19:32:11.586",
+      "apply_url": "https://jobs.ashbyhq.com/parallel/5e23aa2b-cf34-4ce9-b8f7-d3d53612bc8f",
+      "job_url": "https://jobsglitch.com/jobs/6aff4251ace2179470176d96",
+      "source": "ashby"
+    },
+    {
+      "id": "6aff6098ace217947027adbd",
+      "company": "Almedia",
+      "title": "AI Full Stack Engineer",
+      "locations": [
+        "Berlin"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": null,
+        "annual_max": null,
+        "currency": "EUR",
+        "band": "75k-100k",
+        "min": 80000.0,
+        "max": 130000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T13:58:14.556",
+      "last_checked_at": "2026-11-22T22:34:18.059",
+      "apply_url": "https://jobs.ashbyhq.com/almedia/13c7df64-04e1-4f15-97a5-74cd14fc9ea7",
+      "job_url": "https://jobsglitch.com/jobs/6aff6098ace217947027adbd",
+      "source": "ashby"
+    },
+    {
+      "id": "6aff6015ace217947026dbd4",
+      "company": "OnePay",
+      "title": "Applied Scientist, Foundation Models",
+      "locations": [
+        "United States (Remote)"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 180000,
+        "annual_max": 250000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 180000.0,
+        "max": 250000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T04:20:43.967",
+      "last_checked_at": "2026-11-22T21:47:15.015",
+      "apply_url": "https://jobs.ashbyhq.com/oneapp/50f06158-1f35-4950-9a2f-197aa75f2ac1",
+      "job_url": "https://jobsglitch.com/jobs/6aff6015ace217947026dbd4",
+      "source": "ashby"
+    },
+    {
+      "id": "6afe81078c7862e217645be7",
+      "company": "Render",
+      "title": "Staff Threat Intelligence Engineer",
+      "locations": [
+        "Remote: United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 230000,
+        "annual_max": 320000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 230000.0,
+        "max": 320000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T00:52:23.456",
+      "last_checked_at": "2026-11-23T00:55:08.941",
+      "apply_url": "https://jobs.ashbyhq.com/render/cbc4cf2e-9263-4ca5-a033-427d3aae82b3",
+      "job_url": "https://jobsglitch.com/jobs/6afe81078c7862e217645be7",
+      "source": "ashby"
+    },
+    {
+      "id": "6afe95838c7862e2176a9e35",
+      "company": "GoodLeap",
+      "title": "Software Engineer, AI Transformation",
+      "locations": [
+        "Austin, TX",
+        "San Francisco, CA",
+        "Roseville, CA - HQ",
+        "Remote, US",
+        "New York"
+      ],
+      "countries": [
+        "United States",
+        "Brazil"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 106100,
+        "annual_max": 145100,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 106100.0,
+        "max": 145100.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T00:30:39.058",
+      "last_checked_at": "2026-11-23T01:15:51.133",
+      "apply_url": "https://jobs.lever.co/goodleap/65bb56a4-7e99-4e59-847d-b4b9240bbc4e",
+      "job_url": "https://jobsglitch.com/jobs/6afe95838c7862e2176a9e35",
+      "source": "lever"
+    },
+    {
+      "id": "6afe54498c7862e2175c7eab",
+      "company": "Dave",
+      "title": "Staff AI Acceleration Engineer",
+      "locations": [
+        "United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 208000,
+        "annual_max": 289000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 208000.0,
+        "max": 289000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T00:04:54.642",
+      "last_checked_at": "2026-11-23T04:42:53.955",
+      "apply_url": "https://jobs.ashbyhq.com/dave/23c59358-e8c2-423c-a90c-ada119650dcc",
+      "job_url": "https://jobsglitch.com/jobs/6afe54498c7862e2175c7eab",
+      "source": "ashby"
+    },
+    {
+      "id": "6afe870f8c7862e2176556ca",
+      "company": "brightwheel",
+      "title": "Principal AI Software Engineer, Platform",
+      "locations": [
+        "United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 194000,
+        "annual_max": 263000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 194000.0,
+        "max": 263000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-18T23:08:05.680",
+      "last_checked_at": "2026-11-23T00:55:41.010",
+      "apply_url": "https://jobs.ashbyhq.com/brightwheel/7ef0532b-77fd-4f79-a6d5-360cc4273f41",
+      "job_url": "https://jobsglitch.com/jobs/6afe870f8c7862e2176556ca",
+      "source": "ashby"
+    },
+    {
+      "id": "6afe79788c7862e217632ea5",
+      "company": "Lightfield",
+      "title": "Software Engineer, Security (Staff+)",
+      "locations": [
+        "HQ: San Francisco"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 220000,
+        "annual_max": 300000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 220000.0,
+        "max": 300000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-18T20:57:06.878",
+      "last_checked_at": "2026-11-23T04:23:53.208",
+      "apply_url": "https://jobs.ashbyhq.com/Lightfield/86594fa4-36de-461a-a12d-304e8ae65672",
+      "job_url": "https://jobsglitch.com/jobs/6afe79788c7862e217632ea5",
+      "source": "ashby"
+    },
+    {
+      "id": "6afe1bd674be5ce36eca5c4e",
+      "company": "Mercor",
+      "title": "Member of Technical Staff, Annotation UI",
+      "locations": [
+        "San Francisco"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 250000,
+        "annual_max": 400000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 250000.0,
+        "max": 400000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-18T20:50:40.605",
+      "last_checked_at": "2026-11-23T01:47:31.211",
+      "apply_url": "https://jobs.ashbyhq.com/mercor/c684bdad-93b0-4811-82e5-926457db2daa",
+      "job_url": "https://jobsglitch.com/jobs/6afe1bd674be5ce36eca5c4e",
+      "source": "ashby"
+    },
+    {
+      "id": "6afe232f74be5ce36ecbd1e0",
+      "company": "Abridge",
+      "title": "Member of Technical Staff, Machine Learning",
+      "locations": [
+        "SF Office",
+        "NYC Office"
+      ],
+      "countries": [
+        "Mexico",
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 205000,
+        "annual_max": 300000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 205000.0,
+        "max": 300000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-18T20:50:04.289",
+      "last_checked_at": "2026-11-23T04:39:14.015",
+      "apply_url": "https://jobs.ashbyhq.com/Abridge/097490e8-48c6-46e3-a0ce-882151fb4fa2",
+      "job_url": "https://jobsglitch.com/jobs/6afe232f74be5ce36ecbd1e0",
+      "source": "ashby"
+    },
+    {
+      "id": "6afe243474be5ce36ecc0d5c",
+      "company": "SimSpace Corporation",
+      "title": "Staff Software Engineer",
+      "locations": [
+        "Remote - U.S."
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 185000,
+        "annual_max": 260000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 185000.0,
+        "max": 260000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-18T19:40:51.530",
+      "last_checked_at": "2026-11-22T22:16:56.718",
+      "apply_url": "https://jobs.ashbyhq.com/simspace-corporation/10ef576c-a7b1-4b18-b2fc-47c0919c2bf6",
+      "job_url": "https://jobsglitch.com/jobs/6afe243474be5ce36ecc0d5c",
+      "source": "ashby"
+    },
+    {
+      "id": "6afe0d9074be5ce36ec778cd",
+      "company": "Paradigm Health",
+      "title": "Staff Software Engineer, Full Stack",
+      "locations": [
+        "US-Remote",
+        "New York",
+        "Columbus"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 187000,
+        "annual_max": 234000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 187000.0,
+        "max": 234000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-18T19:36:53.344",
+      "last_checked_at": "2026-11-23T04:53:55.263",
+      "apply_url": "https://jobs.ashbyhq.com/paradigm-health/7954749b-d2d9-48f6-9369-adc9fcbd9564",
+      "job_url": "https://jobsglitch.com/jobs/6afe0d9074be5ce36ec778cd",
+      "source": "ashby"
+    },
+    {
+      "id": "6afe40508c7862e217595a71",
+      "company": "Replit",
+      "title": "Senior / Staff Software Engineer, Connectors Platform",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 300000,
+        "annual_max": 400000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 300000.0,
+        "max": 400000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-18T19:14:36.963",
+      "last_checked_at": "2026-11-22T22:27:16.550",
+      "apply_url": "https://jobs.ashbyhq.com/replit/fa9ee306-7e2b-4d94-87d1-0db292102f03",
+      "job_url": "https://jobsglitch.com/jobs/6afe40508c7862e217595a71",
+      "source": "ashby"
+    },
+    {
+      "id": "6afe01ac74be5ce36ec4ff99",
+      "company": "Cloaked",
+      "title": "Staff Software Engineer (Full Stack & Backend)",
+      "locations": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 180000,
+        "annual_max": 300000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 180000.0,
+        "max": 300000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-18T15:08:03.010",
+      "last_checked_at": "2026-11-23T03:39:02.357",
+      "apply_url": "https://jobs.ashbyhq.com/cloaked/b9e36c95-6a46-40f3-ae8e-90794d627bbc",
+      "job_url": "https://jobsglitch.com/jobs/6afe01ac74be5ce36ec4ff99",
+      "source": "ashby"
+    },
+    {
+      "id": "6afdc1f24bf189282718196b",
+      "company": "Reinventing Geospatial, Inc. (RGi)",
+      "title": "Applied AI/ML Engineer",
+      "locations": [
+        "Springfield, VA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 150000,
+        "annual_max": 210000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 150000.0,
+        "max": 210000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-18T14:20:04.938",
+      "last_checked_at": "2026-11-23T04:53:26.610",
+      "apply_url": "https://jobs.lever.co/rgi/0bd3bc74-ae97-4400-8eaf-9f93452832f5",
+      "job_url": "https://jobsglitch.com/jobs/6afdc1f24bf189282718196b",
+      "source": "lever"
+    },
+    {
+      "id": "6afdd3b074be5ce36ebbb68a",
+      "company": "Prior Labs",
+      "title": "Backend Software Engineer, ML Inference",
+      "locations": [
+        "Berlin",
+        "Freiburg",
+        "New York"
+      ],
+      "countries": [
+        "Germany",
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": null,
+        "annual_max": null,
+        "currency": "EUR",
+        "band": "100k-150k",
+        "min": 100000.0,
+        "max": 210000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-18T12:50:04.622",
+      "last_checked_at": "2026-11-23T09:51:34.728",
+      "apply_url": "https://jobs.ashbyhq.com/prior-labs/8a264570-fc81-4234-9487-f74d27f81601",
+      "job_url": "https://jobsglitch.com/jobs/6afdd3b074be5ce36ebbb68a",
+      "source": "ashby"
+    },
+    {
+      "id": "6afd85904bf18928270a42e2",
+      "company": "Beacon AI",
+      "title": "Staff Software Engineer, iOS/Mobile",
+      "locations": [
+        "San Carlos  - Hybrid"
+      ],
+      "countries": [
+        "Venezuela"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 224000,
+        "annual_max": 260000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 224000.0,
+        "max": 260000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-18T01:58:50.992",
+      "last_checked_at": "2026-11-23T10:39:52.537",
+      "apply_url": "https://jobs.ashbyhq.com/beaconai/098e7ef3-0a8c-4975-a28d-b267dc032234",
+      "job_url": "https://jobsglitch.com/jobs/6afd85904bf18928270a42e2",
+      "source": "ashby"
+    },
+    {
+      "id": "6afd85904bf18928270a42e0",
+      "company": "Beacon AI",
+      "title": "Staff Software Engineer, Advanced Pilot Assistant Software (Autonomy/Robotics)",
+      "locations": [
+        "San Carlos  - Hybrid"
+      ],
+      "countries": [
+        "Venezuela"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 224000,
+        "annual_max": 260000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 224000.0,
+        "max": 260000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-18T01:45:08.300",
+      "last_checked_at": "2026-11-23T10:39:52.537",
+      "apply_url": "https://jobs.ashbyhq.com/beaconai/ae76ee0f-6ad0-4a17-a440-9c36eb9d1495",
+      "job_url": "https://jobsglitch.com/jobs/6afd85904bf18928270a42e0",
+      "source": "ashby"
+    },
+    {
+      "id": "6afd85904bf18928270a42d4",
+      "company": "Beacon AI",
+      "title": "Staff Software Engineer, Backend",
+      "locations": [
+        "San Carlos  - Hybrid"
+      ],
+      "countries": [
+        "Venezuela"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 224000,
+        "annual_max": 260000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 224000.0,
+        "max": 260000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-18T01:39:40.011",
+      "last_checked_at": "2026-11-23T10:39:52.537",
+      "apply_url": "https://jobs.ashbyhq.com/beaconai/2f00f8ea-23e5-4c33-a7cd-a939f59e9602",
+      "job_url": "https://jobsglitch.com/jobs/6afd85904bf18928270a42d4",
+      "source": "ashby"
+    },
+    {
+      "id": "6afd85904bf18928270a42d3",
+      "company": "Beacon AI",
+      "title": "Staff Applied AI Engineer, Agentic Systems",
+      "locations": [
+        "San Carlos  - Hybrid"
+      ],
+      "countries": [
+        "Venezuela"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 224000,
+        "annual_max": 260000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 224000.0,
+        "max": 260000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-18T01:36:50.142",
+      "last_checked_at": "2026-11-23T10:39:52.537",
+      "apply_url": "https://jobs.ashbyhq.com/beaconai/7a366241-d2aa-47e1-8118-cb0068977d83",
+      "job_url": "https://jobsglitch.com/jobs/6afd85904bf18928270a42d3",
+      "source": "ashby"
+    },
+    {
+      "id": "6afd96614bf18928270e3ae4",
+      "company": "Handshake",
+      "title": "Senior Applied AI Engineer",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 220000,
+        "annual_max": 260000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 220000.0,
+        "max": 260000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-17T23:09:10.466",
+      "last_checked_at": "2026-11-23T02:49:11.464",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/fc042441-b093-4f16-a308-5c6e8baea669",
+      "job_url": "https://jobsglitch.com/jobs/6afd96614bf18928270e3ae4",
+      "source": "ashby"
+    },
+    {
+      "id": "6afd95854bf18928270df6b1",
+      "company": "GameChanger",
+      "title": "Principal Software Engineer",
+      "locations": [
+        "GameChanger Remote - US"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 210000,
+        "annual_max": 230000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 210000.0,
+        "max": 230000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-17T19:58:47.364",
+      "last_checked_at": "2026-11-23T04:48:24.275",
+      "apply_url": "https://jobs.ashbyhq.com/gamechanger/86355f25-8450-404a-ad77-6ae929d2546e",
+      "job_url": "https://jobsglitch.com/jobs/6afd95854bf18928270df6b1",
+      "source": "ashby"
+    },
+    {
+      "id": "6afd76e2f49226ef17f430b1",
+      "company": "Lambda",
+      "title": "Senior Staff Technical Program Manager - Network Infrastructure",
+      "locations": [
+        "Bellevue Office",
+        "San Francisco Office (Fremont St)"
+      ],
+      "countries": [
+        "Australia",
+        "Mexico"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 301000,
+        "annual_max": 445000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 301000.0,
+        "max": 445000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-17T19:37:53.447",
+      "last_checked_at": "2026-11-23T01:56:20.045",
+      "apply_url": "https://jobs.ashbyhq.com/Lambda/47fad852-1e12-4be0-920a-1ef9fb42206f",
+      "job_url": "https://jobsglitch.com/jobs/6afd76e2f49226ef17f430b1",
+      "source": "ashby"
+    },
+    {
+      "id": "6afd42f7b0fb8f268f87770c",
+      "company": "Lovable",
+      "title": "Staff Software Engineer, Enterprise",
+      "locations": [
+        "New York City",
+        "San Francisco",
+        "Boston"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 199000,
+        "annual_max": 325000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 199000.0,
+        "max": 325000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-17T18:56:05.335",
+      "last_checked_at": "2026-11-22T21:55:55.786",
+      "apply_url": "https://jobs.ashbyhq.com/lovable/a3984ab8-067f-45c4-a644-a2f60c9ed697",
+      "job_url": "https://jobsglitch.com/jobs/6afd42f7b0fb8f268f87770c",
+      "source": "ashby"
+    },
+    {
+      "id": "6afd955e4bf18928270ded5f",
+      "company": "Flox",
+      "title": "Member of Technical Staff",
+      "locations": [
+        "Remote"
+      ],
+      "countries": null,
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 160000,
+        "annual_max": 210000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 160000.0,
+        "max": 210000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-17T18:15:26.099",
+      "last_checked_at": "2026-11-23T04:46:44.079",
+      "apply_url": "https://jobs.ashbyhq.com/flox/b74cb64c-2fee-4edb-a6ed-fb9aee044ee3",
+      "job_url": "https://jobsglitch.com/jobs/6afd955e4bf18928270ded5f",
+      "source": "ashby"
+    },
+    {
+      "id": "6afd955e4bf18928270ded6b",
+      "company": "Flox",
+      "title": "Member of Technical Staff, Infrastructure & Operations",
+      "locations": [
+        "Remote"
+      ],
+      "countries": null,
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 180000,
+        "annual_max": 250000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 180000.0,
+        "max": 250000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-17T18:13:22.155",
+      "last_checked_at": "2026-11-23T04:46:44.079",
+      "apply_url": "https://jobs.ashbyhq.com/flox/87f6bc08-b01d-47ad-bad3-5fd74b7c60c9",
+      "job_url": "https://jobsglitch.com/jobs/6afd955e4bf18928270ded6b",
+      "source": "ashby"
+    },
+    {
+      "id": "6afd435ab0fb8f268f87c348",
+      "company": "Plaid",
+      "title": "Staff Software Engineer - Alternative Access",
+      "locations": [
+        "San Francisco HQ",
+        "Seattle Office",
+        "New York City Office"
+      ],
+      "countries": [
+        "Mexico",
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 207600,
+        "annual_max": 306600,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 207600.0,
+        "max": 306600.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-17T18:05:44.666",
+      "last_checked_at": "2026-11-23T00:05:38.375",
+      "apply_url": "https://jobs.ashbyhq.com/plaid/39360c45-ad24-4458-b4fe-def71a41c02d",
+      "job_url": "https://jobsglitch.com/jobs/6afd435ab0fb8f268f87c348",
+      "source": "ashby"
+    },
+    {
+      "id": "6afd7faff49226ef17f6001e",
+      "company": "Ramp",
+      "title": "Software Engineer, Backend, AI Ventures",
+      "locations": [
+        "New York, NY (HQ)"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 204000,
+        "annual_max": 330000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 204000.0,
+        "max": 330000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-17T17:52:33.611",
+      "last_checked_at": "2026-11-23T11:41:52.581",
+      "apply_url": "https://jobs.ashbyhq.com/ramp/3cfbf693-58e3-423f-87a8-a93dbd0839b0",
+      "job_url": "https://jobsglitch.com/jobs/6afd7faff49226ef17f6001e",
+      "source": "ashby"
+    },
+    {
+      "id": "6afda1c64bf18928271040c7",
+      "company": "SalesJack",
+      "title": "Staff Software Engineer",
+      "locations": [
+        "Toronto"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": null,
+        "annual_max": null,
+        "currency": "CAD",
+        "band": "150k-200k",
+        "min": 190000.0,
+        "max": 240000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-17T14:51:39.872",
+      "last_checked_at": "2026-11-23T04:50:25.091",
+      "apply_url": "https://jobs.ashbyhq.com/salesjack/64e4cd7a-a211-45df-aded-8eaaa21e271c",
+      "job_url": "https://jobsglitch.com/jobs/6afda1c64bf18928271040c7",
+      "source": "ashby"
+    },
+    {
+      "id": "6afc7364e1dcebb7b8eade1f",
+      "company": "XDOF",
+      "title": "Member of Technical Staff, Evaluations",
+      "locations": [
+        "San Mateo Hybrid"
+      ],
+      "countries": [
+        "Philippines"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 180000,
+        "annual_max": 300000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 180000.0,
+        "max": 300000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-17T14:17:59.524",
+      "last_checked_at": "2026-11-22T22:24:06.316",
+      "apply_url": "https://jobs.ashbyhq.com/XDOF/eb508f6e-26fe-40f4-8fd8-1fc429d6eef1",
+      "job_url": "https://jobsglitch.com/jobs/6afc7364e1dcebb7b8eade1f",
+      "source": "ashby"
+    },
+    {
+      "id": "6afc18aa60e7e1f8765260b4",
+      "company": "SignalFire",
+      "title": "Staff Front-End Software Engineer - VC Backed Startups",
+      "locations": [
+        "Remote - No Preference",
+        "NYC - Hybrid",
+        "Bay Area - Hybrid"
+      ],
+      "countries": [
+        "Gambia",
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 170000,
+        "annual_max": 250000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 170000.0,
+        "max": 250000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-17T07:14:47.500",
+      "last_checked_at": "2026-11-23T04:47:35.852",
+      "apply_url": "https://jobs.ashbyhq.com/SignalFire/7ce1ad79-3657-40ef-a95b-908a9a871268",
+      "job_url": "https://jobsglitch.com/jobs/6afc18aa60e7e1f8765260b4",
+      "source": "ashby"
+    },
+    {
+      "id": "6afc18aa60e7e1f8765260ae",
+      "company": "SignalFire",
+      "title": "Founding Front-End Software Engineer (Senior/Staff) - VC Backed Startups",
+      "locations": [
+        "Remote - No Preference",
+        "NYC - Hybrid",
+        "Bay Area - Hybrid"
+      ],
+      "countries": [
+        "Gambia",
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 170000,
+        "annual_max": 250000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 170000.0,
+        "max": 250000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-17T07:14:11.787",
+      "last_checked_at": "2026-11-23T04:47:35.852",
+      "apply_url": "https://jobs.ashbyhq.com/SignalFire/969b4041-ab37-4080-ac5d-a75afd74eded",
+      "job_url": "https://jobsglitch.com/jobs/6afc18aa60e7e1f8765260ae",
+      "source": "ashby"
+    },
+    {
+      "id": "6afc18a860e7e1f87652603a",
+      "company": "SignalFire",
+      "title": "Principal Software Engineer - VC Backed Startups",
+      "locations": [
+        "Remote - No Preference",
+        "NYC - Hybrid",
+        "Bay Area - Hybrid"
+      ],
+      "countries": [
+        "Gambia",
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 170000,
+        "annual_max": 270000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 170000.0,
+        "max": 270000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-17T07:12:32.416",
+      "last_checked_at": "2026-11-23T04:47:35.852",
+      "apply_url": "https://jobs.ashbyhq.com/SignalFire/8ecc51fb-4ba0-49d9-bac0-03682e7b2230",
+      "job_url": "https://jobsglitch.com/jobs/6afc18a860e7e1f87652603a",
+      "source": "ashby"
+    },
+    {
+      "id": "6afc18a860e7e1f876526040",
+      "company": "SignalFire",
+      "title": "Founding Full Stack Software Engineer (Senior/Staff) - VC Backed Startups",
+      "locations": [
+        "Remote - No Preference",
+        "NYC - Hybrid",
+        "Bay Area - Hybrid"
+      ],
+      "countries": [
+        "Gambia",
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 170000,
+        "annual_max": 250000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 170000.0,
+        "max": 250000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-17T07:10:37.861",
+      "last_checked_at": "2026-11-23T04:47:35.852",
+      "apply_url": "https://jobs.ashbyhq.com/SignalFire/e975c01d-3b18-425a-a622-3fe7cf0ae2e3",
+      "job_url": "https://jobsglitch.com/jobs/6afc18a860e7e1f876526040",
+      "source": "ashby"
+    },
+    {
+      "id": "6afbf27260e7e1f87643b47e",
+      "company": "ALO",
+      "title": "Senior AI Engineer",
+      "locations": [
+        "Beverly Hills LAND, Beverly Hills, CA (HQ-L)"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 160000,
+        "annual_max": 200000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 160000.0,
+        "max": 200000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-17T05:12:22.000",
+      "last_checked_at": "2026-11-23T11:43:21.167",
+      "apply_url": "https://boards.greenhouse.io/aloyoga/jobs/6253648004?gh_jid=6253648004",
+      "job_url": "https://jobsglitch.com/jobs/6afbf27260e7e1f87643b47e",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afbf26360e7e1f87643af1d",
+      "company": "ALO",
+      "title": "Lead AI Engineer",
+      "locations": [
+        "Beverly Hills LAND, Beverly Hills, CA (HQ-L)"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 180000,
+        "annual_max": 220000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 180000.0,
+        "max": 220000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-17T05:01:31.000",
+      "last_checked_at": "2026-11-23T11:43:21.167",
+      "apply_url": "https://boards.greenhouse.io/aloyoga/jobs/6253642004?gh_jid=6253642004",
+      "job_url": "https://jobsglitch.com/jobs/6afbf26360e7e1f87643af1d",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afbfb3f60e7e1f87645e30d",
+      "company": "BlackSky",
+      "title": "Staff Software Engineer, Command and Control",
+      "locations": [
+        "Seattle, WA; Herndon, VA; Remote"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 150000,
+        "annual_max": 180000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 150000.0,
+        "max": 180000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-17T01:29:10.000",
+      "last_checked_at": "2026-11-23T01:30:49.675",
+      "apply_url": "https://boards.greenhouse.io/blacksky/jobs/8868555002?gh_jid=8868555002",
+      "job_url": "https://jobsglitch.com/jobs/6afbfb3f60e7e1f87645e30d",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afc0ce060e7e1f87649c05b",
+      "company": "Crusoe",
+      "title": "Staff Software Engineer, Networking",
+      "locations": [
+        "San Francisco, CA - US",
+        "Sunnyvale, CA - US",
+        "Bellevue, WA - US"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 215000,
+        "annual_max": 260000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 215000.0,
+        "max": 260000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-17T01:04:26.554",
+      "last_checked_at": "2026-11-23T11:41:59.898",
+      "apply_url": "https://jobs.ashbyhq.com/Crusoe/a3d090f8-63fa-4e0a-9664-7d751cffbf3e",
+      "job_url": "https://jobsglitch.com/jobs/6afc0ce060e7e1f87649c05b",
+      "source": "ashby"
+    },
+    {
+      "id": "6afbd9f560e7e1f8763e0f72",
+      "company": "Zscaler",
+      "title": "Principal Software Development Engineer",
+      "locations": [
+        "Santa Clara, California, USA"
+      ],
+      "countries": [
+        "Cuba"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 185500,
+        "annual_max": 265000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 185500.0,
+        "max": 265000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T23:52:58.000",
+      "last_checked_at": "2026-11-23T02:13:27.070",
+      "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5283492007",
+      "job_url": "https://jobsglitch.com/jobs/6afbd9f560e7e1f8763e0f72",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afc17d660e7e1f87651bc3e",
+      "company": "Abridge",
+      "title": "Member of Data Science Staff",
+      "locations": [
+        "SF Office"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 195000,
+        "annual_max": 225000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 195000.0,
+        "max": 225000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T23:35:03.793",
+      "last_checked_at": "2026-11-23T04:39:14.015",
+      "apply_url": "https://jobs.ashbyhq.com/Abridge/c3837e7e-2d59-49b6-95dc-0f670494fb31",
+      "job_url": "https://jobsglitch.com/jobs/6afc17d660e7e1f87651bc3e",
+      "source": "ashby"
+    },
+    {
+      "id": "6afb9fa060e7e1f8762ff409",
+      "company": "Nuro",
+      "title": "ML Research Scientist, Active Learning",
+      "locations": [
+        "Mountain View, California (HQ)"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 193930,
+        "annual_max": 291150,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 193930.0,
+        "max": 291150.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T23:29:06.000",
+      "last_checked_at": "2026-11-23T01:39:31.281",
+      "apply_url": "https://nuro.ai/careersitem?gh_jid=8341046",
+      "job_url": "https://jobsglitch.com/jobs/6afb9fa060e7e1f8762ff409",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afbed1560e7e1f876426d28",
+      "company": "Cohere Health",
+      "title": "Senior Applied Scientist",
+      "locations": [
+        "United States"
+      ],
+      "countries": null,
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 135000,
+        "annual_max": 170000,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 135000.0,
+        "max": 170000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T22:36:44.000",
+      "last_checked_at": "2026-11-22T19:59:13.523",
+      "apply_url": "https://job-boards.greenhouse.io/coherehealth/jobs/8203550003",
+      "job_url": "https://jobsglitch.com/jobs/6afbed1560e7e1f876426d28",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afc12b260e7e1f8764df8c6",
+      "company": "Mercor",
+      "title": "Sr. Machine Learning Engineer, Anonymization",
+      "locations": [
+        "New York City"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 180000,
+        "annual_max": 500000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 180000.0,
+        "max": 500000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T22:18:25.810",
+      "last_checked_at": "2026-11-23T01:47:31.211",
+      "apply_url": "https://jobs.ashbyhq.com/mercor/ea913b66-0995-49d9-a8a9-2d4b9538a776",
+      "job_url": "https://jobsglitch.com/jobs/6afc12b260e7e1f8764df8c6",
+      "source": "ashby"
+    },
+    {
+      "id": "6afbc1c860e7e1f876383d80",
+      "company": "StackAdapt",
+      "title": "Staff Applied Machine Learning Scientist (Identity)",
+      "locations": [
+        "Canada; United States"
+      ],
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 182400,
+        "annual_max": 250800,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 182400.0,
+        "max": 250800.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T21:46:23.000",
+      "last_checked_at": "2026-11-23T03:08:33.193",
+      "apply_url": "https://job-boards.greenhouse.io/stackadapt/jobs/4509494009",
+      "job_url": "https://jobsglitch.com/jobs/6afbc1c860e7e1f876383d80",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afba93560e7e1f876324235",
+      "company": "Peregrine Technologies",
+      "title": "Staff Software Engineer, Data Governance",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 225000,
+        "annual_max": 275000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 225000.0,
+        "max": 275000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T21:29:01.000",
+      "last_checked_at": "2026-11-23T01:51:00.320",
+      "apply_url": "https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4753663005",
+      "job_url": "https://jobsglitch.com/jobs/6afba93560e7e1f876324235",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afb9ce460e7e1f8762efd56",
+      "company": "NC America",
+      "title": "Senior Data & AI Analytics Engineer",
+      "locations": [
+        "Irvine, California"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 140000,
+        "annual_max": 180000,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 140000.0,
+        "max": 180000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T21:04:56.000",
+      "last_checked_at": "2026-11-23T11:40:13.806",
+      "apply_url": "https://job-boards.greenhouse.io/ncamerica/jobs/4509426009",
+      "job_url": "https://jobsglitch.com/jobs/6afb9ce460e7e1f8762efd56",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afc0c7460e7e1f87649800a",
+      "company": "Coinbase",
+      "title": "Staff Software Engineer, Infrastructure (Datastores)",
+      "locations": [
+        "Remote - USA"
+      ],
+      "countries": null,
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 218025,
+        "annual_max": 256500,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 218025.0,
+        "max": 256500.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T20:59:45.000",
+      "last_checked_at": "2026-11-23T00:38:04.755",
+      "apply_url": "https://www.coinbase.com/careers/positions/8286487?gh_jid=8286487",
+      "job_url": "https://jobsglitch.com/jobs/6afc0c7460e7e1f87649800a",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afc12a760e7e1f8764df378",
+      "company": "Snowflake",
+      "title": "Principal Software Engineer (Outer Loop), Engineering Systems",
+      "locations": [
+        "US-CA-Menlo Park",
+        "US-WA-Bellevue"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 236000,
+        "annual_max": 339200,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 236000.0,
+        "max": 339200.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T20:49:41.257",
+      "last_checked_at": "2026-11-23T12:02:33.845",
+      "apply_url": "https://jobs.ashbyhq.com/snowflake/850fe52e-5137-4fbb-966a-ef8e89cf6245",
+      "job_url": "https://jobsglitch.com/jobs/6afc12a760e7e1f8764df378",
+      "source": "ashby"
+    },
+    {
+      "id": "6afbaa8260e7e1f87632bce6",
+      "company": "Pinterest",
+      "title": "Staff Software Engineer, Product Infrastructure",
+      "locations": [
+        "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 208454,
+        "annual_max": 364795,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 208454.0,
+        "max": 364795.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T20:26:18.000",
+      "last_checked_at": "2026-11-22T23:09:40.283",
+      "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8336944",
+      "job_url": "https://jobsglitch.com/jobs/6afbaa8260e7e1f87632bce6",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afc0ce460e7e1f87649c25a",
+      "company": "DataGrail",
+      "title": "Staff Software Engineer",
+      "locations": [
+        "Remote - United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 205000,
+        "annual_max": 240000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 205000.0,
+        "max": 240000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T20:15:21.000",
+      "last_checked_at": "2026-11-23T05:14:14.637",
+      "apply_url": "https://job-boards.greenhouse.io/datagrail/jobs/8204094003",
+      "job_url": "https://jobsglitch.com/jobs/6afc0ce460e7e1f87649c25a",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afc166760e7e1f87650a5ee",
+      "company": "Swarm Aero",
+      "title": "Staff Forward Deployed Engineer",
+      "locations": [
+        "Remote"
+      ],
+      "countries": null,
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 220000,
+        "annual_max": 300000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 220000.0,
+        "max": 300000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T20:13:16.789",
+      "last_checked_at": "2026-11-23T03:56:42.468",
+      "apply_url": "https://jobs.ashbyhq.com/swarmaero/a6a64e50-7420-4da0-838d-e6c02cc073dc",
+      "job_url": "https://jobsglitch.com/jobs/6afc166760e7e1f87650a5ee",
+      "source": "ashby"
+    },
+    {
+      "id": "6afc148260e7e1f8764f1e45",
+      "company": "Plaid",
+      "title": "Staff Software Engineer - Device Fingerprinting",
+      "locations": [
+        "San Francisco HQ"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 207600,
+        "annual_max": 306600,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 207600.0,
+        "max": 306600.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T20:00:15.234",
+      "last_checked_at": "2026-11-23T00:05:38.375",
+      "apply_url": "https://jobs.ashbyhq.com/plaid/8315280a-2498-4b41-9b98-621a61c1f4dc",
+      "job_url": "https://jobsglitch.com/jobs/6afc148260e7e1f8764f1e45",
+      "source": "ashby"
+    },
+    {
+      "id": "6afbb32a60e7e1f87635723c",
+      "company": "Roblox",
+      "title": "Senior Software Engineer-ML Platform",
+      "locations": [
+        "San Mateo, CA, United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 196750,
+        "annual_max": 243290,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 196750.0,
+        "max": 243290.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T19:17:05.000",
+      "last_checked_at": "2026-11-22T19:26:55.210",
+      "apply_url": "https://careers.roblox.com/jobs/8268776?gh_jid=8268776",
+      "job_url": "https://jobsglitch.com/jobs/6afbb32a60e7e1f87635723c",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afb8fc860e7e1f8762ac019",
+      "company": "Applied Intuition",
+      "title": "Senior Software Engineer - AI Developer Productivity",
+      "locations": [
+        "Sunnyvale"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 135000,
+        "annual_max": 265000,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 135000.0,
+        "max": 265000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T19:16:32.241",
+      "last_checked_at": "2026-11-23T11:19:58.165",
+      "apply_url": "https://jobs.ashbyhq.com/applied/fab612d5-e700-4e0a-af60-44be3399dca7",
+      "job_url": "https://jobsglitch.com/jobs/6afb8fc860e7e1f8762ac019",
+      "source": "ashby"
+    },
+    {
+      "id": "6afb8fc860e7e1f8762ac01b",
+      "company": "Applied Intuition",
+      "title": "Staff Software Engineer - AI Developer Productivity",
+      "locations": [
+        "Sunnyvale"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 135000,
+        "annual_max": 265000,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 135000.0,
+        "max": 265000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T19:14:28.951",
+      "last_checked_at": "2026-11-23T11:19:58.165",
+      "apply_url": "https://jobs.ashbyhq.com/applied/ffef05ff-b607-4c96-b312-d85007716697",
+      "job_url": "https://jobsglitch.com/jobs/6afb8fc860e7e1f8762ac01b",
+      "source": "ashby"
+    },
+    {
+      "id": "6afbf79260e7e1f8764506d4",
+      "company": "Atomic Machines",
+      "title": "Senior/Staff Software Engineer, Compilers",
+      "locations": [
+        "Emeryville or Santa Clara, CA"
+      ],
+      "countries": [
+        "United States",
+        "Cuba"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 170000,
+        "annual_max": 230000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 170000.0,
+        "max": 230000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T17:59:34.000",
+      "last_checked_at": "2026-11-23T01:40:00.038",
+      "apply_url": "https://job-boards.greenhouse.io/atomicmachines/jobs/4508915009",
+      "job_url": "https://jobsglitch.com/jobs/6afbf79260e7e1f8764506d4",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afbee3e60e7e1f87642b7f7",
+      "company": "Liftoff",
+      "title": "Staff Software Engineer, eCommerce",
+      "locations": [
+        "United States (remote)"
+      ],
+      "countries": null,
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 180000,
+        "annual_max": 260000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 180000.0,
+        "max": 260000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T17:58:23.000",
+      "last_checked_at": "2026-11-23T02:09:10.535",
+      "apply_url": "https://liftoff.io/job/8383865?gh_jid=8383865",
+      "job_url": "https://jobsglitch.com/jobs/6afbee3e60e7e1f87642b7f7",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afbd9f560e7e1f8763e0f8f",
+      "company": "Zscaler",
+      "title": "Staff Security Engineer (Identity & Access Systems)",
+      "locations": [
+        "Santa Clara, California, USA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 156800,
+        "annual_max": 196000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 156800.0,
+        "max": 196000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T17:42:58.000",
+      "last_checked_at": "2026-11-23T02:13:27.070",
+      "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5263590007",
+      "job_url": "https://jobsglitch.com/jobs/6afbd9f560e7e1f8763e0f8f",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afbb35a60e7e1f876358396",
+      "company": "Roku",
+      "title": "Senior AI Transformation Engineer",
+      "locations": [
+        "Santa Monica, California",
+        "New York, New York",
+        "Boston, Massachusetts"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 242200,
+        "annual_max": 486000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 242200.0,
+        "max": 486000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T17:28:24.000",
+      "last_checked_at": "2026-11-23T01:39:50.795",
+      "apply_url": "https://www.weareroku.com/jobs/8393484?gh_jid=8393484",
+      "job_url": "https://jobsglitch.com/jobs/6afbb35a60e7e1f876358396",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afb97d360e7e1f8762d6820",
+      "company": "Metropolis",
+      "title": "Staff Machine Learning Engineer, Growth",
+      "locations": [
+        "Seattle, Washington, United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 220000,
+        "annual_max": 260000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 220000.0,
+        "max": 260000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T17:13:40.000",
+      "last_checked_at": "2026-11-23T03:43:23.772",
+      "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/8197897003",
+      "job_url": "https://jobsglitch.com/jobs/6afb97d360e7e1f8762d6820",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afc0f4e60e7e1f8764b8ba1",
+      "company": "OpenAI",
+      "title": "Partner Applied AI Engineer, AWS",
+      "locations": [
+        "San Francisco",
+        "New York City"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 197000,
+        "annual_max": 278000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 197000.0,
+        "max": 278000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T17:04:53.604",
+      "last_checked_at": "2026-11-23T11:45:46.627",
+      "apply_url": "https://jobs.ashbyhq.com/openai/9635775d-18fa-47bb-9ede-9a4137618de0",
+      "job_url": "https://jobsglitch.com/jobs/6afc0f4e60e7e1f8764b8ba1",
+      "source": "ashby"
+    },
+    {
+      "id": "6afc15aa60e7e1f8765005f4",
+      "company": "SandboxAQ",
+      "title": "Staff Machine Learning Engineer - Medical Devices",
+      "locations": [
+        "United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 157000,
+        "annual_max": 294000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 157000.0,
+        "max": 294000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T17:04:05.418",
+      "last_checked_at": "2026-11-23T01:17:49.644",
+      "apply_url": "https://jobs.ashbyhq.com/sandboxaq/cc29fd7e-b3e5-4f74-af31-076cbb2d5093",
+      "job_url": "https://jobsglitch.com/jobs/6afc15aa60e7e1f8765005f4",
+      "source": "ashby"
+    },
+    {
+      "id": "6afc0f2260e7e1f8764b578f",
+      "company": "Garner Health",
+      "title": "Senior Staff Site Reliability Engineer",
+      "locations": [
+        "Remote"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 301000,
+        "annual_max": 334000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 301000.0,
+        "max": 334000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T16:20:53.000",
+      "last_checked_at": "2026-11-23T02:10:00.590",
+      "apply_url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6261236004",
+      "job_url": "https://jobsglitch.com/jobs/6afc0f2260e7e1f8764b578f",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afc0cfb60e7e1f87649cdf7",
+      "company": "DOSS",
+      "title": "Staff Frontend Engineer",
+      "locations": [
+        "San Francisco"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 230000,
+        "annual_max": 260000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 230000.0,
+        "max": 260000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T16:19:55.880",
+      "last_checked_at": "2026-11-23T04:59:04.885",
+      "apply_url": "https://jobs.ashbyhq.com/doss/4e382404-f56c-4652-b5c3-dd559d05fa31",
+      "job_url": "https://jobsglitch.com/jobs/6afc0cfb60e7e1f87649cdf7",
+      "source": "ashby"
+    },
+    {
+      "id": "6afb37df60e7e1f876258ad7",
+      "company": "Iovance Biotherapeutics",
+      "title": "AI Product Engineer",
+      "locations": [
+        "Remote"
+      ],
+      "countries": null,
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 120000,
+        "annual_max": 135000,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 120000.0,
+        "max": 135000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T15:49:46.000",
+      "last_checked_at": "2026-11-22T22:03:46.677",
+      "apply_url": "https://job-boards.greenhouse.io/iovancebiotherapeutics/jobs/5480108008",
+      "job_url": "https://jobsglitch.com/jobs/6afb37df60e7e1f876258ad7",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afb98b160e7e1f8762daf10",
+      "company": "Jobgether",
+      "title": "Architecture & Performance Modeling Engineer, AI Inference Silicon (Senior / Principal)",
+      "locations": [
+        "US"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 220000,
+        "annual_max": 350000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 220000.0,
+        "max": 350000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T15:16:01.474",
+      "last_checked_at": "2026-11-20T20:59:27.796",
+      "apply_url": "https://jobs.lever.co/jobgether/b651393d-de2b-473c-87c7-33a695572003",
+      "job_url": "https://jobsglitch.com/jobs/6afb98b160e7e1f8762daf10",
+      "source": "lever"
+    },
+    {
+      "id": "6afc168860e7e1f87650b8b4",
+      "company": "Temporal Technologies",
+      "title": "Staff Enterprise Security Engineer",
+      "locations": [
+        "United States (Remote)"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 176000,
+        "annual_max": 288750,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 176000.0,
+        "max": 288750.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T15:15:16.718",
+      "last_checked_at": "2026-11-23T00:58:59.227",
+      "apply_url": "https://jobs.ashbyhq.com/temporal/dd862627-1663-414d-9820-3f05bfbd9a8a",
+      "job_url": "https://jobsglitch.com/jobs/6afc168860e7e1f87650b8b4",
+      "source": "ashby"
+    },
+    {
+      "id": "6afb17c04a5901cba79a1142",
+      "company": "Intelliforce-IT Solutions Group",
+      "title": "Software Engineer, AI-Enabled Mission Prototyping",
+      "locations": [
+        "Annapolis Junction, MD"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 110000,
+        "annual_max": 141000,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 110000.0,
+        "max": 141000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T14:48:31.639",
+      "last_checked_at": "2026-11-20T08:33:01.532",
+      "apply_url": "https://intelliforceitsolutionsgroup.applytojob.com/apply/NfSHYGAERr/Software-Engineer",
+      "job_url": "https://jobsglitch.com/jobs/6afb17c04a5901cba79a1142",
+      "source": "jazzhr"
+    },
+    {
+      "id": "6afb17c04a5901cba79a1138",
+      "company": "Intelliforce-IT Solutions Group",
+      "title": "Senior Full Stack Software Engineer, AI Platform",
+      "locations": [
+        "Annapolis Junction, MD"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 203000,
+        "annual_max": 260000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 203000.0,
+        "max": 260000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T14:48:31.639",
+      "last_checked_at": "2026-11-20T08:33:01.532",
+      "apply_url": "https://intelliforceitsolutionsgroup.applytojob.com/apply/YaCN6QEfHx/Senior-Software-Developer",
+      "job_url": "https://jobsglitch.com/jobs/6afb17c04a5901cba79a1138",
+      "source": "jazzhr"
+    },
+    {
+      "id": "6afb17bf4a5901cba79a1130",
+      "company": "Intelliforce-IT Solutions Group",
+      "title": "Principal Feature Architect, Mission Software",
+      "locations": [
+        "Annapolis Junction, MD"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 207000,
+        "annual_max": 266000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 207000.0,
+        "max": 266000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T14:48:31.639",
+      "last_checked_at": "2026-11-20T08:33:01.532",
+      "apply_url": "https://intelliforceitsolutionsgroup.applytojob.com/apply/sa7mW0AgBI/Principal-Software-Engineer",
+      "job_url": "https://jobsglitch.com/jobs/6afb17bf4a5901cba79a1130",
+      "source": "jazzhr"
+    },
+    {
+      "id": "6afbeab760e7e1f87641d1ee",
+      "company": "UDig",
+      "title": "Principal Consultant, AI Engineering",
+      "locations": [
+        "Nashville, TN, Atlanta, GA or Richmond, VA"
+      ],
+      "countries": null,
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 167500,
+        "annual_max": 195000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 167500.0,
+        "max": 195000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T14:43:45.000",
+      "last_checked_at": "2026-11-23T04:54:29.640",
+      "apply_url": "https://udig.com/careers/job-listing/?gh_jid=8204954003",
+      "job_url": "https://jobsglitch.com/jobs/6afbeab760e7e1f87641d1ee",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afb16334a5901cba799add5",
+      "company": "Inside Out Hiring",
+      "title": "Full-Stack AI Engineer - Claude Code",
+      "locations": [
+        "Buenos Aires, Argentina",
+        "Medellin, Colombia"
+      ],
+      "countries": [],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 30000,
+        "annual_max": null,
+        "currency": "USD",
+        "band": "30k-50k",
+        "min": 30000.0,
+        "max": null,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T14:41:55.184",
+      "last_checked_at": "2026-11-19T22:38:31.138",
+      "apply_url": "https://insideouthiring.applytojob.com/apply/0ApT6toZ66/FullStack-AI-Engineer-Claude-Code-Job-ID-IOHAI",
+      "job_url": "https://jobsglitch.com/jobs/6afb16334a5901cba799add5",
+      "source": "jazzhr"
+    },
+    {
+      "id": "6afc0e9760e7e1f8764aead4",
+      "company": "Harvey",
+      "title": "Senior AI Enablement Engineer, GTM",
+      "locations": [
+        "San Francisco",
+        "Remote",
+        "New York"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 153000,
+        "annual_max": 210500,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 153000.0,
+        "max": 210500.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T14:31:50.077",
+      "last_checked_at": "2026-11-23T07:09:47.189",
+      "apply_url": "https://jobs.ashbyhq.com/harvey/ab302989-8958-4bdd-9110-5c13c8810986",
+      "job_url": "https://jobsglitch.com/jobs/6afc0e9760e7e1f8764aead4",
+      "source": "ashby"
+    },
+    {
+      "id": "6afbea2060e7e1f87641b2d7",
+      "company": "IonQ",
+      "title": "Staff Software Engineer",
+      "locations": [
+        "Remote, US"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 160000,
+        "annual_max": 200000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 160000.0,
+        "max": 200000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T14:19:21.000",
+      "last_checked_at": "2026-11-23T04:56:19.993",
+      "apply_url": "https://ionq.com/job?gh_jid=6223708004",
+      "job_url": "https://jobsglitch.com/jobs/6afbea2060e7e1f87641b2d7",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afbff2a60e7e1f87646b77e",
+      "company": "CHAOS Industries",
+      "title": "Principal Robotics Software Engineer",
+      "locations": [
+        "El Segundo, California, United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 246000,
+        "annual_max": 339000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 246000.0,
+        "max": 339000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T14:14:58.000",
+      "last_checked_at": "2026-11-22T23:01:48.865",
+      "apply_url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5296167007",
+      "job_url": "https://jobsglitch.com/jobs/6afbff2a60e7e1f87646b77e",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afbc19b60e7e1f876382fe8",
+      "company": "Squarespace",
+      "title": "Staff Software Engineer, Revenue Systems",
+      "locations": [
+        "New York City; Remote"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 170000,
+        "annual_max": 299000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 170000.0,
+        "max": 299000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T13:28:38.000",
+      "last_checked_at": "2026-11-22T23:22:18.174",
+      "apply_url": "http://www.squarespace.com/about/careers?gh_jid=8392753",
+      "job_url": "https://jobsglitch.com/jobs/6afbc19b60e7e1f876382fe8",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afbc19b60e7e1f876382fe7",
+      "company": "Squarespace",
+      "title": "Staff Software Engineer, Backend (Communications Platform)",
+      "locations": [
+        "New York City"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 185500,
+        "annual_max": 299000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 185500.0,
+        "max": 299000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T13:27:49.000",
+      "last_checked_at": "2026-11-22T23:22:18.174",
+      "apply_url": "http://www.squarespace.com/about/careers?gh_jid=8392750",
+      "job_url": "https://jobsglitch.com/jobs/6afbc19b60e7e1f876382fe7",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afb02e74a5901cba794fc1b",
+      "company": "Henry Schein One",
+      "title": "Staff Software Engineer",
+      "locations": [
+        "Remote"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 150000,
+        "annual_max": 165000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 150000.0,
+        "max": 165000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T13:19:35.127",
+      "last_checked_at": "2026-11-20T08:17:48.241",
+      "apply_url": "https://henryscheinone.applytojob.com/apply/3QaWB5DTyP/Staff-Software-Engineer",
+      "job_url": "https://jobsglitch.com/jobs/6afb02e74a5901cba794fc1b",
+      "source": "jazzhr"
+    },
+    {
+      "id": "6afc141260e7e1f8764ee5d6",
+      "company": "Perplexity",
+      "title": "Member of Technical Staff (Enterprise Security Engineer)",
+      "locations": [
+        "San Francisco",
+        "Remote (United States)",
+        "London",
+        "Belgrade",
+        "New York City"
+      ],
+      "countries": [
+        "United States",
+        "United Kingdom",
+        "Serbia"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 250000,
+        "annual_max": 350000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 250000.0,
+        "max": 350000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T10:55:20.253",
+      "last_checked_at": "2026-11-22T22:55:08.565",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/4c316774-abea-47d9-b681-5fdc005e4229",
+      "job_url": "https://jobsglitch.com/jobs/6afc141260e7e1f8764ee5d6",
+      "source": "ashby"
+    },
+    {
+      "id": "6afc0cd660e7e1f87649bc3c",
+      "company": "Cohere",
+      "title": "Staff Software Engineer, Data Infrastructure",
+      "locations": [
+        "New York"
+      ],
+      "countries": [
+        "Canada",
+        "United Kingdom",
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 245000,
+        "annual_max": 335000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 245000.0,
+        "max": 335000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T10:31:16.278",
+      "last_checked_at": "2026-11-22T21:55:37.192",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/c4192057-43fa-45c9-a40e-6f29131bf11d",
+      "job_url": "https://jobsglitch.com/jobs/6afc0cd660e7e1f87649bc3c",
+      "source": "ashby"
+    },
+    {
+      "id": "6afad10b4a5901cba788bc11",
+      "company": "Concord USA",
+      "title": "Principal Software Engineer - Python/AWS",
+      "locations": [
+        "Multiple Cities/States, MN"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 160000,
+        "annual_max": 180000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 160000.0,
+        "max": 180000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T09:46:51.759",
+      "last_checked_at": "2026-11-20T09:36:05.065",
+      "apply_url": "https://concordusa.applytojob.com/apply/WScdn4UAaw/Principal-Software-Engineer-PythonAWS",
+      "job_url": "https://jobsglitch.com/jobs/6afad10b4a5901cba788bc11",
+      "source": "jazzhr"
+    },
+    {
+      "id": "6afac23364d46c1ef10760e5",
+      "company": "Google",
+      "title": "Staff Software Engineer, Site Reliability Engineering, BigQuery",
+      "locations": [
+        "Kirkland, WA, USA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 207000,
+        "annual_max": 300000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 207000.0,
+        "max": 300000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T08:40:24.000",
+      "last_checked_at": "2026-11-16T08:43:49.940",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/121913443736265414-staff-software-engineer-site-reliability-engineering-bigquery",
+      "job_url": "https://jobsglitch.com/jobs/6afac23364d46c1ef10760e5",
+      "source": "google"
+    },
+    {
+      "id": "6afaa7d264d46c1ef103f75d",
+      "company": "Aurelius Systems",
+      "title": "Principal Robotic Software Engineer",
+      "locations": [
+        "San Francisco"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 225000,
+        "annual_max": 305000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 225000.0,
+        "max": 305000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T03:56:25.009",
+      "last_checked_at": "2026-11-23T15:51:29.465",
+      "apply_url": "https://jobs.ashbyhq.com/aureliussystems/87871475-1913-4636-ace2-f7a557b1d64e",
+      "job_url": "https://jobsglitch.com/jobs/6afaa7d264d46c1ef103f75d",
+      "source": "ashby"
+    },
+    {
+      "id": "6afaa7d264d46c1ef103f763",
+      "company": "Aurelius Systems",
+      "title": "Sr. ML Engineer, Perception",
+      "locations": [
+        "San Francisco"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 190000,
+        "annual_max": 222000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 190000.0,
+        "max": 222000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T03:55:00.124",
+      "last_checked_at": "2026-11-23T15:51:29.465",
+      "apply_url": "https://jobs.ashbyhq.com/aureliussystems/954b94b5-6b27-43cf-b958-e8a0aa3ef9da",
+      "job_url": "https://jobsglitch.com/jobs/6afaa7d264d46c1ef103f763",
+      "source": "ashby"
+    },
+    {
+      "id": "6afc141260e7e1f8764ee5d0",
+      "company": "Perplexity",
+      "title": "Member of Technical Staff (Perplexity Frontier Research)",
+      "locations": [
+        "New York City",
+        "Palo Alto",
+        "London",
+        "San Francisco"
+      ],
+      "countries": [
+        "United States",
+        "United Kingdom"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 250000,
+        "annual_max": 550000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 250000.0,
+        "max": 550000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T03:43:19.614",
+      "last_checked_at": "2026-11-22T22:55:08.565",
+      "apply_url": "https://jobs.ashbyhq.com/Perplexity/849874fd-ccb4-4d7e-8551-29c5a418e2c7",
+      "job_url": "https://jobsglitch.com/jobs/6afc141260e7e1f8764ee5d0",
+      "source": "ashby"
+    },
+    {
+      "id": "6afaa41d64d46c1ef10302a6",
+      "company": "Airwallex",
+      "title": "Staff Data Platform Engineer, Knowledge Platform",
+      "locations": [
+        "US - Seattle"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 200000,
+        "annual_max": 260000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 200000.0,
+        "max": 260000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T02:38:52.604",
+      "last_checked_at": "2026-11-23T11:33:00.125",
+      "apply_url": "https://jobs.ashbyhq.com/airwallex/9ef670e4-5767-42d0-91d1-6addace2cb67",
+      "job_url": "https://jobsglitch.com/jobs/6afaa41d64d46c1ef10302a6",
+      "source": "ashby"
+    },
+    {
+      "id": "6afacc5c4a5901cba7880586",
+      "company": "ServiceNow",
+      "title": "Senior Staff Software Engineer",
+      "locations": [
+        "Santa Clara, CALIFORNIA, United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 190900,
+        "annual_max": 334100,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 190900.0,
+        "max": 334100.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T02:35:35.497",
+      "last_checked_at": "2026-11-23T12:06:58.348",
+      "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161721289-senior-staff-software-engineer",
+      "job_url": "https://jobsglitch.com/jobs/6afacc5c4a5901cba7880586",
+      "source": "smartrecruiters"
+    },
+    {
+      "id": "6afa89e864d46c1ef1fe54bf",
+      "company": "Ernesta",
+      "title": "Staff Backend Engineer, Business Technology",
+      "locations": [
+        "New York, New York"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 200000,
+        "annual_max": 230000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 200000.0,
+        "max": 230000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-15T18:57:24.000",
+      "last_checked_at": "2026-11-23T01:33:09.712",
+      "apply_url": "https://job-boards.greenhouse.io/ernesta/jobs/4729640006",
+      "job_url": "https://jobsglitch.com/jobs/6afa89e864d46c1ef1fe54bf",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6afa980764d46c1ef10094cb",
+      "company": "AI SaaS company",
+      "title": "Mid-Level AI Engineer",
+      "locations": [
+        "San Francisco"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 150000,
+        "annual_max": 180000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 150000.0,
+        "max": 180000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-15T17:12:41.493",
+      "last_checked_at": "2026-11-16T05:43:37.506",
+      "apply_url": "https://jobs.ashbyhq.com/Clera/41abd2dc-cca2-4369-8e13-44f40c0cb9ac",
+      "job_url": "https://jobsglitch.com/jobs/6afa980764d46c1ef10094cb",
+      "source": "ashby"
+    },
+    {
+      "id": "6afacc5c4a5901cba7880590",
+      "company": "ServiceNow",
+      "title": "Senior Staff ML Engineer, AI Safeguards",
+      "locations": [
+        "Mountain View, CALIFORNIA, United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 201300,
+        "annual_max": 352300,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 201300.0,
+        "max": 352300.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-13T22:17:21.261",
+      "last_checked_at": "2026-11-23T12:06:58.348",
+      "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161587319-senior-staff-ml-engineer-ai-safeguards-moveworks",
+      "job_url": "https://jobsglitch.com/jobs/6afacc5c4a5901cba7880590",
+      "source": "smartrecruiters"
+    },
+    {
+      "id": "6afacc5c4a5901cba7880591",
+      "company": "ServiceNow",
+      "title": "Staff Security Engineer (Compliance)",
+      "locations": [
+        "Mountain View, CALIFORNIA, United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 176100,
+        "annual_max": 308200,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 176100.0,
+        "max": 308200.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-13T22:15:43.215",
+      "last_checked_at": "2026-11-23T12:06:58.348",
+      "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161585342-staff-security-engineer-compliance-moveworks",
+      "job_url": "https://jobsglitch.com/jobs/6afacc5c4a5901cba7880591",
+      "source": "smartrecruiters"
+    },
+    {
+      "id": "6afacc5c4a5901cba7880592",
+      "company": "ServiceNow",
+      "title": "Senior Staff Security Engineer, AI Safeguards",
+      "locations": [
+        "Mountain View, CALIFORNIA, United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 201300,
+        "annual_max": 352300,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 201300.0,
+        "max": 352300.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-13T22:13:21.431",
+      "last_checked_at": "2026-11-23T12:06:58.348",
+      "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161586589-senior-staff-security-engineer-ai-safeguards-moveworks",
+      "job_url": "https://jobsglitch.com/jobs/6afacc5c4a5901cba7880592",
+      "source": "smartrecruiters"
+    },
+    {
+      "id": "6afac07064d46c1ef107232d",
+      "company": "NBCUniversal",
+      "title": "Staff DevOps Engineer",
+      "locations": [
+        "New York, NEW YORK, United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 130000,
+        "annual_max": 160000,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 130000.0,
+        "max": 160000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-13T21:51:24.159",
+      "last_checked_at": "2026-11-23T08:59:01.049",
+      "apply_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161582329-staff-devops-engineer",
+      "job_url": "https://jobsglitch.com/jobs/6afac07064d46c1ef107232d",
+      "source": "smartrecruiters"
+    },
+    {
+      "id": "6afbd15c60e7e1f8763c0d63",
+      "company": "Allstate Insurance Co.",
+      "title": "Lead Machine Learning Platform Engineer",
+      "locations": [
+        "USA - IL (Remote)"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 110000,
+        "annual_max": 181025,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 110000.0,
+        "max": 181025.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-13T00:00:00.000",
+      "last_checked_at": "2026-11-17T04:00:29.869",
+      "apply_url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Lead-Consultant--Machine-Learning-Platform_R36661-1",
+      "job_url": "https://jobsglitch.com/jobs/6afbd15c60e7e1f8763c0d63",
+      "source": "workday"
+    },
+    {
+      "id": "6afab4d364d46c1ef105e5c7",
+      "company": "Advantage HQ",
+      "title": "AI Engineer",
+      "locations": [
+        "Manila"
+      ],
+      "countries": null,
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 24000,
+        "annual_max": 48000,
+        "currency": "USD",
+        "band": "<30k",
+        "min": 24000.0,
+        "max": 48000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-13T00:00:00.000",
+      "last_checked_at": "2026-11-19T22:44:50.919",
+      "apply_url": "https://bmdigital.applytojob.com/apply/0IXydRorlr/AI-Engineer",
+      "job_url": "https://jobsglitch.com/jobs/6afab4d364d46c1ef105e5c7",
+      "source": "jazzhr"
+    },
+    {
+      "id": "6afbd15c60e7e1f8763c0d59",
+      "company": "Allstate Insurance Co.",
+      "title": "Risk, Data & AI Software Engineer",
+      "locations": [
+        "US - Remote"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 90700,
+        "annual_max": 153925,
+        "currency": "USD",
+        "band": "75k-100k",
+        "min": 90700.0,
+        "max": 153925.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-13T00:00:00.000",
+      "last_checked_at": "2026-11-17T04:00:29.869",
+      "apply_url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Risk--Data---AI-Software-Engineer--Remote--US-_R36643-1",
+      "job_url": "https://jobsglitch.com/jobs/6afbd15c60e7e1f8763c0d59",
+      "source": "workday"
+    },
+    {
+      "id": "6afa873d88b8390c0be9c8fd",
+      "company": "Google",
+      "title": "Senior Staff Software Engineer, Serving Platform, Google Cloud Storage",
+      "locations": [
+        "Sunnyvale, CA, USA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 262000,
+        "annual_max": 364000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 262000.0,
+        "max": 364000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-12T17:09:00.000",
+      "last_checked_at": "2026-11-16T04:33:32.188",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/139716499790013126-senior-staff-software-engineer-serving-platform-google-cloud-storage",
+      "job_url": "https://jobsglitch.com/jobs/6afa873d88b8390c0be9c8fd",
+      "source": "google"
+    },
+    {
+      "id": "6afa873a88b8390c0be9c794",
+      "company": "Google",
+      "title": "Software Engineer, Knowledge Catalog For AI",
+      "locations": [
+        "Kirkland, WA, USA",
+        "Sunnyvale, CA, USA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 147000,
+        "annual_max": 210000,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 147000.0,
+        "max": 210000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-12T11:37:55.000",
+      "last_checked_at": "2026-11-16T04:33:32.188",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/99790896123257542-software-engineer-knowledge-catalog-for-ai",
+      "job_url": "https://jobsglitch.com/jobs/6afa873a88b8390c0be9c794",
+      "source": "google"
+    },
+    {
+      "id": "6af591256b99b4e4b3c5cd9f",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Principal Product Security Response Engineer - AI and Automation",
+      "locations": [
+        "Spring, Texas, United States of America"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 157000,
+        "annual_max": 361000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 157000.0,
+        "max": 361000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-12T03:53:19.846",
+      "last_checked_at": "2026-11-20T09:56:01.776",
+      "apply_url": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Spring-Texas-United-States-of-America/Principal-Product-Security-Response-Engineer---AI-and-Automation_1217976-1",
+      "job_url": "https://jobsglitch.com/jobs/6af591256b99b4e4b3c5cd9f",
+      "source": "workday"
+    },
+    {
+      "id": "6af58f816b99b4e4b3c5c3f0",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Principal Platform Engineer – Kubernetes Reliability and Distributed Systems",
+      "locations": [
+        "Durham, North Carolina, United States of America"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 157000,
+        "annual_max": 361000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 157000.0,
+        "max": 361000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-12T03:49:32.571",
+      "last_checked_at": "2026-11-20T22:18:58.023",
+      "apply_url": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Durham-North-Carolina-United-States-of-America/Principal-Platform-Engineer---Kubernetes-Reliability-and-Distributed-Systems_1215296-1",
+      "job_url": "https://jobsglitch.com/jobs/6af58f816b99b4e4b3c5c3f0",
+      "source": "workday"
+    },
+    {
+      "id": "6af591256b99b4e4b3c5cdab",
+      "company": "Hewlett Packard Enterprise",
+      "title": "HPE Quantum - Principal Software Engineer",
+      "locations": [
+        "Milpitas, California, United States of America"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 158500,
+        "annual_max": 321000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 158500.0,
+        "max": 321000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-12T03:48:34.501",
+      "last_checked_at": "2026-11-20T09:56:01.776",
+      "apply_url": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Principal-Research-Engineer---HPE-Quantum_1218252-3",
+      "job_url": "https://jobsglitch.com/jobs/6af591256b99b4e4b3c5cdab",
+      "source": "workday"
+    },
+    {
+      "id": "6af7409c6b99b4e4b3d6b0ec",
+      "company": "Weekday AI",
+      "title": "ML Infrastructure and Performance Engineer, AI Expert",
+      "locations": [
+        "Remote"
+      ],
+      "countries": null,
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 187200,
+        "annual_max": 249600,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 187200.0,
+        "max": 249600.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-12T00:00:00.000",
+      "last_checked_at": "2026-11-20T15:05:11.854",
+      "apply_url": "https://apply.workable.com/j/F5C8A4D324/apply",
+      "job_url": "https://jobsglitch.com/jobs/6af7409c6b99b4e4b3d6b0ec",
+      "source": "workable"
+    },
+    {
+      "id": "6b03e2be31087af55ed63262",
+      "company": "Arcadia",
+      "title": "Principal Software Engineer - Data Platform",
+      "locations": [
+        "Remote (USA)"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 250000,
+        "annual_max": 350000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 250000.0,
+        "max": 350000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-11T19:34:59.939",
+      "last_checked_at": "2026-11-23T11:52:49.395",
+      "apply_url": "https://jobs.lever.co/arcadia/aa78369b-9316-4b22-9456-f2ae791f4e27",
+      "job_url": "https://jobsglitch.com/jobs/6b03e2be31087af55ed63262",
+      "source": "lever"
+    },
+    {
+      "id": "6af6fdda6b99b4e4b3cc2c39",
+      "company": "LLNL",
+      "title": "Physics-Informed Machine Learning - Postdoctoral Researcher",
+      "locations": [
+        "Livermore",
+        "CA",
+        "United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 123048,
+        "annual_max": null,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 123048.0,
+        "max": null,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-11T15:37:42.000",
+      "last_checked_at": "2026-11-22T21:18:18.101",
+      "apply_url": "https://jobs.smartrecruiters.com/LLNL/3743990016793416-physics-informed-machine-learning-postdoctoral-researcher-",
+      "job_url": "https://jobsglitch.com/jobs/6af6fdda6b99b4e4b3cc2c39",
+      "source": "smartrecruiters"
+    },
+    {
+      "id": "6afa878688b8390c0be9e1eb",
+      "company": "Google",
+      "title": "Senior Staff Software Engineer, High Performance Networking, Platforms Infrastructure Engineering",
+      "locations": [
+        "Sunnyvale, CA, USA",
+        "New York, NY, USA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 262000,
+        "annual_max": 364000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 262000.0,
+        "max": 364000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-11T15:08:36.000",
+      "last_checked_at": "2026-11-16T04:33:32.188",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/102052084735451846-senior-staff-software-engineer-high-performance-networking-platforms-infrastructure-engineering",
+      "job_url": "https://jobsglitch.com/jobs/6afa878688b8390c0be9e1eb",
+      "source": "google"
+    },
+    {
+      "id": "6afa877988b8390c0be9df57",
+      "company": "DeepMind",
+      "title": "Frontier AI Research Scientist",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 147000,
+        "annual_max": 210000,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 147000.0,
+        "max": 210000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-11T08:07:51.000",
+      "last_checked_at": "2026-11-16T04:33:32.188",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/95821221060321990-frontier-ai-research-scientist-deepmind",
+      "job_url": "https://jobsglitch.com/jobs/6afa877988b8390c0be9df57",
+      "source": "google"
+    },
+    {
+      "id": "6af591256b99b4e4b3c5cdea",
+      "company": "Hewlett Packard Enterprise",
+      "title": "HPE Labs - AI/ML Engineer (Technical Lead)",
+      "locations": [
+        "Milpitas, California, United States of America"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 178000,
+        "annual_max": 361000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 178000.0,
+        "max": 361000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-11T03:51:37.092",
+      "last_checked_at": "2026-11-20T09:56:01.776",
+      "apply_url": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---AI-ML-Engineer--Technical-Lead-_1217315-1",
+      "job_url": "https://jobsglitch.com/jobs/6af591256b99b4e4b3c5cdea",
+      "source": "workday"
+    },
+    {
+      "id": "6af7432f6b99b4e4b3d72e13",
+      "company": "Frontier Medicines",
+      "title": "Machine Learning Scientist I - Generative & Agentic AI for Drug Discovery",
+      "locations": [
+        "South San Francisco, California, United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 100000,
+        "annual_max": 158900,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 100000.0,
+        "max": 158900.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-11T00:00:00.000",
+      "last_checked_at": "2026-11-20T07:43:03.133",
+      "apply_url": "https://apply.workable.com/j/2122AF4671/apply",
+      "job_url": "https://jobsglitch.com/jobs/6af7432f6b99b4e4b3d72e13",
+      "source": "workable"
+    },
+    {
+      "id": "6af413c36b99b4e4b3a1f919",
+      "company": "Arista Networks",
+      "title": "Senior Systems Engineer - Hyperscaler, AI, and Cloud Titans",
+      "locations": [
+        "Seattle",
+        "WA",
+        "United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 128000,
+        "annual_max": 186000,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 128000.0,
+        "max": 186000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-10T19:46:57.000",
+      "last_checked_at": "2026-11-23T02:58:06.235",
+      "apply_url": "https://jobs.smartrecruiters.com/AristaNetworks/744000160957819-senior-systems-engineer-hyperscaler-ai-and-cloud-titans",
+      "job_url": "https://jobsglitch.com/jobs/6af413c36b99b4e4b3a1f919",
+      "source": "smartrecruiters"
+    },
+    {
+      "id": "6afa878288b8390c0be9e12a",
+      "company": "DeepMind",
+      "title": "Staff Software Engineer, DeepMind",
+      "locations": [
+        "Mountain View, CA, USA",
+        "New York, NY, USA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 207000,
+        "annual_max": 300000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 207000.0,
+        "max": 300000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-10T09:41:46.000",
+      "last_checked_at": "2026-11-16T04:33:32.188",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/124548522136478406-staff-software-engineer-deepmind",
+      "job_url": "https://jobsglitch.com/jobs/6afa878288b8390c0be9e12a",
+      "source": "google"
+    },
+    {
+      "id": "6af7411c6b99b4e4b3d6c77d",
+      "company": "TetraScience",
+      "title": "Senior Software Platform Engineer, MLOps",
+      "locations": [
+        "San Mateo, California, United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 170000,
+        "annual_max": 220000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 170000.0,
+        "max": 220000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-10T00:00:00.000",
+      "last_checked_at": "2026-11-20T16:44:02.507",
+      "apply_url": "https://apply.workable.com/j/9CA82FE870/apply",
+      "job_url": "https://jobsglitch.com/jobs/6af7411c6b99b4e4b3d6c77d",
+      "source": "workable"
+    },
+    {
+      "id": "6afae07d4a5901cba78b1f62",
+      "company": "D-Wave Quantum",
+      "title": "Staff Software Engineer, ML/AI Calibration",
+      "locations": [
+        "Hybrid (New Haven, Connecticut, US)",
+        "Hybrid (New Haven, CT, US)"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 175000,
+        "annual_max": 241000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 175000.0,
+        "max": 241000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-09T19:56:05.781",
+      "last_checked_at": "2026-11-19T20:35:06.941",
+      "apply_url": "https://ats.rippling.com/d-wave-quantum/jobs/6c79d035-7764-4baf-95e0-3c1fe223c0f8",
+      "job_url": "https://jobsglitch.com/jobs/6afae07d4a5901cba78b1f62",
+      "source": "rippling"
+    }
+  ]
+}

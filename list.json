@@ -1,0 +1,134 @@
+{
+  "repo": "staff-ai-jobs-with-pay",
+  "title": "Staff+ and AI engineering jobs with posted pay",
+  "intro": "Staff, principal and AI engineering roles where the employer states the pay, taken from companies' own career pages and rebuilt every day. Closed roles drop off.",
+  "days": 14,
+  "pages_per_query": 3,
+  "params": {
+    "has_salary": true
+  },
+  "queries": [
+    {
+      "q": "staff engineer"
+    },
+    {
+      "q": "staff software engineer"
+    },
+    {
+      "q": "principal engineer"
+    },
+    {
+      "q": "principal software engineer"
+    },
+    {
+      "q": "distinguished engineer"
+    },
+    {
+      "q": "member of technical staff"
+    },
+    {
+      "q": "machine learning engineer"
+    },
+    {
+      "q": "AI engineer"
+    },
+    {
+      "q": "research engineer"
+    },
+    {
+      "q": "research scientist"
+    },
+    {
+      "q": "applied scientist"
+    },
+    {
+      "q": "MLOps engineer"
+    }
+  ],
+  "title_match": [
+    [
+      "\\b(staff|principal|distinguished|fellow)\\b",
+      "\\b(software|developer|backend|back-end|frontend|front-end|full[- ]?stack|platform|infrastructure|data|machine learning|ml|ai|security|devops|sre|reliability|cloud|mobile|ios|android|web|forward deployed|distributed|compilers?|research engineer|research scientist|applied scientist|threat)\\b"
+    ],
+    [
+      "\\bmember of technical staff\\b"
+    ],
+    [
+      "\\b(machine learning|ml|ai|llm|llms|deep learning|genai|generative|nlp|computer vision|mlops|applied)\\b",
+      "\\b(engineer|scientist|researcher|architect)\\b"
+    ]
+  ],
+  "title_exclude": [
+    "\\b(intern|internship|working student|student|apprentice|new grad|graduate|stage)\\b",
+    "\\b(sales|solutions?|customer|support|recruit\\w*|marketing|account|accountant|nurse|clinical|pharmac\\w*|business develop\\w*)\\b",
+    "\\b(mechanical|civil|electrical|structural|geotechnical|manufacturing|process|quality|field|facilities|hvac|chemical|environmental|construction|plumbing|transportation|water|traffic|utilities|nuclear|aerospace|rf|hardware|firmware|optical|test|materials?|drilling|antenna|gnc|supplier|npi|lidar|imaging|oligonucleotide|biolog\\w*|chemist\\w*|project engineer|data cent(er|re))\\b"
+  ],
+  "max_per_company": 4,
+  "max_rows": 250,
+  "min_rows": 25,
+  "method": [
+    "Jobs come straight from employers' own hiring systems (Greenhouse, Lever, Ashby, Workday and others), collected by [JobsGlitch](https://jobsglitch.com).",
+    "A role is listed only when the employer states the pay. Nothing here is estimated.",
+    "A role is listed only if it was still open on the employer's page at the last check. Closed roles drop off at the next daily rebuild.",
+    "Each company gets at most four rows, newest first, so one large employer cannot fill the list.",
+    "\"Apply\" goes to the employer's own page. \"Check my fit\" opens the same job on JobsGlitch.",
+    "Locations are read automatically and can be wrong; the employer's page is the authority."
+  ],
+  "yearly_pay_bounds": {
+    "USD": [
+      30000,
+      1500000
+    ],
+    "CAD": [
+      30000,
+      1500000
+    ],
+    "AUD": [
+      30000,
+      1500000
+    ],
+    "EUR": [
+      20000,
+      1000000
+    ],
+    "GBP": [
+      20000,
+      1000000
+    ],
+    "CHF": [
+      30000,
+      1000000
+    ],
+    "INR": [
+      300000,
+      50000000
+    ],
+    "PLN": [
+      40000,
+      2000000
+    ],
+    "CZK": [
+      300000,
+      20000000
+    ],
+    "SEK": [
+      200000,
+      5000000
+    ],
+    "NOK": [
+      200000,
+      5000000
+    ],
+    "DKK": [
+      200000,
+      5000000
+    ]
+  },
+  "company_exclude": [
+    "^weekday$",
+    "^hudson manpower$",
+    "^omegahires$",
+    "^right search$",
+    "^ashby jobs$"
+  ]
+}
