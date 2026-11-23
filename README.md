@@ -2,7 +2,7 @@
 
 Staff, principal and AI engineering roles where the employer states the pay, taken from companies' own career pages and rebuilt every day. Closed roles drop off.
 
-**153 roles at 111 companies.** Rebuilt 23 November 2026, 20:37 UTC from jobs posted in the last 14 days. Pay is per year unless marked.
+**153 roles at 111 companies.** Rebuilt 23 November 2026, 20:43 UTC from jobs posted in the last 14 days. Pay is per year unless marked.
 
 | Company | Role | Location | Pay | Posted | Links |
 |---|---|---|---|---|---|
