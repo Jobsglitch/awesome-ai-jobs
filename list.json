@@ -1,6 +1,6 @@
 {
-  "repo": "staff-ai-jobs-with-pay",
-  "title": "Staff+ and AI engineering jobs with posted pay",
+  "repo": "awesome-ai-jobs",
+  "title": "Awesome AI jobs: Staff+ and AI engineering roles with posted pay",
   "intro": "Staff, principal and AI engineering roles where the employer states the pay, taken from companies' own career pages and rebuilt every day. Closed roles drop off.",
   "days": 14,
   "pages_per_query": 3,
