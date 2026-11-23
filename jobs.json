@@ -1,7 +1,88 @@
 {
   "list": "staff-ai-jobs-with-pay",
-  "generated_at": "2026-11-23T17:56:20+00:00",
+  "generated_at": "2026-11-23T20:37:14+00:00",
   "jobs": [
+    {
+      "id": "6b04852a992725a58fb1c259",
+      "company": "Clera",
+      "title": "Member of Technical Staff, Full Stack",
+      "locations": [
+        "San Francisco"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 200000,
+        "annual_max": 300000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 200000.0,
+        "max": 300000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-23T18:16:10.234",
+      "last_checked_at": "2026-11-23T18:25:48.012",
+      "apply_url": "https://jobs.ashbyhq.com/Clera/75eae61e-9572-4985-a821-15090d2d3344",
+      "job_url": "https://jobsglitch.com/jobs/6b04852a992725a58fb1c259",
+      "source": "ashby"
+    },
+    {
+      "id": "6b048030992725a58fb10001",
+      "company": "BILL",
+      "title": "Senior Staff Software Engineer, Frontend - AI Native",
+      "locations": [
+        "United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 232000,
+        "annual_max": 290000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 232000.0,
+        "max": 290000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-23T17:16:54.000",
+      "last_checked_at": "2026-11-23T18:04:32.877",
+      "apply_url": "https://www.bill.com/job?6267860004&gh_jid=6267860004",
+      "job_url": "https://jobsglitch.com/jobs/6b048030992725a58fb10001",
+      "source": "greenhouse"
+    },
+    {
+      "id": "6b0492e5535f54e954b61069",
+      "company": "MeridianLink",
+      "title": "Forward Deployed AI Engineer",
+      "locations": [
+        "US Remote"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 114593,
+        "annual_max": 230000,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 114593.0,
+        "max": 230000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-23T16:21:25.792",
+      "last_checked_at": "2026-11-23T19:24:21.369",
+      "apply_url": "https://jobs.ashbyhq.com/meridianlink/a16eea89-1e97-4b61-8fbf-4ffa97ac32c7",
+      "job_url": "https://jobsglitch.com/jobs/6b0492e5535f54e954b61069",
+      "source": "ashby"
+    },
     {
       "id": "6b0451f9992725a58fa50ce7",
       "company": "Vena Solutions",
@@ -275,33 +356,6 @@
       "source": "ashby"
     },
     {
-      "id": "6b01eead23dcbf6f18b5054b",
-      "company": "Clera",
-      "title": "Mid-Level AI Engineer",
-      "locations": [
-        "San Francisco"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote_friendly": false,
-      "salary": {
-        "annual_min": 150000,
-        "annual_max": 180000,
-        "currency": "USD",
-        "band": "150k-200k",
-        "min": 150000.0,
-        "max": 180000.0,
-        "period": "yearly",
-        "is_estimated": false
-      },
-      "posted_at": "2026-11-21T17:17:55.891",
-      "last_checked_at": "2026-11-23T11:10:58.336",
-      "apply_url": "https://jobs.ashbyhq.com/Clera/5fdb38a1-7f61-4afb-80ed-481afc7938f4",
-      "job_url": "https://jobsglitch.com/jobs/6b01eead23dcbf6f18b5054b",
-      "source": "ashby"
-    },
-    {
       "id": "6b0192ae23dcbf6f18a402fd",
       "company": "Playlab",
       "title": "Staff Platform Engineer",
@@ -378,7 +432,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-20T23:24:46.160",
-      "last_checked_at": "2026-11-23T00:07:18.326",
+      "last_checked_at": "2026-11-23T14:53:08.055",
       "apply_url": "https://jobs.ashbyhq.com/creatoriq/5ab10a53-1772-470b-aef6-41bf16574412",
       "job_url": "https://jobsglitch.com/jobs/6b0111c7c626fc9d72bba6fb",
       "source": "ashby"
@@ -516,7 +570,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-20T19:54:36.605",
-      "last_checked_at": "2026-11-22T19:32:11.586",
+      "last_checked_at": "2026-11-23T11:32:28.670",
       "apply_url": "https://jobs.ashbyhq.com/parallel/6b2d216d-b726-4970-80a1-d3cc735e3600",
       "job_url": "https://jobsglitch.com/jobs/6b00c16dc626fc9d72aaaf2f",
       "source": "ashby"
@@ -1124,7 +1178,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-19T16:11:09.982",
-      "last_checked_at": "2026-11-22T19:32:11.586",
+      "last_checked_at": "2026-11-23T11:32:28.670",
       "apply_url": "https://jobs.ashbyhq.com/parallel/5e23aa2b-cf34-4ce9-b8f7-d3d53612bc8f",
       "job_url": "https://jobsglitch.com/jobs/6aff4251ace2179470176d96",
       "source": "ashby"
@@ -2179,7 +2233,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T23:52:58.000",
-      "last_checked_at": "2026-11-23T02:13:27.070",
+      "last_checked_at": "2026-11-23T14:56:13.876",
       "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5283492007",
       "job_url": "https://jobsglitch.com/jobs/6afbd9f560e7e1f8763e0f72",
       "source": "greenhouse"
@@ -2340,7 +2394,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T21:29:01.000",
-      "last_checked_at": "2026-11-23T01:51:00.320",
+      "last_checked_at": "2026-11-23T14:53:48.059",
       "apply_url": "https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4753663005",
       "job_url": "https://jobsglitch.com/jobs/6afba93560e7e1f876324235",
       "source": "greenhouse"
@@ -2660,7 +2714,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T17:58:23.000",
-      "last_checked_at": "2026-11-23T02:09:10.535",
+      "last_checked_at": "2026-11-23T14:55:48.793",
       "apply_url": "https://liftoff.io/job/8383865?gh_jid=8383865",
       "job_url": "https://jobsglitch.com/jobs/6afbee3e60e7e1f87642b7f7",
       "source": "greenhouse"
@@ -2687,7 +2741,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T17:42:58.000",
-      "last_checked_at": "2026-11-23T02:13:27.070",
+      "last_checked_at": "2026-11-23T14:56:13.876",
       "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5263590007",
       "job_url": "https://jobsglitch.com/jobs/6afbd9f560e7e1f8763e0f8f",
       "source": "greenhouse"
@@ -2825,7 +2879,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T16:20:53.000",
-      "last_checked_at": "2026-11-23T02:10:00.590",
+      "last_checked_at": "2026-11-23T14:55:57.801",
       "apply_url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6261236004",
       "job_url": "https://jobsglitch.com/jobs/6afc0f2260e7e1f8764b578f",
       "source": "greenhouse"
@@ -3884,7 +3938,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-12T00:00:00.000",
-      "last_checked_at": "2026-11-20T15:05:11.854",
+      "last_checked_at": "2026-11-23T19:34:10.102",
       "apply_url": "https://apply.workable.com/j/F5C8A4D324/apply",
       "job_url": "https://jobsglitch.com/jobs/6af7409c6b99b4e4b3d6b0ec",
       "source": "workable"
@@ -4049,7 +4103,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-11T00:00:00.000",
-      "last_checked_at": "2026-11-20T07:43:03.133",
+      "last_checked_at": "2026-11-23T14:35:28.135",
       "apply_url": "https://apply.workable.com/j/2122AF4671/apply",
       "job_url": "https://jobsglitch.com/jobs/6af7432f6b99b4e4b3d72e13",
       "source": "workable"
@@ -4137,34 +4191,6 @@
       "apply_url": "https://apply.workable.com/j/9CA82FE870/apply",
       "job_url": "https://jobsglitch.com/jobs/6af7411c6b99b4e4b3d6c77d",
       "source": "workable"
-    },
-    {
-      "id": "6afae07d4a5901cba78b1f62",
-      "company": "D-Wave Quantum",
-      "title": "Staff Software Engineer, ML/AI Calibration",
-      "locations": [
-        "Hybrid (New Haven, Connecticut, US)",
-        "Hybrid (New Haven, CT, US)"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote_friendly": true,
-      "salary": {
-        "annual_min": 175000,
-        "annual_max": 241000,
-        "currency": "USD",
-        "band": "150k-200k",
-        "min": 175000.0,
-        "max": 241000.0,
-        "period": "yearly",
-        "is_estimated": false
-      },
-      "posted_at": "2026-11-09T19:56:05.781",
-      "last_checked_at": "2026-11-19T20:35:06.941",
-      "apply_url": "https://ats.rippling.com/d-wave-quantum/jobs/6c79d035-7764-4baf-95e0-3c1fe223c0f8",
-      "job_url": "https://jobsglitch.com/jobs/6afae07d4a5901cba78b1f62",
-      "source": "rippling"
     }
   ]
 }
