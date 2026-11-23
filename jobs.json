@@ -1,6 +1,6 @@
 {
-  "list": "staff-ai-jobs-with-pay",
-  "generated_at": "2026-11-23T20:43:55+00:00",
+  "list": "awesome-ai-jobs",
+  "generated_at": "2026-11-23T21:08:47+00:00",
   "jobs": [
     {
       "id": "6b04852a992725a58fb1c259",
@@ -2367,7 +2367,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T21:46:23.000",
-      "last_checked_at": "2026-11-23T03:08:33.193",
+      "last_checked_at": "2026-11-23T15:09:10.526",
       "apply_url": "https://job-boards.greenhouse.io/stackadapt/jobs/4509494009",
       "job_url": "https://jobsglitch.com/jobs/6afbc1c860e7e1f876383d80",
       "source": "greenhouse"
@@ -2607,7 +2607,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T19:17:05.000",
-      "last_checked_at": "2026-11-22T19:26:55.210",
+      "last_checked_at": "2026-11-23T15:01:51.492",
       "apply_url": "https://careers.roblox.com/jobs/8268776?gh_jid=8268776",
       "job_url": "https://jobsglitch.com/jobs/6afbb32a60e7e1f87635723c",
       "source": "greenhouse"
@@ -3704,6 +3704,33 @@
       "source": "smartrecruiters"
     },
     {
+      "id": "6afa0d3c88b8390c0be50040",
+      "company": "Google",
+      "title": "Senior Staff Network Engineer, Google Global Infrastructure",
+      "locations": [
+        "Sunnyvale, CA, USA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 222000,
+        "annual_max": 308000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 222000.0,
+        "max": 308000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-13T11:10:15.000",
+      "last_checked_at": "2026-11-16T06:37:31.323",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/103631747937116870-senior-staff-network-engineer-google-global-infrastructure",
+      "job_url": "https://jobsglitch.com/jobs/6afa0d3c88b8390c0be50040",
+      "source": "google"
+    },
+    {
       "id": "6afbd15c60e7e1f8763c0d63",
       "company": "Allstate Insurance Co.",
       "title": "Lead Machine Learning Platform Engineer",
@@ -3783,6 +3810,35 @@
       "source": "workday"
     },
     {
+      "id": "6afa0cee88b8390c0be4f77e",
+      "company": "Google",
+      "title": "Staff Network Security Engineer, Google Enterprise Network",
+      "locations": [
+        "Austin, TX, USA",
+        "New York, NY, USA",
+        "Sunnyvale, CA, USA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 176000,
+        "annual_max": 256000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 176000.0,
+        "max": 256000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-12T21:36:35.000",
+      "last_checked_at": "2026-11-16T06:37:31.323",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/91863486006469318-staff-network-security-engineer-google-enterprise-network",
+      "job_url": "https://jobsglitch.com/jobs/6afa0cee88b8390c0be4f77e",
+      "source": "google"
+    },
+    {
       "id": "6afa873d88b8390c0be9c8fd",
       "company": "Google",
       "title": "Senior Staff Software Engineer, Serving Platform, Google Cloud Storage",
@@ -3807,34 +3863,6 @@
       "last_checked_at": "2026-11-16T04:33:32.188",
       "apply_url": "https://www.google.com/about/careers/applications/jobs/results/139716499790013126-senior-staff-software-engineer-serving-platform-google-cloud-storage",
       "job_url": "https://jobsglitch.com/jobs/6afa873d88b8390c0be9c8fd",
-      "source": "google"
-    },
-    {
-      "id": "6afa873a88b8390c0be9c794",
-      "company": "Google",
-      "title": "Software Engineer, Knowledge Catalog For AI",
-      "locations": [
-        "Kirkland, WA, USA",
-        "Sunnyvale, CA, USA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote_friendly": null,
-      "salary": {
-        "annual_min": 147000,
-        "annual_max": 210000,
-        "currency": "USD",
-        "band": "100k-150k",
-        "min": 147000.0,
-        "max": 210000.0,
-        "period": "yearly",
-        "is_estimated": false
-      },
-      "posted_at": "2026-11-12T11:37:55.000",
-      "last_checked_at": "2026-11-16T04:33:32.188",
-      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/99790896123257542-software-engineer-knowledge-catalog-for-ai",
-      "job_url": "https://jobsglitch.com/jobs/6afa873a88b8390c0be9c794",
       "source": "google"
     },
     {
@@ -4000,34 +4028,6 @@
       "source": "smartrecruiters"
     },
     {
-      "id": "6afa878688b8390c0be9e1eb",
-      "company": "Google",
-      "title": "Senior Staff Software Engineer, High Performance Networking, Platforms Infrastructure Engineering",
-      "locations": [
-        "Sunnyvale, CA, USA",
-        "New York, NY, USA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote_friendly": null,
-      "salary": {
-        "annual_min": 262000,
-        "annual_max": 364000,
-        "currency": "USD",
-        "band": "200k+",
-        "min": 262000.0,
-        "max": 364000.0,
-        "period": "yearly",
-        "is_estimated": false
-      },
-      "posted_at": "2026-11-11T15:08:36.000",
-      "last_checked_at": "2026-11-16T04:33:32.188",
-      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/102052084735451846-senior-staff-software-engineer-high-performance-networking-platforms-infrastructure-engineering",
-      "job_url": "https://jobsglitch.com/jobs/6afa878688b8390c0be9e1eb",
-      "source": "google"
-    },
-    {
       "id": "6afa877988b8390c0be9df57",
       "company": "DeepMind",
       "title": "Frontier AI Research Scientist",
@@ -4138,6 +4138,33 @@
       "source": "smartrecruiters"
     },
     {
+      "id": "6afa0ce588b8390c0be4f6b3",
+      "company": "YouTube",
+      "title": "Tech Lead, Staff Software Engineering, YouTube Premium Acquisition",
+      "locations": [
+        "San Bruno, CA, USA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 207000,
+        "annual_max": 300000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 207000.0,
+        "max": 300000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-10T18:08:55.000",
+      "last_checked_at": "2026-11-16T06:37:31.323",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/136128303722308294-tech-lead-staff-software-engineering-youtube-premium-acquisition",
+      "job_url": "https://jobsglitch.com/jobs/6afa0ce588b8390c0be4f6b3",
+      "source": "google"
+    },
+    {
       "id": "6afa878288b8390c0be9e12a",
       "company": "DeepMind",
       "title": "Staff Software Engineer, DeepMind",
@@ -4191,6 +4218,33 @@
       "apply_url": "https://apply.workable.com/j/9CA82FE870/apply",
       "job_url": "https://jobsglitch.com/jobs/6af7411c6b99b4e4b3d6c77d",
       "source": "workable"
+    },
+    {
+      "id": "6af401ad6b99b4e4b39c1174",
+      "company": "LinkedIn",
+      "title": "Staff Software Engineer",
+      "locations": [
+        "Mountain View",
+        "CA",
+        "United States"
+      ],
+      "countries": null,
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 156000,
+        "annual_max": 255000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 156000.0,
+        "max": 255000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-09T22:13:28.000",
+      "last_checked_at": "2026-11-23T10:52:46.764",
+      "apply_url": "https://jobs.smartrecruiters.com/LinkedIn3/744000160737689-staff-software-engineer",
+      "job_url": "https://jobsglitch.com/jobs/6af401ad6b99b4e4b39c1174",
+      "source": "smartrecruiters"
     }
   ]
 }
