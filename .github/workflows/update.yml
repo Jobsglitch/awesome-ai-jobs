@@ -13,7 +13,7 @@ concurrency: rebuild
 jobs:
   rebuild:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25   # searches get up to 15 minutes in all, retries included
     steps:
       - uses: actions/checkout@v4
       # Standard library only, so the runner's own Python is enough.
