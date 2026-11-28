@@ -1,7 +1,120 @@
 {
   "list": "awesome-ai-jobs",
-  "generated_at": "2026-11-27T15:19:11+00:00",
+  "generated_at": "2026-11-28T06:33:23+00:00",
   "jobs": [
+    {
+      "id": "6b0a21faea6c3bd12626ba9d",
+      "company": "Credit Genie",
+      "title": "Staff Software Engineer, Applications Platform",
+      "locations": [
+        "New York, NY",
+        "Philadelphia, PA",
+        "Toronto, ON",
+        "Plymouth Meeting, PA"
+      ],
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": 200000,
+        "annual_max": 250000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 200000.0,
+        "max": 250000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-27T19:02:11.890",
+      "last_checked_at": "2026-11-28T00:36:10.286",
+      "apply_url": "https://jobs.ashbyhq.com/creditgenie/b4845cb7-a56d-4d25-90aa-d71575f0b8ea",
+      "job_url": "https://jobsglitch.com/jobs/6b0a21faea6c3bd12626ba9d",
+      "source": "ashby"
+    },
+    {
+      "id": "6b09e68eea6c3bd1261cfed1",
+      "company": "Clera",
+      "title": "Founding AI / Backend Engineer",
+      "locations": [
+        "New York"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 180000,
+        "annual_max": 180000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 180000.0,
+        "max": 180000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-27T17:05:18.706",
+      "last_checked_at": "2026-11-27T20:22:39.090",
+      "apply_url": "https://jobs.ashbyhq.com/Clera/07a04ecf-0fb6-4423-9fa9-95de3b3eea6f",
+      "job_url": "https://jobsglitch.com/jobs/6b09e68eea6c3bd1261cfed1",
+      "source": "ashby"
+    },
+    {
+      "id": "6b0a19d9ea6c3bd12624db26",
+      "company": "Datatonic",
+      "title": "Senior AI Engineer",
+      "locations": [
+        "Canada"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": null,
+        "annual_max": null,
+        "currency": "CAD",
+        "band": "100k-150k",
+        "min": 125000.0,
+        "max": 170000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-27T16:56:28.518",
+      "last_checked_at": "2026-11-28T00:01:29.675",
+      "apply_url": "https://jobs.ashbyhq.com/datatonic/71edb50f-2600-450e-8fbd-ad3d9fb8d73c",
+      "job_url": "https://jobsglitch.com/jobs/6b0a19d9ea6c3bd12624db26",
+      "source": "ashby"
+    },
+    {
+      "id": "6b09dc39ea6c3bd1261b0be0",
+      "company": "NinjaTrader",
+      "title": "Staff Software Engineer, FCM",
+      "locations": [
+        "Chicago, US",
+        "United States"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 110400,
+        "annual_max": 220800,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 110400.0,
+        "max": 220800.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-27T15:59:56.206",
+      "last_checked_at": "2026-11-27T21:38:47.257",
+      "apply_url": "https://jobs.ashbyhq.com/NinjaTrader/1d5dcded-2be1-429c-954f-543d10980449",
+      "job_url": "https://jobsglitch.com/jobs/6b09dc39ea6c3bd1261b0be0",
+      "source": "ashby"
+    },
     {
       "id": "6b099125338217d7eab782db",
       "company": "Zinc",
@@ -57,33 +170,6 @@
       "source": "pinpoint"
     },
     {
-      "id": "6b0926c726fa9ee04b194ab0",
-      "company": "ProphetX",
-      "title": "Staff DevOps Engineer",
-      "locations": [
-        "Remote - USA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote_friendly": true,
-      "salary": {
-        "annual_min": 180000,
-        "annual_max": 220000,
-        "currency": "USD",
-        "band": "150k-200k",
-        "min": 180000.0,
-        "max": 220000.0,
-        "period": "yearly",
-        "is_estimated": false
-      },
-      "posted_at": "2026-11-27T06:44:23.055",
-      "last_checked_at": "2026-11-27T12:44:53.758",
-      "apply_url": "https://prophetexchange.pinpointhq.com/en/postings/c0dae85d-514e-490a-be0e-133196663338",
-      "job_url": "https://jobsglitch.com/jobs/6b0926c726fa9ee04b194ab0",
-      "source": "pinpoint"
-    },
-    {
       "id": "6b094c7626fa9ee04b249e29",
       "company": "Odyssey",
       "title": "Member of Technical Staff, Product Engineer",
@@ -109,7 +195,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-27T03:59:13.507",
-      "last_checked_at": "2026-11-27T09:25:10.062",
+      "last_checked_at": "2026-11-27T21:55:25.662",
       "apply_url": "https://jobs.ashbyhq.com/odysseyml/1936a33c-ce61-462a-a063-3b4cb16ff969",
       "job_url": "https://jobsglitch.com/jobs/6b094c7626fa9ee04b249e29",
       "source": "ashby"
@@ -140,7 +226,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-26T22:29:36.786",
-      "last_checked_at": "2026-11-27T03:42:26.233",
+      "last_checked_at": "2026-11-27T17:58:56.343",
       "apply_url": "https://jobs.ashbyhq.com/lavendo/ebd57049-1ef2-4be3-9c03-24d1fe32d5b0",
       "job_url": "https://jobsglitch.com/jobs/6b08fc2226fa9ee04b0f729f",
       "source": "ashby"
@@ -167,7 +253,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-26T22:20:18.000",
-      "last_checked_at": "2026-11-27T03:32:16.907",
+      "last_checked_at": "2026-11-27T19:52:31.154",
       "apply_url": "https://careers.roblox.com/jobs/8283619?gh_jid=8283619",
       "job_url": "https://jobsglitch.com/jobs/6b08f9bd519374c96660e61e",
       "source": "greenhouse"
@@ -194,7 +280,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-26T19:32:02.024",
-      "last_checked_at": "2026-11-27T14:18:54.586",
+      "last_checked_at": "2026-11-28T03:19:17.886",
       "apply_url": "https://jobs.lever.co/pointclickcare/4b3d7d51-2a0c-4447-8d74-fc659c63894f",
       "job_url": "https://jobsglitch.com/jobs/6b08caeca52d2379de1616e8",
       "source": "lever"
@@ -221,7 +307,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-26T17:16:12.674",
-      "last_checked_at": "2026-11-27T07:21:08.755",
+      "last_checked_at": "2026-11-27T20:22:39.090",
       "apply_url": "https://jobs.ashbyhq.com/Clera/05268080-2975-435d-817a-9d192a2a11b2",
       "job_url": "https://jobsglitch.com/jobs/6b08751e023ee06405c5fb5d",
       "source": "ashby"
@@ -248,7 +334,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-26T17:11:03.021",
-      "last_checked_at": "2026-11-27T07:21:08.755",
+      "last_checked_at": "2026-11-27T20:22:39.090",
       "apply_url": "https://jobs.ashbyhq.com/Clera/5d11c8a8-d649-4444-81ca-185aad4e78a0",
       "job_url": "https://jobsglitch.com/jobs/6b08751d023ee06405c5fb54",
       "source": "ashby"
@@ -275,7 +361,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-26T17:02:47.322",
-      "last_checked_at": "2026-11-27T07:21:08.755",
+      "last_checked_at": "2026-11-27T20:22:39.090",
       "apply_url": "https://jobs.ashbyhq.com/Clera/e4babd4b-76dc-49ff-82fc-869952563eb5",
       "job_url": "https://jobsglitch.com/jobs/6b08751d023ee06405c5fb4a",
       "source": "ashby"
@@ -302,37 +388,9 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-26T13:10:21.044",
-      "last_checked_at": "2026-11-26T23:41:05.969",
+      "last_checked_at": "2026-11-27T19:33:51.408",
       "apply_url": "https://jobs.ashbyhq.com/hoxhunt/510750f5-5682-4791-acc6-54f3c4925826",
       "job_url": "https://jobsglitch.com/jobs/6b08c391a52d2379de1471ff",
-      "source": "ashby"
-    },
-    {
-      "id": "6b07948b8ad6e6ea71d0b562",
-      "company": "Clera",
-      "title": "Mid-Level AI Engineer",
-      "locations": [
-        "United States",
-        "San Francisco"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote_friendly": false,
-      "salary": {
-        "annual_min": 150000,
-        "annual_max": 180000,
-        "currency": "USD",
-        "band": "150k-200k",
-        "min": 150000.0,
-        "max": 180000.0,
-        "period": "yearly",
-        "is_estimated": false
-      },
-      "posted_at": "2026-11-26T00:14:53.626",
-      "last_checked_at": "2026-11-27T07:21:08.755",
-      "apply_url": "https://jobs.ashbyhq.com/Clera/0a32c932-89f1-414a-8bac-cb74056dbd20",
-      "job_url": "https://jobsglitch.com/jobs/6b07948b8ad6e6ea71d0b562",
       "source": "ashby"
     },
     {
@@ -355,7 +413,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-25T20:48:09.061",
-      "last_checked_at": "2026-11-27T08:39:07.798",
+      "last_checked_at": "2026-11-28T00:55:28.983",
       "apply_url": "https://jobs.ashbyhq.com/shield/57573966-97d3-4831-ad54-d77b29628f4d",
       "job_url": "https://jobsglitch.com/jobs/6b0941a926fa9ee04b21a11c",
       "source": "ashby"
@@ -386,9 +444,34 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-25T20:19:22.193",
-      "last_checked_at": "2026-11-27T12:42:43.799",
+      "last_checked_at": "2026-11-28T04:43:18.876",
       "apply_url": "https://jobs.ashbyhq.com/Scale%20Army%20Careers/f12f0293-a63c-4596-beae-b035d1205fb8",
       "job_url": "https://jobsglitch.com/jobs/6b07830a8ad6e6ea71cd9b4c",
+      "source": "ashby"
+    },
+    {
+      "id": "6b09ce24ea6c3bd126186941",
+      "company": "Gravie",
+      "title": "Staff Security Engineer",
+      "locations": [
+        "Remote"
+      ],
+      "countries": null,
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 194000,
+        "annual_max": 258000,
+        "currency": "USD",
+        "band": "150k-200k",
+        "min": 194000.0,
+        "max": 258000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-25T19:01:33.212",
+      "last_checked_at": "2026-11-27T18:38:28.582",
+      "apply_url": "https://jobs.ashbyhq.com/gravie/4bfe0e55-204b-4152-8358-95e3267adc58",
+      "job_url": "https://jobsglitch.com/jobs/6b09ce24ea6c3bd126186941",
       "source": "ashby"
     },
     {
@@ -413,7 +496,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-25T17:21:21.000",
-      "last_checked_at": "2026-11-27T04:34:46.855",
+      "last_checked_at": "2026-11-27T22:40:22.689",
       "apply_url": "https://www.klaviyo.com/careers/jobs/8215593003?gh_jid=8215593003",
       "job_url": "https://jobsglitch.com/jobs/6b076d2d8ad6e6ea71c84baa",
       "source": "greenhouse"
@@ -440,7 +523,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-25T16:48:49.021",
-      "last_checked_at": "2026-11-27T03:42:57.565",
+      "last_checked_at": "2026-11-27T16:02:58.128",
       "apply_url": "https://jobs.ashbyhq.com/homebase/12d4993a-7081-47ed-8dec-0c05b9df5a73",
       "job_url": "https://jobsglitch.com/jobs/6b07192eaf399ddda2ec30b8",
       "source": "ashby"
@@ -467,7 +550,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-25T16:43:59.077",
-      "last_checked_at": "2026-11-27T08:39:07.798",
+      "last_checked_at": "2026-11-28T00:55:28.983",
       "apply_url": "https://jobs.ashbyhq.com/shield/55cfb822-bcf9-46d4-84c7-7133c03051f8",
       "job_url": "https://jobsglitch.com/jobs/6b0941ab26fa9ee04b21a3ab",
       "source": "ashby"
@@ -494,7 +577,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-25T16:29:56.785",
-      "last_checked_at": "2026-11-27T12:20:42.141",
+      "last_checked_at": "2026-11-28T01:21:14.544",
       "apply_url": "https://jobs.ashbyhq.com/iwoca.co.uk/0555f075-068c-4596-8ebb-4fe70f39060e",
       "job_url": "https://jobsglitch.com/jobs/6b0731108ad6e6ea71be1951",
       "source": "ashby"
@@ -521,7 +604,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-25T16:11:43.000",
-      "last_checked_at": "2026-11-27T06:14:56.878",
+      "last_checked_at": "2026-11-27T23:16:09.551",
       "apply_url": "https://job-boards.greenhouse.io/dropzoneai/jobs/4518977009",
       "job_url": "https://jobsglitch.com/jobs/6b074f8a8ad6e6ea71c2cb31",
       "source": "greenhouse"
@@ -548,7 +631,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-25T14:54:27.000",
-      "last_checked_at": "2026-11-27T09:00:10.798",
+      "last_checked_at": "2026-11-28T01:01:04.331",
       "apply_url": "https://job-boards.greenhouse.io/nmi/jobs/5493436008",
       "job_url": "https://jobsglitch.com/jobs/6b0738f68ad6e6ea71bf8db6",
       "source": "greenhouse"
@@ -575,7 +658,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-25T14:21:25.554",
-      "last_checked_at": "2026-11-27T08:39:07.798",
+      "last_checked_at": "2026-11-28T00:55:28.983",
       "apply_url": "https://jobs.ashbyhq.com/shield/ab4d2813-4dd1-47af-8559-6eb0fdb0ec52",
       "job_url": "https://jobsglitch.com/jobs/6b0941ab26fa9ee04b21a389",
       "source": "ashby"
@@ -629,7 +712,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-25T03:49:40.536",
-      "last_checked_at": "2026-11-27T10:26:20.498",
+      "last_checked_at": "2026-11-28T02:26:35.120",
       "apply_url": "https://jobs.lever.co/Burro/5285294b-78ff-4348-a6bd-419a60e8b903",
       "job_url": "https://jobsglitch.com/jobs/6b06895fb9a4655bbcd0d85d",
       "source": "lever"
@@ -710,7 +793,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-24T21:39:56.000",
-      "last_checked_at": "2026-11-27T04:45:47.390",
+      "last_checked_at": "2026-11-27T19:24:55.831",
       "apply_url": "https://careers.toasttab.com/jobs?gh_jid=8395666",
       "job_url": "https://jobsglitch.com/jobs/6b061d44e1f561eb4b2167d6",
       "source": "greenhouse"
@@ -737,7 +820,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-24T21:20:40.889",
-      "last_checked_at": "2026-11-27T08:39:07.798",
+      "last_checked_at": "2026-11-28T00:55:28.983",
       "apply_url": "https://jobs.ashbyhq.com/shield/ce353681-5e8d-4df2-9fc4-c5a4a0a63395",
       "job_url": "https://jobsglitch.com/jobs/6b0941ab26fa9ee04b21a3b4",
       "source": "ashby"
@@ -764,7 +847,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-24T21:16:30.779",
-      "last_checked_at": "2026-11-27T07:58:27.209",
+      "last_checked_at": "2026-11-27T23:58:50.107",
       "apply_url": "https://jobs.ashbyhq.com/Forward%20Financing/8bc1be11-e05a-4293-9966-9d27ec017ee8",
       "job_url": "https://jobsglitch.com/jobs/6b062330e1f561eb4b23764c",
       "source": "ashby"
@@ -791,7 +874,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-24T21:04:17.844",
-      "last_checked_at": "2026-11-27T03:54:58.396",
+      "last_checked_at": "2026-11-27T17:59:05.507",
       "apply_url": "https://jobs.ashbyhq.com/slash-financial/eabbe60d-221b-4fcf-aafc-733d2bd6e867",
       "job_url": "https://jobsglitch.com/jobs/6b065f2013303eeba990f6af",
       "source": "ashby"
@@ -821,10 +904,37 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-24T20:59:46.404",
-      "last_checked_at": "2026-11-27T10:08:31.172",
+      "last_checked_at": "2026-11-27T22:17:48.197",
       "apply_url": "https://jobs.lever.co/provectus/66d0d31f-c7b0-4ad6-a74d-39ab8fc4db66",
       "job_url": "https://jobsglitch.com/jobs/6b05fc49e1f561eb4b1992e9",
       "source": "lever"
+    },
+    {
+      "id": "6b0a73e06f603161040d4ca7",
+      "company": "KnowWay GmbH",
+      "title": "AI & Data Platform Engineer (GCP) (all levels)",
+      "locations": [
+        "Duisburg, Deutschland"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "remote_friendly": false,
+      "salary": {
+        "annual_min": null,
+        "annual_max": null,
+        "currency": "EUR",
+        "band": "50k-75k",
+        "min": 60000.0,
+        "max": 80000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-24T20:59:27.863",
+      "last_checked_at": "2026-11-28T06:25:36.839",
+      "apply_url": "https://join.com/companies/knowwayeu/16984733-ai-und-data-platform-engineer-gcp-all-levels",
+      "job_url": "https://jobsglitch.com/jobs/6b0a73e06f603161040d4ca7",
+      "source": "join_com"
     },
     {
       "id": "6b06119be1f561eb4b1e3174",
@@ -848,7 +958,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-24T20:50:04.328",
-      "last_checked_at": "2026-11-27T08:07:17.072",
+      "last_checked_at": "2026-11-28T00:09:07.243",
       "apply_url": "https://jobs.lever.co/USMobile/1bb88a12-a7e3-4f68-866c-5f94eed88750",
       "job_url": "https://jobsglitch.com/jobs/6b06119be1f561eb4b1e3174",
       "source": "lever"
@@ -875,7 +985,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-24T20:19:30.000",
-      "last_checked_at": "2026-11-27T00:46:16.842",
+      "last_checked_at": "2026-11-27T16:46:28.098",
       "apply_url": "https://job-boards.greenhouse.io/densityai/jobs/4371933009",
       "job_url": "https://jobsglitch.com/jobs/6b062d4ee1f561eb4b264ea7",
       "source": "greenhouse"
@@ -904,7 +1014,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-24T19:04:14.000",
-      "last_checked_at": "2026-11-27T14:09:49.188",
+      "last_checked_at": "2026-11-28T05:40:21.308",
       "apply_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5308529007",
       "job_url": "https://jobsglitch.com/jobs/6b05ffc9e1f561eb4b1a5a24",
       "source": "greenhouse"
@@ -931,7 +1041,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-24T18:54:49.982",
-      "last_checked_at": "2026-11-26T23:56:46.170",
+      "last_checked_at": "2026-11-27T15:57:06.996",
       "apply_url": "https://jobs.ashbyhq.com/reframesystems/42f2b0d6-03d4-4d99-983c-384022ccea87",
       "job_url": "https://jobsglitch.com/jobs/6b05f399e1f561eb4b177a46",
       "source": "ashby"
@@ -958,7 +1068,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-24T18:40:40.000",
-      "last_checked_at": "2026-11-27T12:09:34.679",
+      "last_checked_at": "2026-11-28T04:10:34.921",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8412800?t=gh_src=&gh_jid=8412800",
       "job_url": "https://jobsglitch.com/jobs/6b05f7d0e1f561eb4b188c39",
       "source": "greenhouse"
@@ -985,37 +1095,10 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-24T18:02:07.071",
-      "last_checked_at": "2026-11-27T08:07:17.072",
+      "last_checked_at": "2026-11-28T00:09:07.243",
       "apply_url": "https://jobs.lever.co/USMobile/99e9a4ef-be59-4830-8e96-54b612d92406",
       "job_url": "https://jobsglitch.com/jobs/6b05d951e1f561eb4b10b16c",
       "source": "lever"
-    },
-    {
-      "id": "6b05f4dae1f561eb4b17bd06",
-      "company": "Almedia",
-      "title": "Junior Engineer (Typescript / Python / DevOps / AI / Data)",
-      "locations": [
-        "Berlin"
-      ],
-      "countries": [
-        "Germany"
-      ],
-      "remote_friendly": false,
-      "salary": {
-        "annual_min": null,
-        "annual_max": null,
-        "currency": "EUR",
-        "band": "50k-75k",
-        "min": 65000.0,
-        "max": 85000.0,
-        "period": "yearly",
-        "is_estimated": false
-      },
-      "posted_at": "2026-11-24T17:57:25.499",
-      "last_checked_at": "2026-11-27T09:57:49.266",
-      "apply_url": "https://jobs.ashbyhq.com/almedia/ebbef1cb-ea12-4e5d-93ec-3e18359457e1",
-      "job_url": "https://jobsglitch.com/jobs/6b05f4dae1f561eb4b17bd06",
-      "source": "ashby"
     },
     {
       "id": "6b0628d9e1f561eb4b250c11",
@@ -1041,7 +1124,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-24T14:38:29.009",
-      "last_checked_at": "2026-11-27T09:00:29.843",
+      "last_checked_at": "2026-11-27T21:30:55.506",
       "apply_url": "https://jobs.ashbyhq.com/Inovalon/7a914b0a-f101-4b72-8b50-a44eda3b2fea",
       "job_url": "https://jobsglitch.com/jobs/6b0628d9e1f561eb4b250c11",
       "source": "ashby"
@@ -1066,7 +1149,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-24T13:15:11.672",
-      "last_checked_at": "2026-11-26T23:55:25.987",
+      "last_checked_at": "2026-11-27T15:55:47.198",
       "apply_url": "https://jobs.ashbyhq.com/moxfive/651c1d03-087b-46f0-9c89-66171ea6913e",
       "job_url": "https://jobsglitch.com/jobs/6b06227be1f561eb4b233f0a",
       "source": "ashby"
@@ -1121,7 +1204,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-24T09:52:17.030",
-      "last_checked_at": "2026-11-27T08:08:36.614",
+      "last_checked_at": "2026-11-28T00:09:01.764",
       "apply_url": "https://jobs.ashbyhq.com/harmonic-security-inc/f1368e84-0f17-43be-80db-77c7bbac9985",
       "job_url": "https://jobsglitch.com/jobs/6b058679e1f561eb4b007633",
       "source": "ashby"
@@ -1150,7 +1233,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-24T03:59:07.806",
-      "last_checked_at": "2026-11-27T11:30:52.924",
+      "last_checked_at": "2026-11-28T00:32:26.545",
       "apply_url": "https://jobs.ashbyhq.com/openai/1af2996f-046c-466f-bf35-4b13da116af4",
       "job_url": "https://jobsglitch.com/jobs/6b0628c0e1f561eb4b2507d0",
       "source": "ashby"
@@ -1177,7 +1260,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-24T00:53:50.530",
-      "last_checked_at": "2026-11-27T01:39:57.331",
+      "last_checked_at": "2026-11-27T17:40:16.010",
       "apply_url": "https://jobs.lever.co/paralleldomain/e7d1d2f8-da76-4117-b034-ccd9e22a787c",
       "job_url": "https://jobsglitch.com/jobs/6b05388069b03041db9bf0c1",
       "source": "lever"
@@ -1204,7 +1287,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-24T00:10:28.000",
-      "last_checked_at": "2026-11-27T12:34:20.426",
+      "last_checked_at": "2026-11-28T01:35:17.789",
       "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8244282",
       "job_url": "https://jobsglitch.com/jobs/6b04e741535f54e954c7e306",
       "source": "greenhouse"
@@ -1339,7 +1422,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-23T23:43:54.782",
-      "last_checked_at": "2026-11-27T00:08:19.967",
+      "last_checked_at": "2026-11-27T16:08:39.316",
       "apply_url": "https://jobs.lever.co/anavationllc/d83a05bd-6fc1-4122-acde-45d4efffd77c",
       "job_url": "https://jobsglitch.com/jobs/6b0621f0e1f561eb4b230630",
       "source": "lever"
@@ -1366,7 +1449,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-23T22:47:01.097",
-      "last_checked_at": "2026-11-27T00:12:56.802",
+      "last_checked_at": "2026-11-27T16:13:18.791",
       "apply_url": "https://jobs.ashbyhq.com/3y-health/40de167b-30fa-4cf4-ab5e-bdb5d1f06e94",
       "job_url": "https://jobsglitch.com/jobs/6b04e8af535f54e954c8109d",
       "source": "ashby"
@@ -1393,7 +1476,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-23T22:46:32.599",
-      "last_checked_at": "2026-11-27T00:12:56.802",
+      "last_checked_at": "2026-11-27T16:13:18.791",
       "apply_url": "https://jobs.ashbyhq.com/3y-health/5b78d42c-23fa-4af5-9b21-0ea8965bdcc3",
       "job_url": "https://jobsglitch.com/jobs/6b04e8af535f54e954c8109f",
       "source": "ashby"
@@ -1421,7 +1504,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-23T22:37:10.409",
-      "last_checked_at": "2026-11-26T23:27:46.034",
+      "last_checked_at": "2026-11-27T15:27:51.290",
       "apply_url": "https://jobs.ashbyhq.com/decagon/68a779f4-5d46-42c9-ab7b-1c7ad3624939",
       "job_url": "https://jobsglitch.com/jobs/6b04c4a6535f54e954bff3ec",
       "source": "ashby"
@@ -1448,7 +1531,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-23T21:59:19.976",
-      "last_checked_at": "2026-11-27T10:20:29.456",
+      "last_checked_at": "2026-11-28T02:20:44.622",
       "apply_url": "https://jobs.lever.co/15five/518f81ae-167b-4239-ba64-6bc9e91e6666",
       "job_url": "https://jobsglitch.com/jobs/6b04c854535f54e954c0f4f4",
       "source": "lever"
@@ -1476,7 +1559,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-23T21:54:10.000",
-      "last_checked_at": "2026-11-27T09:15:59.923",
+      "last_checked_at": "2026-11-28T01:16:32.896",
       "apply_url": "https://jobs.ashbyhq.com/titan-msp/a973f788-8bd2-44e0-bfb7-c7775ed89c51",
       "job_url": "https://jobsglitch.com/jobs/6b04c4ff535f54e954c00e43",
       "source": "ashby"
@@ -1504,7 +1587,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-23T20:54:59.960",
-      "last_checked_at": "2026-11-27T01:14:37.279",
+      "last_checked_at": "2026-11-27T17:14:59.284",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/9e738c21-f2ab-49d7-b545-b519bb2cf8ae",
       "job_url": "https://jobsglitch.com/jobs/6b04d227535f54e954c3cdd1",
       "source": "ashby"
@@ -1533,7 +1616,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-23T20:06:01.620",
-      "last_checked_at": "2026-11-27T11:46:48.842",
+      "last_checked_at": "2026-11-28T03:46:57.984",
       "apply_url": "https://jobs.ashbyhq.com/Profound/569a874c-c6a9-4d78-beb6-3f4818d24dd7",
       "job_url": "https://jobsglitch.com/jobs/6b061a8ce1f561eb4b207973",
       "source": "ashby"
@@ -1560,7 +1643,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-23T19:23:00.479",
-      "last_checked_at": "2026-11-27T07:38:27.067",
+      "last_checked_at": "2026-11-27T23:38:38.929",
       "apply_url": "https://jobs.ashbyhq.com/warp/d39e732d-56cb-4e7e-9e48-eceb37cff755",
       "job_url": "https://jobsglitch.com/jobs/6b04cf93535f54e954c322d9",
       "source": "ashby"
@@ -1587,7 +1670,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-23T19:22:02.247",
-      "last_checked_at": "2026-11-27T07:38:27.067",
+      "last_checked_at": "2026-11-27T23:38:38.929",
       "apply_url": "https://jobs.ashbyhq.com/warp/d427ee55-2f0f-4a32-990b-8189f611dab8",
       "job_url": "https://jobsglitch.com/jobs/6b04cf93535f54e954c322d0",
       "source": "ashby"
@@ -1617,7 +1700,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-23T19:04:02.808",
-      "last_checked_at": "2026-11-27T00:16:26.117",
+      "last_checked_at": "2026-11-27T16:16:38.933",
       "apply_url": "https://jobs.ashbyhq.com/ambrook/7d6855bd-c70c-4b39-a8bf-cb1cb392a71c",
       "job_url": "https://jobsglitch.com/jobs/6b04f4f4535f54e954c99074",
       "source": "ashby"
@@ -1644,7 +1727,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-23T17:36:39.120",
-      "last_checked_at": "2026-11-27T03:06:50.522",
+      "last_checked_at": "2026-11-27T21:19:15.405",
       "apply_url": "https://jobs.lever.co/aeva/b852976f-c78c-4aaf-942a-58cd2e8a5d06",
       "job_url": "https://jobsglitch.com/jobs/6b04e6ef535f54e954c7d55b",
       "source": "lever"
@@ -1671,7 +1754,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-23T17:16:54.000",
-      "last_checked_at": "2026-11-27T08:19:08.076",
+      "last_checked_at": "2026-11-28T00:19:30.519",
       "apply_url": "https://www.bill.com/job?6267860004&gh_jid=6267860004",
       "job_url": "https://jobsglitch.com/jobs/6b048030992725a58fb10001",
       "source": "greenhouse"
@@ -1698,7 +1781,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-23T17:03:03.591",
-      "last_checked_at": "2026-11-27T08:07:17.024",
+      "last_checked_at": "2026-11-27T21:09:05.742",
       "apply_url": "https://jobs.ashbyhq.com/higgsfieldai/35a4ffd3-4d00-45a4-af83-76ce11517b7a",
       "job_url": "https://jobsglitch.com/jobs/6b04d399535f54e954c42ebc",
       "source": "ashby"
@@ -1725,7 +1808,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-23T16:21:25.792",
-      "last_checked_at": "2026-11-26T23:58:46.115",
+      "last_checked_at": "2026-11-27T15:59:07.686",
       "apply_url": "https://jobs.ashbyhq.com/meridianlink/a16eea89-1e97-4b61-8fbf-4ffa97ac32c7",
       "job_url": "https://jobsglitch.com/jobs/6b0492e5535f54e954b61069",
       "source": "ashby"
@@ -1782,7 +1865,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-23T10:50:36.331",
-      "last_checked_at": "2026-11-27T03:45:30.155",
+      "last_checked_at": "2026-11-27T16:33:31.153",
       "apply_url": "https://jobs.ashbyhq.com/hyperbolic/a7d51b64-c8ef-4386-8b3e-c7b391cfa582",
       "job_url": "https://jobsglitch.com/jobs/6b04757b992725a58fae607a",
       "source": "ashby"
@@ -1809,7 +1892,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-23T10:33:06.801",
-      "last_checked_at": "2026-11-27T03:45:30.155",
+      "last_checked_at": "2026-11-27T16:33:31.153",
       "apply_url": "https://jobs.ashbyhq.com/hyperbolic/9fcd584f-ded7-4abf-ae3a-a740f0b9c782",
       "job_url": "https://jobsglitch.com/jobs/6b04757b992725a58fae608e",
       "source": "ashby"
@@ -1836,7 +1919,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-23T07:29:36.277",
-      "last_checked_at": "2026-11-27T06:06:37.095",
+      "last_checked_at": "2026-11-27T18:51:55.084",
       "apply_url": "https://jobs.ashbyhq.com/airwallex/bd91b283-8de0-41bd-aba4-8cae281808a7",
       "job_url": "https://jobsglitch.com/jobs/6b03f32931087af55ed86aa3",
       "source": "ashby"
@@ -1863,7 +1946,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-23T06:50:02.021",
-      "last_checked_at": "2026-11-27T03:51:28.126",
+      "last_checked_at": "2026-11-27T17:16:39.687",
       "apply_url": "https://jobs.ashbyhq.com/civilgrid/826f6522-fc4c-4b2c-aac5-45056c9cb88b",
       "job_url": "https://jobsglitch.com/jobs/6b03f18231087af55ed83b2b",
       "source": "ashby"
@@ -1917,7 +2000,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-22T12:10:11.029",
-      "last_checked_at": "2026-11-27T04:25:25.524",
+      "last_checked_at": "2026-11-27T20:25:35.409",
       "apply_url": "https://jobs.ashbyhq.com/XDOF/2d7a5135-f77d-4123-8de8-1b842cc15bb1",
       "job_url": "https://jobsglitch.com/jobs/6b03252ea5fd61f498ce71e9",
       "source": "ashby"
@@ -1945,7 +2028,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-21T17:44:35.163",
-      "last_checked_at": "2026-11-27T12:28:44.480",
+      "last_checked_at": "2026-11-28T03:15:47.597",
       "apply_url": "https://jobs.ashbyhq.com/harvey/e46d48b8-57c7-401c-be33-f56774dc072d",
       "job_url": "https://jobsglitch.com/jobs/6b01f9a223dcbf6f18b63426",
       "source": "ashby"
@@ -1970,7 +2053,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-21T08:53:37.598",
-      "last_checked_at": "2026-11-27T10:28:20.198",
+      "last_checked_at": "2026-11-28T02:28:35.018",
       "apply_url": "https://jobs.ashbyhq.com/Playlab/a91ee3c2-0379-4c2c-8fd8-a42b9dbbf312",
       "job_url": "https://jobsglitch.com/jobs/6b0192ae23dcbf6f18a402fd",
       "source": "ashby"
@@ -1997,7 +2080,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-21T04:46:50.907",
-      "last_checked_at": "2026-11-27T12:38:52.959",
+      "last_checked_at": "2026-11-28T02:54:25.048",
       "apply_url": "https://jobs.ashbyhq.com/dmodel/b325d0db-a690-4965-ae0a-26692d5b4dc4",
       "job_url": "https://jobsglitch.com/jobs/6b095dbb338217d7eaaecd65",
       "source": "ashby"
@@ -2024,7 +2107,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-21T02:49:07.186",
-      "last_checked_at": "2026-11-27T12:38:52.959",
+      "last_checked_at": "2026-11-28T02:54:25.048",
       "apply_url": "https://jobs.ashbyhq.com/dmodel/21a29e31-ca63-4b31-a0be-50b8f6416def",
       "job_url": "https://jobsglitch.com/jobs/6b095dbb338217d7eaaecd6d",
       "source": "ashby"
@@ -2054,7 +2137,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-20T23:24:46.160",
-      "last_checked_at": "2026-11-27T07:59:46.964",
+      "last_checked_at": "2026-11-28T00:00:09.860",
       "apply_url": "https://jobs.ashbyhq.com/creatoriq/5ab10a53-1772-470b-aef6-41bf16574412",
       "job_url": "https://jobsglitch.com/jobs/6b0111c7c626fc9d72bba6fb",
       "source": "ashby"
@@ -2079,7 +2162,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-20T20:59:24.064",
-      "last_checked_at": "2026-11-27T03:50:48.387",
+      "last_checked_at": "2026-11-27T17:07:08.590",
       "apply_url": "https://jobs.ashbyhq.com/G2/7ed340bb-ad26-4032-ab2d-34903a7be70c",
       "job_url": "https://jobsglitch.com/jobs/6b00f14dc626fc9d72b507ed",
       "source": "ashby"
@@ -2109,7 +2192,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-20T20:34:25.092",
-      "last_checked_at": "2026-11-27T03:08:08.393",
+      "last_checked_at": "2026-11-27T20:07:14.260",
       "apply_url": "https://jobs.ashbyhq.com/gallatin/be929528-505b-4ce7-89bf-e0a7b196bd9a",
       "job_url": "https://jobsglitch.com/jobs/6b00b3202253388919f835c6",
       "source": "ashby"
@@ -2136,7 +2219,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-20T20:17:24.317",
-      "last_checked_at": "2026-11-27T01:32:36.622",
+      "last_checked_at": "2026-11-27T17:32:51.448",
       "apply_url": "https://jobs.ashbyhq.com/Grindr%20LLC/0ad0276e-220e-4005-8cb7-80238723c003",
       "job_url": "https://jobsglitch.com/jobs/6b00b48b2253388919f91f6b",
       "source": "ashby"
@@ -2163,7 +2246,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-20T20:15:23.115",
-      "last_checked_at": "2026-11-27T03:16:21.906",
+      "last_checked_at": "2026-11-27T21:25:34.543",
       "apply_url": "https://jobs.lever.co/circadiahealth/00ecec3e-1057-4fd4-8ca7-ab49c83e2141",
       "job_url": "https://jobsglitch.com/jobs/6b010066c626fc9d72b86889",
       "source": "lever"
@@ -2192,7 +2275,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-20T19:54:36.605",
-      "last_checked_at": "2026-11-27T03:06:46.697",
+      "last_checked_at": "2026-11-27T20:07:32.777",
       "apply_url": "https://jobs.ashbyhq.com/parallel/6b2d216d-b726-4970-80a1-d3cc735e3600",
       "job_url": "https://jobsglitch.com/jobs/6b00c16dc626fc9d72aaaf2f",
       "source": "ashby"
@@ -2220,7 +2303,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-20T17:05:54.253",
-      "last_checked_at": "2026-11-27T14:20:17.019",
+      "last_checked_at": "2026-11-28T06:20:29.566",
       "apply_url": "https://jobs.ashbyhq.com/temporal/ceb3ae3d-3a72-4067-b13d-44350a143195",
       "job_url": "https://jobsglitch.com/jobs/6b009e642253388919f39841",
       "source": "ashby"
@@ -2247,7 +2330,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-20T16:48:37.734",
-      "last_checked_at": "2026-11-27T08:04:08.656",
+      "last_checked_at": "2026-11-28T00:04:32.224",
       "apply_url": "https://jobs.lever.co/xcimer/e0ff50d5-4bae-4f08-babd-e5b4933901e0",
       "job_url": "https://jobsglitch.com/jobs/6b00ce0ec626fc9d72addc06",
       "source": "lever"
@@ -2274,7 +2357,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-20T16:26:58.981",
-      "last_checked_at": "2026-11-27T00:12:56.694",
+      "last_checked_at": "2026-11-27T16:13:18.797",
       "apply_url": "https://jobs.ashbyhq.com/netboxlabs/79610104-659b-4a7a-bb21-1817d4d34c5d",
       "job_url": "https://jobsglitch.com/jobs/6b00c2adc626fc9d72ab15d2",
       "source": "ashby"
@@ -2301,7 +2384,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-20T16:04:18.869",
-      "last_checked_at": "2026-11-27T03:51:22.199",
+      "last_checked_at": "2026-11-27T17:15:39.369",
       "apply_url": "https://jobs.ashbyhq.com/litellm/3804f73b-1120-48aa-b2ec-83c3a5c8c14e",
       "job_url": "https://jobsglitch.com/jobs/6b00b41a2253388919f8d2ad",
       "source": "ashby"
@@ -2382,7 +2465,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-19T23:57:40.615",
-      "last_checked_at": "2026-11-27T10:28:20.244",
+      "last_checked_at": "2026-11-28T02:28:35.154",
       "apply_url": "https://jobs.ashbyhq.com/Ampersand/3cb05976-1a91-4cee-a17d-efa35d6e9d17",
       "job_url": "https://jobsglitch.com/jobs/6affd24947ff07450f1c3809",
       "source": "ashby"
@@ -2410,7 +2493,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-19T22:49:48.829",
-      "last_checked_at": "2026-11-27T03:06:46.697",
+      "last_checked_at": "2026-11-27T20:07:32.777",
       "apply_url": "https://jobs.ashbyhq.com/parallel/fa55e4f5-e580-4530-89eb-914f16f8f9f9",
       "job_url": "https://jobsglitch.com/jobs/6aff94fcef67776c32e6c78b",
       "source": "ashby"
@@ -2438,7 +2521,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-19T22:16:05.582",
-      "last_checked_at": "2026-11-27T13:56:32.885",
+      "last_checked_at": "2026-11-28T05:56:39.132",
       "apply_url": "https://jobs.ashbyhq.com/hopper/d7b425d8-3f41-449a-b6da-c828f9db6597",
       "job_url": "https://jobsglitch.com/jobs/6aff9ad7ef67776c32e83de9",
       "source": "ashby"
@@ -2468,7 +2551,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-19T22:16:05.195",
-      "last_checked_at": "2026-11-27T13:56:32.885",
+      "last_checked_at": "2026-11-28T05:56:39.132",
       "apply_url": "https://jobs.ashbyhq.com/hopper/e96c8ea0-4d82-4eb4-a227-a0cb3e051fcc",
       "job_url": "https://jobsglitch.com/jobs/6aff9ad7ef67776c32e83de4",
       "source": "ashby"
@@ -2496,10 +2579,37 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-19T22:06:46.471",
-      "last_checked_at": "2026-11-27T00:12:06.538",
+      "last_checked_at": "2026-11-27T16:12:29.489",
       "apply_url": "https://jobs.ashbyhq.com/netic/bb664b2a-d4a2-4c58-99c8-107cddcafde2",
       "job_url": "https://jobsglitch.com/jobs/6affd0a147ff07450f1af1bf",
       "source": "ashby"
+    },
+    {
+      "id": "6b09ce27ea6c3bd126186bbe",
+      "company": "Orb",
+      "title": "Staff Software Engineer, Infrastructure",
+      "locations": [
+        "San Francisco"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote_friendly": null,
+      "salary": {
+        "annual_min": 258000,
+        "annual_max": 367000,
+        "currency": "USD",
+        "band": "200k+",
+        "min": 258000.0,
+        "max": 367000.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-19T21:37:10.000",
+      "last_checked_at": "2026-11-27T18:38:31.414",
+      "apply_url": "https://job-boards.greenhouse.io/withorb/jobs/8330715",
+      "job_url": "https://jobsglitch.com/jobs/6b09ce27ea6c3bd126186bbe",
+      "source": "greenhouse"
     },
     {
       "id": "6aff9ad7ef67776c32e83dba",
@@ -2524,7 +2634,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-19T21:27:43.233",
-      "last_checked_at": "2026-11-27T13:56:32.885",
+      "last_checked_at": "2026-11-28T05:56:39.132",
       "apply_url": "https://jobs.ashbyhq.com/hopper/2dfa4941-c72f-4154-83f4-2fd4354e7259",
       "job_url": "https://jobsglitch.com/jobs/6aff9ad7ef67776c32e83dba",
       "source": "ashby"
@@ -2554,7 +2664,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-19T21:27:41.686",
-      "last_checked_at": "2026-11-27T13:56:32.885",
+      "last_checked_at": "2026-11-28T05:56:39.132",
       "apply_url": "https://jobs.ashbyhq.com/hopper/7b406c91-9059-437c-9af7-a720b98ee253",
       "job_url": "https://jobsglitch.com/jobs/6aff9ad7ef67776c32e83dcc",
       "source": "ashby"
@@ -2581,7 +2691,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-19T20:57:13.852",
-      "last_checked_at": "2026-11-27T09:16:29.924",
+      "last_checked_at": "2026-11-28T01:16:49.399",
       "apply_url": "https://jobs.ashbyhq.com/vantageanalytics/ba2cc36b-903e-4a67-8d82-5330e9784193",
       "job_url": "https://jobsglitch.com/jobs/6affd02c47ff07450f1abab6",
       "source": "ashby"
@@ -2608,7 +2718,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-19T20:31:56.289",
-      "last_checked_at": "2026-11-27T01:29:16.580",
+      "last_checked_at": "2026-11-27T17:29:30.852",
       "apply_url": "https://jobs.ashbyhq.com/Homebound/b0761174-6a16-4b48-90f7-3782796eeaa1",
       "job_url": "https://jobsglitch.com/jobs/6aff631cace21794702ad6de",
       "source": "ashby"
@@ -2635,7 +2745,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-19T19:49:08.235",
-      "last_checked_at": "2026-11-27T06:42:47.371",
+      "last_checked_at": "2026-11-27T19:43:24.537",
       "apply_url": "https://jobs.lever.co/dnb/8716f9dd-863a-4de7-b74f-9f18705ce004",
       "job_url": "https://jobsglitch.com/jobs/6aff60d8ace217947028191f",
       "source": "lever"
@@ -2662,7 +2772,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-19T19:12:57.607",
-      "last_checked_at": "2026-11-27T00:48:27.292",
+      "last_checked_at": "2026-11-28T05:49:09.385",
       "apply_url": "https://jobs.ashbyhq.com/illumio/7443e50f-bc30-4199-9379-0e0cbc37b0ed",
       "job_url": "https://jobsglitch.com/jobs/6aff609aace217947027b039",
       "source": "ashby"
@@ -2692,7 +2802,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-19T18:10:49.900",
-      "last_checked_at": "2026-11-27T01:12:46.509",
+      "last_checked_at": "2026-11-27T17:13:00.026",
       "apply_url": "https://jobs.ashbyhq.com/betterup/cde95cb5-908e-4914-8379-7d2b12ef2762",
       "job_url": "https://jobsglitch.com/jobs/6aff431dace21794701800d8",
       "source": "ashby"
@@ -2746,7 +2856,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-19T16:11:09.982",
-      "last_checked_at": "2026-11-27T03:06:46.697",
+      "last_checked_at": "2026-11-27T20:07:32.777",
       "apply_url": "https://jobs.ashbyhq.com/parallel/5e23aa2b-cf34-4ce9-b8f7-d3d53612bc8f",
       "job_url": "https://jobsglitch.com/jobs/6aff4251ace2179470176d96",
       "source": "ashby"
@@ -2773,7 +2883,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-19T13:58:14.556",
-      "last_checked_at": "2026-11-27T09:57:49.266",
+      "last_checked_at": "2026-11-28T01:58:02.730",
       "apply_url": "https://jobs.ashbyhq.com/almedia/13c7df64-04e1-4f15-97a5-74cd14fc9ea7",
       "job_url": "https://jobsglitch.com/jobs/6aff6098ace217947027adbd",
       "source": "ashby"
@@ -2800,7 +2910,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-19T04:20:43.967",
-      "last_checked_at": "2026-11-27T07:58:27.004",
+      "last_checked_at": "2026-11-27T23:58:39.278",
       "apply_url": "https://jobs.ashbyhq.com/oneapp/50f06158-1f35-4950-9a2f-197aa75f2ac1",
       "job_url": "https://jobsglitch.com/jobs/6aff6015ace217947026dbd4",
       "source": "ashby"
@@ -2827,7 +2937,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-19T00:52:23.456",
-      "last_checked_at": "2026-11-27T10:26:39.402",
+      "last_checked_at": "2026-11-28T02:26:54.824",
       "apply_url": "https://jobs.ashbyhq.com/render/cbc4cf2e-9263-4ca5-a033-427d3aae82b3",
       "job_url": "https://jobsglitch.com/jobs/6afe81078c7862e217645be7",
       "source": "ashby"
@@ -2859,7 +2969,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-19T00:30:39.058",
-      "last_checked_at": "2026-11-27T03:44:09.647",
+      "last_checked_at": "2026-11-27T20:21:37.446",
       "apply_url": "https://jobs.lever.co/goodleap/65bb56a4-7e99-4e59-847d-b4b9240bbc4e",
       "job_url": "https://jobsglitch.com/jobs/6afe95838c7862e2176a9e35",
       "source": "lever"
@@ -2886,7 +2996,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-19T00:04:54.642",
-      "last_checked_at": "2026-11-27T08:07:56.546",
+      "last_checked_at": "2026-11-28T00:07:59.545",
       "apply_url": "https://jobs.ashbyhq.com/dave/23c59358-e8c2-423c-a90c-ada119650dcc",
       "job_url": "https://jobsglitch.com/jobs/6afe54498c7862e2175c7eab",
       "source": "ashby"
@@ -2913,7 +3023,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-18T23:08:05.680",
-      "last_checked_at": "2026-11-27T03:07:11.768",
+      "last_checked_at": "2026-11-27T20:07:31.446",
       "apply_url": "https://jobs.ashbyhq.com/brightwheel/7ef0532b-77fd-4f79-a6d5-360cc4273f41",
       "job_url": "https://jobsglitch.com/jobs/6afe870f8c7862e2176556ca",
       "source": "ashby"
@@ -2940,7 +3050,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-18T20:57:06.878",
-      "last_checked_at": "2026-11-27T03:06:50.537",
+      "last_checked_at": "2026-11-27T20:07:29.601",
       "apply_url": "https://jobs.ashbyhq.com/Lightfield/86594fa4-36de-461a-a12d-304e8ae65672",
       "job_url": "https://jobsglitch.com/jobs/6afe79788c7862e217632ea5",
       "source": "ashby"
@@ -2967,7 +3077,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-18T20:50:40.605",
-      "last_checked_at": "2026-11-27T01:13:27.143",
+      "last_checked_at": "2026-11-28T06:14:09.768",
       "apply_url": "https://jobs.ashbyhq.com/mercor/c684bdad-93b0-4811-82e5-926457db2daa",
       "job_url": "https://jobsglitch.com/jobs/6afe1bd674be5ce36eca5c4e",
       "source": "ashby"
@@ -2996,7 +3106,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-18T20:50:04.289",
-      "last_checked_at": "2026-11-27T00:12:56.697",
+      "last_checked_at": "2026-11-27T16:13:19.759",
       "apply_url": "https://jobs.ashbyhq.com/Abridge/097490e8-48c6-46e3-a0ce-882151fb4fa2",
       "job_url": "https://jobsglitch.com/jobs/6afe232f74be5ce36ecbd1e0",
       "source": "ashby"
@@ -3023,7 +3133,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-18T19:40:51.530",
-      "last_checked_at": "2026-11-27T09:59:28.741",
+      "last_checked_at": "2026-11-27T22:29:47.618",
       "apply_url": "https://jobs.ashbyhq.com/simspace-corporation/10ef576c-a7b1-4b18-b2fc-47c0919c2bf6",
       "job_url": "https://jobsglitch.com/jobs/6afe243474be5ce36ecc0d5c",
       "source": "ashby"
@@ -3052,7 +3162,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-18T19:36:53.344",
-      "last_checked_at": "2026-11-27T03:16:13.643",
+      "last_checked_at": "2026-11-27T21:20:44.950",
       "apply_url": "https://jobs.ashbyhq.com/paradigm-health/7954749b-d2d9-48f6-9369-adc9fcbd9564",
       "job_url": "https://jobsglitch.com/jobs/6afe0d9074be5ce36ec778cd",
       "source": "ashby"
@@ -3079,7 +3189,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-18T19:14:36.963",
-      "last_checked_at": "2026-11-27T09:00:20.109",
+      "last_checked_at": "2026-11-28T01:00:41.437",
       "apply_url": "https://jobs.ashbyhq.com/replit/fa9ee306-7e2b-4d94-87d1-0db292102f03",
       "job_url": "https://jobsglitch.com/jobs/6afe40508c7862e217595a71",
       "source": "ashby"
@@ -3106,7 +3216,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-18T15:08:03.010",
-      "last_checked_at": "2026-11-27T03:23:24.661",
+      "last_checked_at": "2026-11-27T19:23:31.478",
       "apply_url": "https://jobs.ashbyhq.com/cloaked/b9e36c95-6a46-40f3-ae8e-90794d627bbc",
       "job_url": "https://jobsglitch.com/jobs/6afe01ac74be5ce36ec4ff99",
       "source": "ashby"
@@ -3133,10 +3243,35 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-18T14:20:04.938",
-      "last_checked_at": "2026-11-27T08:07:36.920",
+      "last_checked_at": "2026-11-28T00:07:49.970",
       "apply_url": "https://jobs.lever.co/rgi/0bd3bc74-ae97-4400-8eaf-9f93452832f5",
       "job_url": "https://jobsglitch.com/jobs/6afdc1f24bf189282718196b",
       "source": "lever"
+    },
+    {
+      "id": "6b09ce24ea6c3bd12618690f",
+      "company": "Gravie",
+      "title": "Software Engineer - AI Native",
+      "locations": [
+        "Remote"
+      ],
+      "countries": null,
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 106000,
+        "annual_max": 141500,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 106000.0,
+        "max": 141500.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-18T02:31:23.555",
+      "last_checked_at": "2026-11-27T18:38:28.582",
+      "apply_url": "https://jobs.ashbyhq.com/gravie/671c4ede-6cfc-43d5-83bd-12865623e0bf",
+      "job_url": "https://jobsglitch.com/jobs/6b09ce24ea6c3bd12618690f",
+      "source": "ashby"
     },
     {
       "id": "6afd85904bf18928270a42e2",
@@ -3160,7 +3295,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-18T01:58:50.992",
-      "last_checked_at": "2026-11-27T00:30:06.454",
+      "last_checked_at": "2026-11-27T16:30:33.574",
       "apply_url": "https://jobs.ashbyhq.com/beaconai/098e7ef3-0a8c-4975-a28d-b267dc032234",
       "job_url": "https://jobsglitch.com/jobs/6afd85904bf18928270a42e2",
       "source": "ashby"
@@ -3187,7 +3322,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-18T01:45:08.300",
-      "last_checked_at": "2026-11-27T00:30:06.454",
+      "last_checked_at": "2026-11-27T16:30:33.574",
       "apply_url": "https://jobs.ashbyhq.com/beaconai/ae76ee0f-6ad0-4a17-a440-9c36eb9d1495",
       "job_url": "https://jobsglitch.com/jobs/6afd85904bf18928270a42e0",
       "source": "ashby"
@@ -3214,7 +3349,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-18T01:39:40.011",
-      "last_checked_at": "2026-11-27T00:30:06.454",
+      "last_checked_at": "2026-11-27T16:30:33.574",
       "apply_url": "https://jobs.ashbyhq.com/beaconai/2f00f8ea-23e5-4c33-a7cd-a939f59e9602",
       "job_url": "https://jobsglitch.com/jobs/6afd85904bf18928270a42d4",
       "source": "ashby"
@@ -3241,7 +3376,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-18T01:36:50.142",
-      "last_checked_at": "2026-11-27T00:30:06.454",
+      "last_checked_at": "2026-11-27T16:30:33.574",
       "apply_url": "https://jobs.ashbyhq.com/beaconai/7a366241-d2aa-47e1-8118-cb0068977d83",
       "job_url": "https://jobsglitch.com/jobs/6afd85904bf18928270a42d3",
       "source": "ashby"
@@ -3268,7 +3403,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-17T23:09:10.466",
-      "last_checked_at": "2026-11-27T03:37:32.415",
+      "last_checked_at": "2026-11-27T23:25:58.937",
       "apply_url": "https://jobs.ashbyhq.com/handshake/fc042441-b093-4f16-a308-5c6e8baea669",
       "job_url": "https://jobsglitch.com/jobs/6afd96614bf18928270e3ae4",
       "source": "ashby"
@@ -3295,7 +3430,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-17T19:58:47.364",
-      "last_checked_at": "2026-11-27T03:44:20.108",
+      "last_checked_at": "2026-11-27T16:18:08.808",
       "apply_url": "https://jobs.ashbyhq.com/gamechanger/86355f25-8450-404a-ad77-6ae929d2546e",
       "job_url": "https://jobsglitch.com/jobs/6afd95854bf18928270df6b1",
       "source": "ashby"
@@ -3324,7 +3459,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-17T18:56:05.335",
-      "last_checked_at": "2026-11-27T07:54:56.767",
+      "last_checked_at": "2026-11-27T23:56:35.652",
       "apply_url": "https://jobs.ashbyhq.com/lovable/a3984ab8-067f-45c4-a644-a2f60c9ed697",
       "job_url": "https://jobsglitch.com/jobs/6afd42f7b0fb8f268f87770c",
       "source": "ashby"
@@ -3349,7 +3484,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-17T18:15:26.099",
-      "last_checked_at": "2026-11-27T08:10:46.426",
+      "last_checked_at": "2026-11-28T00:10:49.557",
       "apply_url": "https://jobs.ashbyhq.com/flox/b74cb64c-2fee-4edb-a6ed-fb9aee044ee3",
       "job_url": "https://jobsglitch.com/jobs/6afd955e4bf18928270ded5f",
       "source": "ashby"
@@ -3374,7 +3509,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-17T18:13:22.155",
-      "last_checked_at": "2026-11-27T08:10:46.426",
+      "last_checked_at": "2026-11-28T00:10:49.557",
       "apply_url": "https://jobs.ashbyhq.com/flox/87f6bc08-b01d-47ad-bad3-5fd74b7c60c9",
       "job_url": "https://jobsglitch.com/jobs/6afd955e4bf18928270ded6b",
       "source": "ashby"
@@ -3404,7 +3539,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-17T18:05:44.666",
-      "last_checked_at": "2026-11-27T07:26:28.456",
+      "last_checked_at": "2026-11-27T23:26:38.872",
       "apply_url": "https://jobs.ashbyhq.com/plaid/39360c45-ad24-4458-b4fe-def71a41c02d",
       "job_url": "https://jobsglitch.com/jobs/6afd435ab0fb8f268f87c348",
       "source": "ashby"
@@ -3431,7 +3566,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-17T17:52:33.611",
-      "last_checked_at": "2026-11-27T10:05:10.056",
+      "last_checked_at": "2026-11-28T02:05:35.215",
       "apply_url": "https://jobs.ashbyhq.com/ramp/3cfbf693-58e3-423f-87a8-a93dbd0839b0",
       "job_url": "https://jobsglitch.com/jobs/6afd7faff49226ef17f6001e",
       "source": "ashby"
@@ -3458,7 +3593,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-17T14:51:39.872",
-      "last_checked_at": "2026-11-27T03:44:48.098",
+      "last_checked_at": "2026-11-27T16:23:38.793",
       "apply_url": "https://jobs.ashbyhq.com/salesjack/64e4cd7a-a211-45df-aded-8eaaa21e271c",
       "job_url": "https://jobsglitch.com/jobs/6afda1c64bf18928271040c7",
       "source": "ashby"
@@ -3485,7 +3620,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-17T14:17:59.524",
-      "last_checked_at": "2026-11-27T12:25:31.690",
+      "last_checked_at": "2026-11-28T04:25:37.469",
       "apply_url": "https://jobs.ashbyhq.com/XDOF/eb508f6e-26fe-40f4-8fd8-1fc429d6eef1",
       "job_url": "https://jobsglitch.com/jobs/6afc7364e1dcebb7b8eade1f",
       "source": "ashby"
@@ -3512,7 +3647,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-17T09:55:08.687",
-      "last_checked_at": "2026-11-27T09:57:49.266",
+      "last_checked_at": "2026-11-28T01:58:02.730",
       "apply_url": "https://jobs.ashbyhq.com/almedia/0d206383-b90e-415b-8b70-9a13d3ff6aaa",
       "job_url": "https://jobsglitch.com/jobs/6b05f4dae1f561eb4b17bd05",
       "source": "ashby"
@@ -3542,7 +3677,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-17T07:14:47.500",
-      "last_checked_at": "2026-11-27T03:44:16.867",
+      "last_checked_at": "2026-11-27T16:17:41.511",
       "apply_url": "https://jobs.ashbyhq.com/SignalFire/7ce1ad79-3657-40ef-a95b-908a9a871268",
       "job_url": "https://jobsglitch.com/jobs/6afc18aa60e7e1f8765260b4",
       "source": "ashby"
@@ -3572,7 +3707,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-17T07:14:11.787",
-      "last_checked_at": "2026-11-27T03:44:16.867",
+      "last_checked_at": "2026-11-27T16:17:41.511",
       "apply_url": "https://jobs.ashbyhq.com/SignalFire/969b4041-ab37-4080-ac5d-a75afd74eded",
       "job_url": "https://jobsglitch.com/jobs/6afc18aa60e7e1f8765260ae",
       "source": "ashby"
@@ -3602,7 +3737,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-17T07:12:32.416",
-      "last_checked_at": "2026-11-27T03:44:16.867",
+      "last_checked_at": "2026-11-27T16:17:41.511",
       "apply_url": "https://jobs.ashbyhq.com/SignalFire/8ecc51fb-4ba0-49d9-bac0-03682e7b2230",
       "job_url": "https://jobsglitch.com/jobs/6afc18a860e7e1f87652603a",
       "source": "ashby"
@@ -3632,7 +3767,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-17T07:10:37.861",
-      "last_checked_at": "2026-11-27T03:44:16.867",
+      "last_checked_at": "2026-11-27T16:17:41.511",
       "apply_url": "https://jobs.ashbyhq.com/SignalFire/e975c01d-3b18-425a-a622-3fe7cf0ae2e3",
       "job_url": "https://jobsglitch.com/jobs/6afc18a860e7e1f876526040",
       "source": "ashby"
@@ -3659,7 +3794,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-17T05:12:22.000",
-      "last_checked_at": "2026-11-27T14:58:31.989",
+      "last_checked_at": "2026-11-28T04:54:27.113",
       "apply_url": "https://boards.greenhouse.io/aloyoga/jobs/6253648004?gh_jid=6253648004",
       "job_url": "https://jobsglitch.com/jobs/6afbf27260e7e1f87643b47e",
       "source": "greenhouse"
@@ -3686,7 +3821,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-17T05:01:31.000",
-      "last_checked_at": "2026-11-27T14:58:31.989",
+      "last_checked_at": "2026-11-28T04:54:27.113",
       "apply_url": "https://boards.greenhouse.io/aloyoga/jobs/6253642004?gh_jid=6253642004",
       "job_url": "https://jobsglitch.com/jobs/6afbf26360e7e1f87643af1d",
       "source": "greenhouse"
@@ -3713,7 +3848,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-17T01:29:10.000",
-      "last_checked_at": "2026-11-27T12:07:53.094",
+      "last_checked_at": "2026-11-28T04:08:52.785",
       "apply_url": "https://boards.greenhouse.io/blacksky/jobs/8868555002?gh_jid=8868555002",
       "job_url": "https://jobsglitch.com/jobs/6afbfb3f60e7e1f87645e30d",
       "source": "greenhouse"
@@ -3742,7 +3877,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-17T01:04:26.554",
-      "last_checked_at": "2026-11-27T10:16:40.731",
+      "last_checked_at": "2026-11-28T02:17:09.778",
       "apply_url": "https://jobs.ashbyhq.com/Crusoe/a3d090f8-63fa-4e0a-9664-7d751cffbf3e",
       "job_url": "https://jobsglitch.com/jobs/6afc0ce060e7e1f87649c05b",
       "source": "ashby"
@@ -3769,7 +3904,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T23:52:58.000",
-      "last_checked_at": "2026-11-27T03:16:18.301",
+      "last_checked_at": "2026-11-27T15:42:56.401",
       "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5283492007",
       "job_url": "https://jobsglitch.com/jobs/6afbd9f560e7e1f8763e0f72",
       "source": "greenhouse"
@@ -3796,7 +3931,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T23:29:06.000",
-      "last_checked_at": "2026-11-27T10:15:19.780",
+      "last_checked_at": "2026-11-28T02:17:55.786",
       "apply_url": "https://nuro.ai/careersitem?gh_jid=8341046",
       "job_url": "https://jobsglitch.com/jobs/6afb9fa060e7e1f8762ff409",
       "source": "greenhouse"
@@ -3823,7 +3958,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T22:42:11.380",
-      "last_checked_at": "2026-11-27T09:38:22.216",
+      "last_checked_at": "2026-11-28T01:54:03.050",
       "apply_url": "https://jobs.ashbyhq.com/vinci/8a0659bf-5cf0-4e90-b06a-a60c9f755f65",
       "job_url": "https://jobsglitch.com/jobs/6b094f8e26fa9ee04b25259a",
       "source": "ashby"
@@ -3848,7 +3983,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T22:36:44.000",
-      "last_checked_at": "2026-11-27T05:33:06.958",
+      "last_checked_at": "2026-11-27T17:48:26.902",
       "apply_url": "https://job-boards.greenhouse.io/coherehealth/jobs/8203550003",
       "job_url": "https://jobsglitch.com/jobs/6afbed1560e7e1f876426d28",
       "source": "greenhouse"
@@ -3875,7 +4010,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T22:18:25.810",
-      "last_checked_at": "2026-11-27T01:13:27.143",
+      "last_checked_at": "2026-11-28T06:14:09.768",
       "apply_url": "https://jobs.ashbyhq.com/mercor/ea913b66-0995-49d9-a8a9-2d4b9538a776",
       "job_url": "https://jobsglitch.com/jobs/6afc12b260e7e1f8764df8c6",
       "source": "ashby"
@@ -3903,7 +4038,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T21:46:23.000",
-      "last_checked_at": "2026-11-27T03:54:15.426",
+      "last_checked_at": "2026-11-27T19:47:34.263",
       "apply_url": "https://job-boards.greenhouse.io/stackadapt/jobs/4509494009",
       "job_url": "https://jobsglitch.com/jobs/6afbc1c860e7e1f876383d80",
       "source": "greenhouse"
@@ -3930,7 +4065,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T21:29:01.000",
-      "last_checked_at": "2026-11-27T03:45:57.067",
+      "last_checked_at": "2026-11-27T20:06:57.225",
       "apply_url": "https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4753663005",
       "job_url": "https://jobsglitch.com/jobs/6afba93560e7e1f876324235",
       "source": "greenhouse"
@@ -3957,7 +4092,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T21:04:56.000",
-      "last_checked_at": "2026-11-27T08:17:58.302",
+      "last_checked_at": "2026-11-28T00:18:20.904",
       "apply_url": "https://job-boards.greenhouse.io/ncamerica/jobs/4509426009",
       "job_url": "https://jobsglitch.com/jobs/6afb9ce460e7e1f8762efd56",
       "source": "greenhouse"
@@ -3982,7 +4117,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T20:59:45.000",
-      "last_checked_at": "2026-11-27T12:08:12.119",
+      "last_checked_at": "2026-11-28T04:09:44.648",
       "apply_url": "https://www.coinbase.com/careers/positions/8286487?gh_jid=8286487",
       "job_url": "https://jobsglitch.com/jobs/6afc0c7460e7e1f87649800a",
       "source": "greenhouse"
@@ -4010,7 +4145,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T20:49:41.257",
-      "last_checked_at": "2026-11-27T07:04:49.911",
+      "last_checked_at": "2026-11-27T19:17:53.498",
       "apply_url": "https://jobs.ashbyhq.com/snowflake/850fe52e-5137-4fbb-966a-ef8e89cf6245",
       "job_url": "https://jobsglitch.com/jobs/6afc12a760e7e1f8764df378",
       "source": "ashby"
@@ -4037,7 +4172,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T20:26:18.000",
-      "last_checked_at": "2026-11-27T04:34:06.958",
+      "last_checked_at": "2026-11-27T20:34:45.680",
       "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8336944",
       "job_url": "https://jobsglitch.com/jobs/6afbaa8260e7e1f87632bce6",
       "source": "greenhouse"
@@ -4064,7 +4199,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T20:15:21.000",
-      "last_checked_at": "2026-11-27T11:01:05.604",
+      "last_checked_at": "2026-11-28T03:01:25.677",
       "apply_url": "https://job-boards.greenhouse.io/datagrail/jobs/8204094003",
       "job_url": "https://jobsglitch.com/jobs/6afc0ce460e7e1f87649c25a",
       "source": "greenhouse"
@@ -4089,7 +4224,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T20:13:16.789",
-      "last_checked_at": "2026-11-27T12:05:20.647",
+      "last_checked_at": "2026-11-28T04:05:47.870",
       "apply_url": "https://jobs.ashbyhq.com/swarmaero/a6a64e50-7420-4da0-838d-e6c02cc073dc",
       "job_url": "https://jobsglitch.com/jobs/6afc166760e7e1f87650a5ee",
       "source": "ashby"
@@ -4116,7 +4251,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T20:00:15.234",
-      "last_checked_at": "2026-11-27T07:26:28.456",
+      "last_checked_at": "2026-11-27T23:26:38.872",
       "apply_url": "https://jobs.ashbyhq.com/plaid/8315280a-2498-4b41-9b98-621a61c1f4dc",
       "job_url": "https://jobsglitch.com/jobs/6afc148260e7e1f8764f1e45",
       "source": "ashby"
@@ -4143,7 +4278,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T19:16:32.241",
-      "last_checked_at": "2026-11-27T00:07:47.014",
+      "last_checked_at": "2026-11-27T16:08:55.105",
       "apply_url": "https://jobs.ashbyhq.com/applied/fab612d5-e700-4e0a-af60-44be3399dca7",
       "job_url": "https://jobsglitch.com/jobs/6afb8fc860e7e1f8762ac019",
       "source": "ashby"
@@ -4170,7 +4305,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T19:14:28.951",
-      "last_checked_at": "2026-11-27T00:07:47.014",
+      "last_checked_at": "2026-11-27T16:08:55.105",
       "apply_url": "https://jobs.ashbyhq.com/applied/ffef05ff-b607-4c96-b312-d85007716697",
       "job_url": "https://jobsglitch.com/jobs/6afb8fc860e7e1f8762ac01b",
       "source": "ashby"
@@ -4198,7 +4333,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T17:59:34.000",
-      "last_checked_at": "2026-11-27T10:06:59.783",
+      "last_checked_at": "2026-11-28T02:07:14.364",
       "apply_url": "https://job-boards.greenhouse.io/atomicmachines/jobs/4508915009",
       "job_url": "https://jobsglitch.com/jobs/6afbf79260e7e1f8764506d4",
       "source": "greenhouse"
@@ -4223,7 +4358,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T17:58:23.000",
-      "last_checked_at": "2026-11-27T12:00:50.774",
+      "last_checked_at": "2026-11-28T04:00:57.342",
       "apply_url": "https://liftoff.io/job/8383865?gh_jid=8383865",
       "job_url": "https://jobsglitch.com/jobs/6afbee3e60e7e1f87642b7f7",
       "source": "greenhouse"
@@ -4250,7 +4385,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T17:42:58.000",
-      "last_checked_at": "2026-11-27T03:16:18.301",
+      "last_checked_at": "2026-11-27T15:42:56.401",
       "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5263590007",
       "job_url": "https://jobsglitch.com/jobs/6afbd9f560e7e1f8763e0f8f",
       "source": "greenhouse"
@@ -4279,7 +4414,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T17:28:24.000",
-      "last_checked_at": "2026-11-27T12:20:38.183",
+      "last_checked_at": "2026-11-28T04:22:45.614",
       "apply_url": "https://www.weareroku.com/jobs/8393484?gh_jid=8393484",
       "job_url": "https://jobsglitch.com/jobs/6afbb35a60e7e1f876358396",
       "source": "greenhouse"
@@ -4306,7 +4441,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T17:13:40.000",
-      "last_checked_at": "2026-11-27T03:01:25.540",
+      "last_checked_at": "2026-11-27T19:01:50.653",
       "apply_url": "https://job-boards.greenhouse.io/metropolis/jobs/8197897003",
       "job_url": "https://jobsglitch.com/jobs/6afb97d360e7e1f8762d6820",
       "source": "greenhouse"
@@ -4334,7 +4469,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T17:04:53.604",
-      "last_checked_at": "2026-11-27T11:30:52.924",
+      "last_checked_at": "2026-11-28T00:32:26.545",
       "apply_url": "https://jobs.ashbyhq.com/openai/9635775d-18fa-47bb-9ede-9a4137618de0",
       "job_url": "https://jobsglitch.com/jobs/6afc0f4e60e7e1f8764b8ba1",
       "source": "ashby"
@@ -4361,9 +4496,34 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T17:04:05.418",
-      "last_checked_at": "2026-11-27T00:17:36.268",
+      "last_checked_at": "2026-11-27T16:18:01.788",
       "apply_url": "https://jobs.ashbyhq.com/sandboxaq/cc29fd7e-b3e5-4f74-af31-076cbb2d5093",
       "job_url": "https://jobsglitch.com/jobs/6afc15aa60e7e1f8765005f4",
+      "source": "ashby"
+    },
+    {
+      "id": "6b09ce23ea6c3bd126186899",
+      "company": "Gravie",
+      "title": "Senior Software Engineer, Applied AI",
+      "locations": [
+        "Remote"
+      ],
+      "countries": null,
+      "remote_friendly": true,
+      "salary": {
+        "annual_min": 134000,
+        "annual_max": 178500,
+        "currency": "USD",
+        "band": "100k-150k",
+        "min": 134000.0,
+        "max": 178500.0,
+        "period": "yearly",
+        "is_estimated": false
+      },
+      "posted_at": "2026-11-16T16:54:54.822",
+      "last_checked_at": "2026-11-27T18:38:28.582",
+      "apply_url": "https://jobs.ashbyhq.com/gravie/6ecf193d-2b2f-42ec-b873-8feff8d57594",
+      "job_url": "https://jobsglitch.com/jobs/6b09ce23ea6c3bd126186899",
       "source": "ashby"
     },
     {
@@ -4388,7 +4548,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T16:20:53.000",
-      "last_checked_at": "2026-11-27T10:20:29.580",
+      "last_checked_at": "2026-11-28T02:20:44.908",
       "apply_url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6261236004",
       "job_url": "https://jobsglitch.com/jobs/6afc0f2260e7e1f8764b578f",
       "source": "greenhouse"
@@ -4415,7 +4575,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T16:19:55.880",
-      "last_checked_at": "2026-11-27T08:59:10.117",
+      "last_checked_at": "2026-11-28T00:59:31.407",
       "apply_url": "https://jobs.ashbyhq.com/doss/4e382404-f56c-4652-b5c3-dd559d05fa31",
       "job_url": "https://jobsglitch.com/jobs/6afc0cfb60e7e1f87649cdf7",
       "source": "ashby"
@@ -4440,7 +4600,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T15:49:46.000",
-      "last_checked_at": "2026-11-27T08:12:17.518",
+      "last_checked_at": "2026-11-28T00:12:41.180",
       "apply_url": "https://job-boards.greenhouse.io/iovancebiotherapeutics/jobs/5480108008",
       "job_url": "https://jobsglitch.com/jobs/6afb37df60e7e1f876258ad7",
       "source": "greenhouse"
@@ -4494,7 +4654,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T15:15:16.718",
-      "last_checked_at": "2026-11-27T14:20:17.019",
+      "last_checked_at": "2026-11-28T06:20:29.566",
       "apply_url": "https://jobs.ashbyhq.com/temporal/dd862627-1663-414d-9820-3f05bfbd9a8a",
       "job_url": "https://jobsglitch.com/jobs/6afc168860e7e1f87650b8b4",
       "source": "ashby"
@@ -4573,7 +4733,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T14:43:45.000",
-      "last_checked_at": "2026-11-27T12:11:43.739",
+      "last_checked_at": "2026-11-28T04:12:18.430",
       "apply_url": "https://udig.com/careers/job-listing/?gh_jid=8204954003",
       "job_url": "https://jobsglitch.com/jobs/6afbeab760e7e1f87641d1ee",
       "source": "greenhouse"
@@ -4599,7 +4759,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T14:41:55.184",
-      "last_checked_at": "2026-11-25T10:15:44.327",
+      "last_checked_at": "2026-11-27T16:41:58.206",
       "apply_url": "https://insideouthiring.applytojob.com/apply/0ApT6toZ66/FullStack-AI-Engineer-Claude-Code-Job-ID-IOHAI",
       "job_url": "https://jobsglitch.com/jobs/6afb16334a5901cba799add5",
       "source": "jazzhr"
@@ -4628,7 +4788,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T14:31:50.077",
-      "last_checked_at": "2026-11-27T12:28:44.480",
+      "last_checked_at": "2026-11-28T03:15:47.597",
       "apply_url": "https://jobs.ashbyhq.com/harvey/ab302989-8958-4bdd-9110-5c13c8810986",
       "job_url": "https://jobsglitch.com/jobs/6afc0e9760e7e1f8764aead4",
       "source": "ashby"
@@ -4655,7 +4815,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T14:19:21.000",
-      "last_checked_at": "2026-11-27T03:58:46.595",
+      "last_checked_at": "2026-11-27T20:09:23.023",
       "apply_url": "https://ionq.com/job?gh_jid=6223708004",
       "job_url": "https://jobsglitch.com/jobs/6afbea2060e7e1f87641b2d7",
       "source": "greenhouse"
@@ -4682,7 +4842,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T14:14:58.000",
-      "last_checked_at": "2026-11-27T09:15:11.758",
+      "last_checked_at": "2026-11-28T01:15:43.596",
       "apply_url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5296167007",
       "job_url": "https://jobsglitch.com/jobs/6afbff2a60e7e1f87646b77e",
       "source": "greenhouse"
@@ -4709,7 +4869,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T13:28:38.000",
-      "last_checked_at": "2026-11-27T03:05:19.547",
+      "last_checked_at": "2026-11-27T19:06:14.008",
       "apply_url": "http://www.squarespace.com/about/careers?gh_jid=8392753",
       "job_url": "https://jobsglitch.com/jobs/6afbc19b60e7e1f876382fe8",
       "source": "greenhouse"
@@ -4736,7 +4896,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T13:27:49.000",
-      "last_checked_at": "2026-11-27T03:05:19.547",
+      "last_checked_at": "2026-11-27T19:06:14.008",
       "apply_url": "http://www.squarespace.com/about/careers?gh_jid=8392750",
       "job_url": "https://jobsglitch.com/jobs/6afbc19b60e7e1f876382fe7",
       "source": "greenhouse"
@@ -4763,7 +4923,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T13:19:35.127",
-      "last_checked_at": "2026-11-26T20:02:22.166",
+      "last_checked_at": "2026-11-27T15:19:01.057",
       "apply_url": "https://henryscheinone.applytojob.com/apply/3QaWB5DTyP/Staff-Software-Engineer",
       "job_url": "https://jobsglitch.com/jobs/6afb02e74a5901cba794fc1b",
       "source": "jazzhr"
@@ -4796,7 +4956,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T10:55:20.253",
-      "last_checked_at": "2026-11-27T01:14:37.279",
+      "last_checked_at": "2026-11-27T17:14:59.284",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/4c316774-abea-47d9-b681-5fdc005e4229",
       "job_url": "https://jobsglitch.com/jobs/6afc141260e7e1f8764ee5d6",
       "source": "ashby"
@@ -4825,7 +4985,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T10:31:16.278",
-      "last_checked_at": "2026-11-27T09:53:08.911",
+      "last_checked_at": "2026-11-28T01:53:33.636",
       "apply_url": "https://jobs.ashbyhq.com/cohere/c4192057-43fa-45c9-a40e-6f29131bf11d",
       "job_url": "https://jobsglitch.com/jobs/6afc0cd660e7e1f87649bc3c",
       "source": "ashby"
@@ -4906,7 +5066,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T03:56:25.009",
-      "last_checked_at": "2026-11-27T09:02:59.763",
+      "last_checked_at": "2026-11-28T01:03:11.403",
       "apply_url": "https://jobs.ashbyhq.com/aureliussystems/87871475-1913-4636-ace2-f7a557b1d64e",
       "job_url": "https://jobsglitch.com/jobs/6afaa7d264d46c1ef103f75d",
       "source": "ashby"
@@ -4937,7 +5097,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T03:43:19.614",
-      "last_checked_at": "2026-11-27T01:14:37.279",
+      "last_checked_at": "2026-11-27T17:14:59.284",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/849874fd-ccb4-4d7e-8551-29c5a418e2c7",
       "job_url": "https://jobsglitch.com/jobs/6afc141260e7e1f8764ee5d0",
       "source": "ashby"
@@ -4964,7 +5124,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-16T02:38:52.604",
-      "last_checked_at": "2026-11-27T06:06:37.095",
+      "last_checked_at": "2026-11-27T18:51:55.084",
       "apply_url": "https://jobs.ashbyhq.com/airwallex/9ef670e4-5767-42d0-91d1-6addace2cb67",
       "job_url": "https://jobsglitch.com/jobs/6afaa41d64d46c1ef10302a6",
       "source": "ashby"
@@ -5018,7 +5178,7 @@
         "is_estimated": false
       },
       "posted_at": "2026-11-15T18:57:24.000",
-      "last_checked_at": "2026-11-27T08:05:27.070",
+      "last_checked_at": "2026-11-28T00:05:41.772",
       "apply_url": "https://job-boards.greenhouse.io/ernesta/jobs/4729640006",
       "job_url": "https://jobsglitch.com/jobs/6afa89e864d46c1ef1fe54bf",
       "source": "greenhouse"
@@ -5049,195 +5209,6 @@
       "apply_url": "https://jobs.ashbyhq.com/Clera/41abd2dc-cca2-4369-8e13-44f40c0cb9ac",
       "job_url": "https://jobsglitch.com/jobs/6afa980764d46c1ef10094cb",
       "source": "ashby"
-    },
-    {
-      "id": "6afacc5c4a5901cba7880590",
-      "company": "ServiceNow",
-      "title": "Senior Staff ML Engineer, AI Safeguards",
-      "locations": [
-        "Mountain View, CALIFORNIA, United States"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote_friendly": false,
-      "salary": {
-        "annual_min": 201300,
-        "annual_max": 352300,
-        "currency": "USD",
-        "band": "200k+",
-        "min": 201300.0,
-        "max": 352300.0,
-        "period": "yearly",
-        "is_estimated": false
-      },
-      "posted_at": "2026-11-13T22:17:21.261",
-      "last_checked_at": "2026-11-27T13:58:59.697",
-      "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161587319-senior-staff-ml-engineer-ai-safeguards-moveworks",
-      "job_url": "https://jobsglitch.com/jobs/6afacc5c4a5901cba7880590",
-      "source": "smartrecruiters"
-    },
-    {
-      "id": "6afacc5c4a5901cba7880591",
-      "company": "ServiceNow",
-      "title": "Staff Security Engineer (Compliance)",
-      "locations": [
-        "Mountain View, CALIFORNIA, United States"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote_friendly": false,
-      "salary": {
-        "annual_min": 176100,
-        "annual_max": 308200,
-        "currency": "USD",
-        "band": "150k-200k",
-        "min": 176100.0,
-        "max": 308200.0,
-        "period": "yearly",
-        "is_estimated": false
-      },
-      "posted_at": "2026-11-13T22:15:43.215",
-      "last_checked_at": "2026-11-27T13:58:59.697",
-      "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161585342-staff-security-engineer-compliance-moveworks",
-      "job_url": "https://jobsglitch.com/jobs/6afacc5c4a5901cba7880591",
-      "source": "smartrecruiters"
-    },
-    {
-      "id": "6afacc5c4a5901cba7880592",
-      "company": "ServiceNow",
-      "title": "Senior Staff Security Engineer, AI Safeguards",
-      "locations": [
-        "Mountain View, CALIFORNIA, United States"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote_friendly": false,
-      "salary": {
-        "annual_min": 201300,
-        "annual_max": 352300,
-        "currency": "USD",
-        "band": "200k+",
-        "min": 201300.0,
-        "max": 352300.0,
-        "period": "yearly",
-        "is_estimated": false
-      },
-      "posted_at": "2026-11-13T22:13:21.431",
-      "last_checked_at": "2026-11-27T13:58:59.697",
-      "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161586589-senior-staff-security-engineer-ai-safeguards-moveworks",
-      "job_url": "https://jobsglitch.com/jobs/6afacc5c4a5901cba7880592",
-      "source": "smartrecruiters"
-    },
-    {
-      "id": "6afa854388b8390c0be99b4f",
-      "company": "NBCUniversal",
-      "title": "Staff DevOps Engineer",
-      "locations": [
-        "New York, NEW YORK, United States"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote_friendly": true,
-      "salary": {
-        "annual_min": 130000,
-        "annual_max": 160000,
-        "currency": "USD",
-        "band": "100k-150k",
-        "min": 130000.0,
-        "max": 160000.0,
-        "period": "yearly",
-        "is_estimated": false
-      },
-      "posted_at": "2026-11-13T21:51:24.159",
-      "last_checked_at": "2026-11-16T04:32:00.991",
-      "apply_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161582329-staff-devops-engineer",
-      "job_url": "https://jobsglitch.com/jobs/6afa854388b8390c0be99b4f",
-      "source": "smartrecruiters"
-    },
-    {
-      "id": "6afa0cbc88b8390c0be4ee28",
-      "company": "Google",
-      "title": "Staff Research Data Scientist, Discover Experience",
-      "locations": [
-        "Mountain View, CA, USA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote_friendly": null,
-      "salary": {
-        "annual_min": 207000,
-        "annual_max": 300000,
-        "currency": "USD",
-        "band": "200k+",
-        "min": 207000.0,
-        "max": 300000.0,
-        "period": "yearly",
-        "is_estimated": false
-      },
-      "posted_at": "2026-11-13T20:40:42.000",
-      "last_checked_at": "2026-11-16T06:37:31.323",
-      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/102523852533179078-staff-research-data-scientist-discover-experience",
-      "job_url": "https://jobsglitch.com/jobs/6afa0cbc88b8390c0be4ee28",
-      "source": "google"
-    },
-    {
-      "id": "6afa0c4788b8390c0be4db33",
-      "company": "Google",
-      "title": "Senior Software Engineer, AI/ML, Platforms and Devices",
-      "locations": [
-        "Mountain View, CA, USA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote_friendly": null,
-      "salary": {
-        "annual_min": 174000,
-        "annual_max": 252000,
-        "currency": "USD",
-        "band": "150k-200k",
-        "min": 174000.0,
-        "max": 252000.0,
-        "period": "yearly",
-        "is_estimated": false
-      },
-      "posted_at": "2026-11-13T19:39:23.000",
-      "last_checked_at": "2026-11-16T06:37:31.323",
-      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/133213970843476678-senior-software-engineer-ai-ml-platforms-and-devices",
-      "job_url": "https://jobsglitch.com/jobs/6afa0c4788b8390c0be4db33",
-      "source": "google"
-    },
-    {
-      "id": "6afa0d3288b8390c0be4fef7",
-      "company": "Google",
-      "title": "Staff Software Engineer, Infrastructure, Platforms Infrastructure Engineering",
-      "locations": [
-        "Sunnyvale, CA, USA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote_friendly": null,
-      "salary": {
-        "annual_min": 207000,
-        "annual_max": 300000,
-        "currency": "USD",
-        "band": "200k+",
-        "min": 207000.0,
-        "max": 300000.0,
-        "period": "yearly",
-        "is_estimated": false
-      },
-      "posted_at": "2026-11-13T18:37:40.000",
-      "last_checked_at": "2026-11-16T06:37:31.323",
-      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/87607328034955974-staff-software-engineer-infrastructure-platforms-infrastructure-engineering",
-      "job_url": "https://jobsglitch.com/jobs/6afa0d3288b8390c0be4fef7",
-      "source": "google"
     }
   ]
 }
